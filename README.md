@@ -126,11 +126,13 @@ Alfred Tejeda
 
 - Joan
 
+- Charly Gauto
+
 ------------
 
 
 
-## Libros*
+## Libros
 
 - [Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información")
 
@@ -140,6 +142,37 @@ Alfred Tejeda
 - Fundamentos de pruebas de software
 
 - Guia practica para testing en devops
+
+[ENG]
+- The Scrum Field Guide, Agile advice for your first year and beyond - Why you might want to move your company to Agile and great practical advice on how to do it.
+
+- Fifty quick ideas to improve your Tests 
+
+- Software Testing: An ISTQB-BCS Certified Tester Foundation guide
+
+- Agile Testing: A Practical Guide
+
+- Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing
+
+- The Domain Testing Workbook
+
+- Don't Make Me Think: A Common Sense Approach to Web Usability
+
+- Lessons Learned in Software Testin
+
+- UI is Communication - How to make intuitive User Interfaces (UI and Usability Testing).
+
+- Chaos Engineering: Crash test your applications
+
+- Testing JavaScript Applications
+
+- Chaos Engineering
+
+- The Art of Unit Testing, Third Edition
+
+- Testing Web APIs
+
+- Effective Software Testing
 
 ------------
 
@@ -409,4 +442,9 @@ https://simple-books-api.glitch.me <- api bearertoken auth
 REPOSITORIOS CONTRIBUYENTES:
 https://github.com/BMayhew/awesome-sites-to-test-on#mobile-testing
 https://github.com/TheJambo/awesome-testing#books
+
+
+
+
+
 
