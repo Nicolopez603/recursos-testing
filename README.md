@@ -1,6 +1,6 @@
 # Recursos sobre Testing
 
-> El Repositorio contiene material y su objetivo principal es **compartirlo** el material que encontré en estos meses de investigacion y aprendizaje, se va a ir actualizando a medida que encuentre más informacion y/o quieran aportar material
+> El objetivo principal es **compartirlo** . El material que encontré en estos meses de investigacion y aprendizaje, se va a ir actualizando a medida que encuentre más informacion y/o quieran aportar material
 
 ![Testing](https://www.tecnologias-informacion.com/stesting.jpg "Testing")
 
@@ -27,6 +27,7 @@ Paginas para practicar  | Pages to practice
 
 > #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
 
+> ESP
 
 -   [Canal: Testing para todos](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
 
@@ -72,126 +73,13 @@ Paginas para practicar  | Pages to practice
 
 - [Canal: Testing en Chile](https://www.youtube.com/channel/UCIzidbV0wqGaQmRbux_o31Q/videos "Canal: Testing en Chile")
 
-
-------------
-
-
-
-## Linkedin*
-
-
-Diego Gavilanes 
-
-Damian Pereira
-
-Charly Gauto
-
-Joan Media
-
-Patricio Miner
-
-Esteban Balvin
-
-Nadia Cavalleri
-
-Pablo Soifer
-
-Leo Corrales
-
-Karine Ramos
-
-Matias Pirez
-
-Elyer Maldonado
-
-Alfred Tejeda
-
-
-##  [Comunidades]
-
-- [QA Dominicana](https://www.linkedin.com/company/qa-dominicana/about/ "QA Dominicana")
-
-- [Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
-
-
-------------
-
-## Twitter*
-
-- Under-Test
-
-- Pablo Soifer
-
-- Patricio Miner
-
-- Joan
-
-- Charly Gauto
-
-------------
-
-
-
-## Libros
-
-- [Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información")
-
-
-- Accesibilidad Web
-
-- Fundamentos de pruebas de software
-
-- Guia practica para testing en devops
-
-[ENG]
-- The Scrum Field Guide, Agile advice for your first year and beyond - Why you might want to move your company to Agile and great practical advice on how to do it.
-
-- Fifty quick ideas to improve your Tests 
-
-- Software Testing: An ISTQB-BCS Certified Tester Foundation guide
-
-- Agile Testing: A Practical Guide
-
-- Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing
-
-- The Domain Testing Workbook
-
-- Don't Make Me Think: A Common Sense Approach to Web Usability
-
-- Lessons Learned in Software Testin
-
-- UI is Communication - How to make intuitive User Interfaces (UI and Usability Testing).
-
-- Chaos Engineering: Crash test your applications
-
-- Testing JavaScript Applications
-
-- Chaos Engineering
-
-- The Art of Unit Testing, Third Edition
-
-- Testing Web APIs
-
-- Effective Software Testing
-
-------------
-
-## Podcast
-
-- [La Escuela del Testing](https://www.laescueladeltesting.com/podcast "La Escuela del Testing")
-
-
-- [PerfBytes](https://www.spreaker.com/show/perfbytes-esp "PerfBytes")
-
-
-- [QAFE Talks:](https://open.spotify.com/show/1SZSBczwlq7jqDYr1UQYmm "QAFE Talks:")
-
-
-- [Testers por el mundo:](https://open.spotify.com/show/6iKsfKfotb73t7jYCpygst?si=1de643ceaec842a0&nd=1 "Testers por el mundo:")
+> ENG
 
 ------------
 
 ## Paginas & Blogs
+
+> ESP
 
 - [Federico-toledo.com](https://www.federico-toledo.com/category/blog/ "Federico-toledo.com")
 
@@ -229,6 +117,147 @@ Alfred Tejeda
 - [blog.winstoncastillo.com](https://blog.winstoncastillo.com/ "blog.winstoncastillo.com")
 
 - [testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda")
+
+> ENG
+
+- [Ministryoftesting.com](https://www.ministryoftesting.com/dojo "ministryoftesting.com")
+
+- [Testguild.com](https://testguild.com/ "testguild.com")
+
+----------------
+
+## Libros
+
+> ESP
+
+- [Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información")
+
+
+- Accesibilidad Web
+
+- Fundamentos de pruebas de software
+
+- Guia practica para testing en devops
+
+> ENG
+
+- The Scrum Field Guide, Agile advice for your first year and beyond - Why you might want to move your company to Agile and great practical advice on how to do it.
+
+- Fifty quick ideas to improve your Tests 
+
+- Software Testing: An ISTQB-BCS Certified Tester Foundation guide
+
+- Agile Testing: A Practical Guide
+
+- Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing
+
+- The Domain Testing Workbook
+
+- Don't Make Me Think: A Common Sense Approach to Web Usability
+
+- Lessons Learned in Software Testin
+
+- UI is Communication - How to make intuitive User Interfaces (UI and Usability Testing).
+
+- Chaos Engineering: Crash test your applications
+
+- Testing JavaScript Applications
+
+- Chaos Engineering
+
+- The Art of Unit Testing, Third Edition
+
+- Testing Web APIs
+
+- Effective Software Testing
+
+- Book Entrerprise Continous Testing
+
+- Automation Ebook Final
+
+------------
+
+
+## Linkedin
+
+> ESP
+
+Diego Gavilanes
+
+Damian Pereira
+
+Charly Gauto
+
+Joan Media
+
+Patricio Miner
+
+Esteban Balvin
+
+Nadia Cavalleri
+
+Pablo Soifer
+
+Leo Corrales
+
+Karine Ramos
+
+Matias Pirez
+
+Elyer Maldonado
+
+Alfred Tejeda
+
+> ENG
+
+----------
+
+##  [Comunidades]
+
+- [QA Dominicana](https://www.linkedin.com/company/qa-dominicana/about/ "QA Dominicana")
+
+- [Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
+
+
+------------
+
+## Twitter
+
+- Under-Test
+
+- Pablo Soifer
+
+- Patricio Miner
+
+- Joan
+
+- Charly Gauto
+
+
+------------
+
+## Podcast
+
+> ESP
+
+- [La Escuela del Testing](https://www.laescueladeltesting.com/podcast "La Escuela del Testing")
+
+
+- [PerfBytes](https://www.spreaker.com/show/perfbytes-esp "PerfBytes")
+
+
+- [QAFE Talks:](https://open.spotify.com/show/1SZSBczwlq7jqDYr1UQYmm "QAFE Talks:")
+
+
+- [Testers por el mundo:](https://open.spotify.com/show/6iKsfKfotb73t7jYCpygst?si=1de643ceaec842a0&nd=1 "Testers por el mundo:")
+
+> ENG
+
+- [Ministry of Testing](https://www.ministryoftesting.com/dojo/podcasts "Ministry of Testing")
+
+
+- [Abstracta Podcast](https://abstracta.us/software-testing-podcast "Abstracta Podcast")
+
 
 ------------
 
@@ -268,6 +297,9 @@ https://vimeo.com/showcase/5479902
 
 ### Paginas para practicar
 ## Indice
+
+> El 90% son paginas en Ingles
+
 - Security Testing
 
 - Mobile Testing
@@ -398,16 +430,15 @@ https://vimeo.com/showcase/5479902
 
 - [RestCountries.com](https://restcountries.com/ "RestCountries.com") - An API with countries and their information.
 
+- [API NASA](api.nasa.gov "API NASA")
+
+- [Simple Book](https://simple-books-api.glitch.me "Simple Book")
 ------------
 
 
 ingles
 
-revisar:
 
-https://github.com/BMayhew/awesome-sites-to-test-on
-
-https://github.com/TheJambo/awesome-testing#books
 
 paginas
 
@@ -415,35 +446,59 @@ https://www.ministryoftesting.com/dojo
 
 https://testguild.com/
 
-podcast
-https://www.ministryoftesting.com/dojo/podcasts
-
-
-https://abstracta.us/software-testing-podcast
 
 webinars:
 https://beaufortfairmont.com/webinars/
 
-Libros
+----------------
 
-Book Entrerprise Continous Testing
 
-Automation Ebook Final
+## Contents
+### Introduction
+- Test Plan Sample
+- The Road Map
+- Advices
+> Introduction:
+Testing is an essential phase in any product life cycle; whether if it's a food, cars, or software production line, the outcomes should match what's expected and meet, satisfy the need that we created the product for.
 
-**
-Paginas api
+ > Having a solid base of understanding how the software components work and integrate with each other as well as gaining the skills of breaking things is an essential skill-set for any QA engineer. Software testing is the art of investigating the software and finding any unintended behavior that might generate undesired scenarios.
 
-api.nasa.gov <- api key auth
+ > Below you can find the path for QA and software testing learning curve which you might need to start the journey.
 
-https://simple-books-api.glitch.me <- api bearertoken auth
+- Test Plan Sample
+One of the most important documents to be generated by the QA team is the test plan, as the team will acting blindly without; not knowing the criteria, the starting point, or even when to perform different testing types can risk the whole delivery and causes bad code delivery.
 
+Test plan sections and content can vary based on project and delivery nature, therefore, the attached test plan PDF is considered as a generic one that serves all software testing delivery purposes.
+
+Attached PDF can be found here[ test_plan_sample.pdf](https://github.com/fityanos/awesome-quality-assurance-roadmap/blob/master/Test_Plan_Sample.pdf " test_plan_sample.pdf") for downloading.
+
+### The Road Map
+
+![QA Engineer Road Map](https://camo.githubusercontent.com/effe849f04d06ebe638665981252a21d0edd2d0dd532130f3dac1598e87f191b/68747470733a2f2f692e696d6775722e636f6d2f634d39634d38542e706e67 "QA Engineer Road Map")
+
+
+![QA Engineer Road Map 2022](https://camo.githubusercontent.com/38dfd499f2713b4629cfe7e9eb17ceecb79dd693c91c7d61091643322602de23/68747470733a2f2f692e696d6775722e636f6d2f6d656f64414b702e706e67)
+
+Advices
+Don't trust a test code that you didn't see it failing.
+
+Understand software testing and do not jump into automation; personally, I classify automation as an efficient way to work a redundant task. make sure to properly design your test criteria and later on, you can automate to achieve the previous.
+
+Automation is not more than documenting manually written tests and engineering it in a way the code will be readable, understandable, and reusable.
+
+Make sure that your testing code is actually testing something.
+
+Your testing code shall not require testing.
+
+200~OK is not always okay; Do not rely only on server status while testing, getting 200 status for an unauthorized API call is risking your software security.
 
 
 REPOSITORIOS CONTRIBUYENTES:
 https://github.com/BMayhew/awesome-sites-to-test-on#mobile-testing
+
+https://github.com/BMayhew/awesome-sites-to-test-on
+
 https://github.com/TheJambo/awesome-testing#books
-
-
 
 
 
