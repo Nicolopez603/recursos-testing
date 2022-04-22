@@ -285,6 +285,7 @@ Alfred Tejeda
 
 ## Talks, Webinars
 
+> ESP
 
 - [Test Talks](https://vimeo.com/showcase/5479902 "Test Talks")
 https://vimeo.com/showcase/5479902
@@ -292,6 +293,10 @@ https://vimeo.com/showcase/5479902
 - [Testing CR](https://www.youtube.com/channel/UC6STAETOFgTtd3i4FRbYsHw/videos "Testing CR")
 
 - [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")
+
+> ENG
+
+https://beaufortfairmont.com/webinars/
 
 ------------
 
@@ -315,190 +320,236 @@ https://vimeo.com/showcase/5479902
 
 ## Security
 
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop") - La aplicación web moderna que está llena de vulnerabilidades y desafíos de piratería se puede ejecutar localmente a través  de docker
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop")
+La aplicación web moderna que está llena de vulnerabilidades y desafíos de piratería se puede ejecutar localmente a través  de docker
 
-- [Gruyere](https://google-gruyere.appspot.com/ "Gruyere") - Un CodeLab utilizado para la formación universitaria en torno a los exploits de aplicaciones web
+- [Gruyere](https://google-gruyere.appspot.com/ "Gruyere") 
+Un CodeLab utilizado para la formación universitaria en torno a los exploits de aplicaciones web
 
-- [bWAPP](http://www.itsecgames.com/ "bWAPP") - Downloadable web app with over 100 web vulnerabilities.
+- [bWAPP](http://www.itsecgames.com/ "bWAPP") 
+Aplicación web descargable con más de 100 vulnerabilidades web.
 
-- [Zero Bank](http://zero.webappsecurity.com/ "Zero Bank") - Demo banking website filled with security vulnerabilities.
+- [Zero Bank](http://zero.webappsecurity.com/ "Zero Bank")
+Sitio web bancario de demostración lleno de vulnerabilidades de seguridad
 
-- [Tryhackme](https://tryhackme.com/ "tryhackme.com") - Collection of guides and challenges to practice cyber security skills through the brows der (free and paid options).
+- [Tryhackme](https://tryhackme.com/ "tryhackme.com")
+Colección de guías y desafíos para practicar habilidades de ciberseguridad a través del navegador (opciones gratuitas y de pago).
 
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI "VAmPI The Vulnerable API (Based on OpenAPI 3)")
 
 
 ## Mobile Testing
 
-- [(DVIA) Damn Vulnerable iOS App](https://damnvulnerableiosapp.com/ "(DVIA) Damn Vulnerable iOS App") - DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals.
+- [(DVIA) Damn Vulnerable iOS App](https://damnvulnerableiosapp.com/ "(DVIA) Damn Vulnerable iOS App")
+DVIA es una aplicación de iOS que es muy vulnerable. Su objetivo principal es proporcionar una plataforma a los entusiastas/profesionales de la seguridad móvil.
 
-- [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile "SauceLabs Sample Apps") - Github repo that contains mobile apps that can be used for automation practice.
+- [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile "SauceLabs Sample Apps")
+Repositorio de Github que contiene aplicaciones móviles que se pueden usar para la práctica de automatización.
 
 ## Web Testing
 
-- [Automation Exercise](https://www.automationexercise.com/ "Automation Exercise") - Website with API backend and test case examples to practice automation. Built by Arjun Thakur.
+- [Automation Exercise](https://www.automationexercise.com/ "Automation Exercise")
+Sitio web con API backend y ejemplos de casos de prueba para practicar la automatización.
 
-- [Thinking Tester Contact List -](https://thinking-tester-contact-list.herokuapp.com/ "Thinking Tester Contact List -") Fresh web app with API.
+- [Thinking Tester Contact List -](https://thinking-tester-contact-list.herokuapp.com/ "Thinking Tester Contact List -")
+Aplicación web con API.
 
-- [Parking Calculator](https://www.shino.de/parkcalc/ "Parking Calculator") - Application that is simple enough to understand in 5 minutes but has plenty of bugs to keep a tester busy for hours.
+- [Parking Calculator](https://www.shino.de/parkcalc/ "Parking Calculator")
+Aplicación que es lo suficientemente simple como para entenderla en 5 minutos pero tiene muchos errores para mantener ocupado al probador durante horas.
 
-- [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/ "Black Box Puzzles") - Collection of simple puzzles that encourage exploratory testing.
+- [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/ "Black Box Puzzles")
+Colección de acertijos simples que fomentan las pruebas exploratorias.
 
-- [Sunny Meadows Bed & Breakfast ](https://automationintesting.online/#/ "Sunny Meadows Bed & Breakfast ")- A modern web app with react front end / api backend.
+- [Sunny Meadows Bed & Breakfast ](https://automationintesting.online/#/ "Sunny Meadows Bed & Breakfast ")
+Una aplicación web moderna con interfaz de reacción / backend api.
 
-- [WebSocket Echo](https://socketsbay.com/test-websockets "WebSocket Echo") - A websocket demo page to explore how websockets work.
+- [WebSocket Echo](https://socketsbay.com/test-websockets "WebSocket Echo")
+Una página de demostración de websockets para explorar cómo funcionan los websockets.
 
 - [Todo List W/Bugs](http://todolist.james.am/#/ "Todo List W/Bugs")
 
-- [Test Address Book](http://a.testaddressbook.com/ "Test Address Book") - Address book app to practice testing.
+- [Test Address Book](http://a.testaddressbook.com/ "Test Address Book")
+Aplicación de libreta de direcciones para practicar las pruebas.
 
-- [Parabank](https://parabank.parasoft.com/parabank/admin.htm "Parabank") - Bank test site for exploring SOAP, WSDL, WADL web services
+- [Parabank](https://parabank.parasoft.com/parabank/admin.htm "Parabank")
+Sitio de prueba del banco para explorar servicios web SOAP, WSDL, WADL
 
-- [Presta Shop](https://demo.prestashop.com/#/en/front "Presta Shop") - E-commerce site for testing.
+- [Presta Shop](https://demo.prestashop.com/#/en/front "Presta Shop")
+E-commerce para testing.
 
-- [Polymer Shop ](https://shop.polymer-project.org/ "Polymer Shop ")- E-commerce site.
+- [Polymer Shop ](https://shop.polymer-project.org/ "Polymer Shop ")
+E-commerce
 
-- [Travel Agileway ](http://travel.agileway.net/login "Travel Agileway ")- A site worth exploring along with a series of automated checks.
+- [Travel Agileway ](http://travel.agileway.net/login "Travel Agileway ")
+Un sitio que vale la pena explorar junto con una serie de controles automatizados.
 
-- [Demo OpenCart](https://demo.opencart.com/ "Demo OpenCart") - Demo of open source E-commerce site.
+- [Demo OpenCart](https://demo.opencart.com/ "Demo OpenCart")
+Demo open source de un  E-commerce
 
 ## Performance Testing
 
-- [Simple Travel Agency](https://blazedemo.com/index.php "Simple Travel Agency") - BlazeMeter demo site for performance testing.
+- [Simple Travel Agency](https://blazedemo.com/index.php "Simple Travel Agency")
+Sitio de demostración de BlazeMeter para pruebas de rendimiento.
 
-- [Pet Store Web ](https://petstore.octoperf.com/actions/Catalog.action "Pet Store Web ")- Pet store for performance testing.
+- [Pet Store Web ](https://petstore.octoperf.com/actions/Catalog.action "Pet Store Web ")
+Tienda de mascotas para pruebas de rendimiento.
 
-- [Computer Database](https://computer-database.gatling.io/computers "Computer Database") - Simple site with minimal inputs to use in performance testing.
+- [Computer Database](https://computer-database.gatling.io/computers "Computer Database")
+Sitio simple con entradas mínimas para usar en las pruebas de rendimiento.
 
 ## Test Automation
 
-- [QA Automation Practice](https://qa-automation-practice.netlify.app/ "QA Automation Practice") - App that has HTML and REST API endpoints for practicing.
+- [QA Automation Practice](https://qa-automation-practice.netlify.app/ "QA Automation Practice")
+App que tiene HTML y REST API endpoints para practicar.
 
-- [Selenium Testing Tasks](http://timvroom.com/selenium/playground/ "Selenium Testing Tasks") - An interactive webpage with 17 testing tasks to practice test automation skills.
+- [Selenium Testing Tasks](http://timvroom.com/selenium/playground/ "Selenium Testing Tasks")
+Una página web interactiva con 17 tareas de prueba para practicar las habilidades de automatización de pruebas.
 
-- [Basic Calculator ](https://testsheepnz.github.io/BasicCalculator.html "Basic Calculator ")- Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
+- [Basic Calculator ](https://testsheepnz.github.io/BasicCalculator.html "Basic Calculator ")
+Calculadora con la que puede interactuar fácilmente para ejercer la cobertura de prueba, ya que hay 9 'compilaciones' que tienen diferentes errores ¿Pueden sus pruebas automatizadas encontrarlos todos?
 
-- [Shop Demo QA](https://shop.demoqa.com/ "Shop Demo QA") - Online shopping site with wishlist and cart.
+- [Shop Demo QA](https://shop.demoqa.com/ "Shop Demo QA") 
+Online shopping
 
-- [Automation Practice](http://automationpractice.com/index.php "Automation Practice") - Online shopping site.
+- [Automation Practice](http://automationpractice.com/index.php "Automation Practice") 
+Online shopping
 
-- [Sauce Demo ](https://www.saucedemo.com/ "Sauce Demo ")- Online shopping site with pre-configured logins that change system behavior.
+- [Sauce Demo ](https://www.saucedemo.com/ "Sauce Demo ")
+Online shopping con inicios de sesión preconfigurados que cambian el comportamiento del sistema.
 
-- [UI Test Automation Playground ](http://www.uitestingplayground.com/ "UI Test Automation Playground ")- Different automation pitfalls appearing in modern web applications are available to interact with.
+- [UI Test Automation Playground ](http://www.uitestingplayground.com/ "UI Test Automation Playground ")
+Los diferentes "pitfalls" de automatización que aparecen en las aplicaciones web modernas están disponibles para interactuar
 
-- [The Internet ](https://the-internet.herokuapp.com/ "The Internet ")- collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
+- [The Internet ](https://the-internet.herokuapp.com/ "The Internet ")
+Colección de escenarios comunes de automatización de pruebas, incluidas situaciones difíciles de automatizar; marcos anidados, shadow DOM, pulsaciones de teclas y DOM complicados.
 
-- [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login "XYZ Bank") - Small example bank website written in Angular.
+- [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login "XYZ Bank")
+Pequeño ejemplo de sitio web bancario escrito en Angular.
 
-- [Automate Now Sandbox ](https://automatenow.io/sandbox-automation-testing-practice-website/ "Automate Now Sandbox ")- Small single page site for practicing interactions with typical UI controls.
+- [Automate Now Sandbox ](https://automatenow.io/sandbox-automation-testing-practice-website/ "Automate Now Sandbox ")
+Sitio pequeño de una sola página para practicar interacciones con los controles típicos de la interfaz de usuario.
 
-- [Accessibility Tool Audit ](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content "Accessibility Tool Audit ")- Set of elements used for accessibility tool audit.
+- [Accessibility Tool Audit ](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content "Accessibility Tool Audit ")
+Conjunto de elementos utilizados para la auditoría de herramientas de accesibilidad
 
-- [The Lab -](http://thelab.boozang.com/ "The Lab -") powered by boozang, unique exercises to test your automation skills.
+- [The Lab -](http://thelab.boozang.com/ "The Lab -") 
+impulsado por boozang, ejercicios únicos para poner a prueba tus habilidades de automatización.
 
-- [LetCode.in ](https://letcode.in/test "LetCode.in ")- Lots of element examples for E2E test automation practice
+- [LetCode.in ](https://letcode.in/test "LetCode.in ")
+Muchos ejemplos de elementos para la práctica de automatización de pruebas E2E
 
 ## API Testing
 
-- [Restful-Booker](https://restful-booker.herokuapp.com/ "Restful-Booker") - API that emulates booking a room, with authentication and good documentation.
+- [Restful-Booker](https://restful-booker.herokuapp.com/ "Restful-Booker")
+API que emula la reserva de una habitación, con autenticación y buena documentación.
 
-- [Airport Gap](https://airportgap.dev-tester.com/ "Airport Gap") - Airport Gap is a RESTful API to help you improve your API automation testing skills.
+- [Airport Gap](https://airportgap.dev-tester.com/ "Airport Gap")
+Airport Gap es una API RESTful para ayudarlo a mejorar sus habilidades de prueba de automatización de API.
 
-- [Automation Exercise API List ](https://www.automationexercise.com/api_list "Automation Exercise API List ")- API backend and test case examples to practice automation. Built by Arjun Thakur.
+- [Automation Exercise API List ](https://www.automationexercise.com/api_list "Automation Exercise API List ")
+Backend de API y ejemplos de casos de prueba para practicar la automatización.
 
-- [Swagger Petstore](https://petstore.swagger.io/ "Swagger Petstore") - API with Swagger UI front end simulating a pet store.
+- [Swagger Petstore](https://petstore.swagger.io/ "Swagger Petstore")
+API con interfaz de usuario de Swagger que simula una tienda de mascotas.
 
-- [Req | Res ](https://reqres.in/ "Req | Res ")- A hosted REST-API ready to respond to your AJAX requests.
+- [Req | Res ](https://reqres.in/ "Req | Res ")
+Una REST-API alojada lista para responder a sus solicitudes de AJAX.
 
-- [Rick and Morty API](https://rickandmortyapi.com/graphql "Rick and Morty API") - Graphql API with Docs
+- [Rick and Morty API](https://rickandmortyapi.com/graphql "Rick and Morty API")
+API Graphql con Documentos
 
-- [Countries GraphQL](https://countries.trevorblades.com/ "Countries GraphQL") - Simple Graphql API to interact with country data - docs
+- [Countries GraphQL](https://countries.trevorblades.com/ "Countries GraphQL")
+API de Graphql simple para interactuar con datos de países - docs
 
-- [httpbin](https://httpbin.org/ "httpbin") - Simple HTTP Request & Response service.
+- [httpbin](https://httpbin.org/ "httpbin")
+Servicio simple de solicitud y respuesta HTTP.
 
-- [JSON Placeholder](https://jsonplaceholder.typicode.com/ "JSON Placeholder") - API for testing and prototyping.
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/ "JSON Placeholder")
+API para pruebas y prototipos
 
-- [TempAPI](https://tempapi.proj.me/ "TempAPI") - Create your own short lived custom API.
+- [TempAPI](https://tempapi.proj.me/ "TempAPI")
+Cree su propia API personalizada de corta duración.
 
-- [randomuser.me](https://randomuser.me/ "randomuser.me") - API that generates random user data.
+- [randomuser.me](https://randomuser.me/ "randomuser.me")
+API que genera datos de usuario aleatorios.
 
-- [Pokemon API](https://pokeapi.co/ "Pokemon API") - Restful API useful for exploring or adding automated checks against.
+- [Pokemon API](https://pokeapi.co/ "Pokemon API")
+Restful API útil para explorar o agregar comprobaciones automáticas.
 
-- [Formula One API](https://ergast.com/mrd/ "Formula One API") - API provides data for the Formula One series since 1950.
+- [Formula One API](https://ergast.com/mrd/ "Formula One API")
+API proporciona datos para la serie de Fórmula Uno desde 1950.
 
-- [Marvel API ](https://developer.marvel.com/docs "Marvel API ")- API with access to Marvel characters and comics, you will need to sign up for an API key.
+- [Marvel API ](https://developer.marvel.com/docs "Marvel API ")
+API con acceso a personajes y cómics de Marvel, deberá registrarse para obtener una clave de API.
 
-- [RestCountries.com](https://restcountries.com/ "RestCountries.com") - An API with countries and their information.
+- [RestCountries.com](https://restcountries.com/ "RestCountries.com")
+Una API con países y su información.
 
 - [API NASA](api.nasa.gov "API NASA")
 
 - [Simple Book](https://simple-books-api.glitch.me "Simple Book")
-------------
-
-
-ingles
-
-
-
-paginas
-
-https://www.ministryoftesting.com/dojo
-
-https://testguild.com/
-
-
-webinars:
-https://beaufortfairmont.com/webinars/
 
 ----------------
 
 
-## Contents
-### Introduction
-- Test Plan Sample
-- The Road Map
-- Advices
-> Introduction:
-Testing is an essential phase in any product life cycle; whether if it's a food, cars, or software production line, the outcomes should match what's expected and meet, satisfy the need that we created the product for.
+## Contenido
+- Introducción
+- Plan de Prueba
+- RoadMap
+- Consejos
 
- > Having a solid base of understanding how the software components work and integrate with each other as well as gaining the skills of breaking things is an essential skill-set for any QA engineer. Software testing is the art of investigating the software and finding any unintended behavior that might generate undesired scenarios.
+-----------
 
- > Below you can find the path for QA and software testing learning curve which you might need to start the journey.
+### Introduction:
 
-- Test Plan Sample
-One of the most important documents to be generated by the QA team is the test plan, as the team will acting blindly without; not knowing the criteria, the starting point, or even when to perform different testing types can risk the whole delivery and causes bad code delivery.
+- Testing es una fase esencial en cualquier ciclo de vida del producto; ya sea que se trate de una línea de producción de alimentos, automóviles o software, los resultados deben coincidir con lo esperado y satisfacer la necesidad para la que creamos el producto.
 
-Test plan sections and content can vary based on project and delivery nature, therefore, the attached test plan PDF is considered as a generic one that serves all software testing delivery purposes.
+- Tener una base sólida para comprender cómo funcionan los componentes del software y cómo se integran entre sí, así como adquirir las habilidades para romper cosas, es un conjunto de habilidades esenciales para cualquier ingeniero de control de calidad. La prueba de software es el arte de investigar el software y encontrar cualquier comportamiento no deseado que pueda generar escenarios no deseados.
 
-Attached PDF can be found here[ test_plan_sample.pdf](https://github.com/fityanos/awesome-quality-assurance-roadmap/blob/master/Test_Plan_Sample.pdf " test_plan_sample.pdf") for downloading.
+- A continuación, puede encontrar el camino para la curva de aprendizaje de pruebas de software y control de calidad que podría necesitar para comenzar el viaje.
+-----------------------------
 
-### The Road Map
+### Plan de Prueba
+
+- Uno de los documentos más importantes que debe generar el equipo de control de calidad es el plan de prueba, ya que el equipo actuará a ciegas sin él; no conocer los criterios, el punto de partida o incluso cuándo realizar diferentes tipos de pruebas puede poner en riesgo toda la entrega y causar una mala entrega de código
+
+- Las secciones y el contenido del plan de prueba pueden variar según el proyecto y la naturaleza de la entrega, por lo tanto, el PDF del plan de prueba adjunto se considera genérico que sirve para todos los propósitos de entrega de pruebas de software.
+
+- El PDF adjunto se puede encontrar aquí [ test_plan_sample.pdf](https://github.com/fityanos/awesome-quality-assurance-roadmap/blob/master/Test_Plan_Sample.pdf " test_plan_sample.pdf") for downloading.
+
+--------------
+
+### RoadMap
 
 ![QA Engineer Road Map](https://camo.githubusercontent.com/effe849f04d06ebe638665981252a21d0edd2d0dd532130f3dac1598e87f191b/68747470733a2f2f692e696d6775722e636f6d2f634d39634d38542e706e67 "QA Engineer Road Map")
 
 
 ![QA Engineer Road Map 2022](https://camo.githubusercontent.com/38dfd499f2713b4629cfe7e9eb17ceecb79dd693c91c7d61091643322602de23/68747470733a2f2f692e696d6775722e636f6d2f6d656f64414b702e706e67)
 
-Advices
-Don't trust a test code that you didn't see it failing.
+---------------------------
 
-Understand software testing and do not jump into automation; personally, I classify automation as an efficient way to work a redundant task. make sure to properly design your test criteria and later on, you can automate to achieve the previous.
+### Consejos
 
-Automation is not more than documenting manually written tests and engineering it in a way the code will be readable, understandable, and reusable.
+- No confíe en un código de prueba que no vio fallar.
 
-Make sure that your testing code is actually testing something.
+- Comprenda las pruebas de software y no salte a la automatización; personalmente, clasifico la automatización como una forma eficiente de trabajar una tarea redundante. asegúrese de diseñar correctamente sus criterios de prueba y, más adelante, puede automatizar para lograr lo anterior.
 
-Your testing code shall not require testing.
+- La automatización no es más que documentar pruebas escritas manualmente y diseñarlas de manera que el código sea legible, comprensible y reutilizable.
 
-200~OK is not always okay; Do not rely only on server status while testing, getting 200 status for an unauthorized API call is risking your software security.
+- Asegúrese de que su código de prueba realmente esté probando algo.
+
+- Tu testing code no requerirá testing.
+
+- 200~OK no siempre está bien; No confíe solo en el estado del servidor durante la prueba, obtener el estado 200 para una llamada API no autorizada está poniendo en riesgo la seguridad de su software.
 
 
-REPOSITORIOS CONTRIBUYENTES:
-https://github.com/BMayhew/awesome-sites-to-test-on#mobile-testing
+REPOSITORIOS DE GUIA:
 
 https://github.com/BMayhew/awesome-sites-to-test-on
 
 https://github.com/TheJambo/awesome-testing#books
+
+https://github.com/fityanos/awesome-quality-assurance-roadmap
 
 
 
