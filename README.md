@@ -1,126 +1,83 @@
-#Recursos sobre Testing
+# Recursos sobre Testing
 
+> El Repositorio contiene material y su objetivo principal es **compartirlo** el material que encontré en estos meses de investigacion y aprendizaje, se va a ir actualizando a medida que encuentre más informacion y/o quieran aportar material
 
-1. Youtube 
-2. LinkedIn
-3. Libros
-4. Podcast
-5. Paginas & Blog Informativos
-6. Slack
-7. Discord
-8. Talks / Webinars
-9. Paginas para practicar
+![Testing](https://www.tecnologias-informacion.com/stesting.jpg "Testing")
 
+### **Tabla de contenidos | Table of Contents**
 
 
-### Youtube*
-1. Canal: Testing para todos - Matías Pírez
+Español | English
+------------- | -------------
+Youtube  | Youtube
+Linkedin  | Linkedin
+Libros  | Books
+Podcast  | Podcast
+Paginas & Blog Informativos  | Informative Pages and Blog
+Slack  | Slack
+Discord  | Discord
+Talks / Webinars  | Talks / Webinars
+Paginas para practicar  | Pages to practice
+----------  | Roadmap QA
 
-Link: http://youtube.com/c/TestingParaTodos/videos
+------------
 
 
-2. Canal: Nadia Cavalleri - Nadia Soledad Cavalleri
+## Youtube
 
-Link: http://youtube.com/c/NadiaSoledadCavalleri/videos
+> #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
 
 
-3. Canal: Quality Stream - Karine Ramos
+-   [Canal: Testing para todos - Matías Pírez](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
 
-Link: http://youtube.com/c/QualityStream/videos
+-    [ Canal: Nadia Cavalleri - Nadia Soledad Cavalleri](http://youtube.com/c/NadiaSoledadCavalleri/videos " Canal: Nadia Cavalleri - Nadia Soledad Cavalleri")
 
+-    [Canal: Quality Stream - Karine Ramos](http://youtube.com/c/QualityStream/videos "Canal: Quality Stream - Karine Ramos")
 
-4. Canal: A Tester Mate @ATesterMate
+-  [Canal: A Tester Mate @ATesterMate](http://youtube.com/c/ATesterMate/videos "Canal: A Tester Mate @ATesterMate")
 
-Link: http://youtube.com/c/ATesterMate/videos
+-   [Canal: The QA Testing Channel @QATestingchannl](http://youtube.com/c/TheQATestingChannel/videos "Canal: The QA Testing Channel @QATestingchannl")
 
+-   [Canal: Charly Automatiza - Carlos Gauto](https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg/videos "Canal: Charly Automatiza - Carlos Gauto")
 
-5. Canal: The QA Testing Channel @QATestingchannl
+-    [Canal: Saitest - Elyer Maldonado](https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ "Canal: Saitest - Elyer Maldonado")
 
-Link: http://youtube.com/c/TheQATestingChannel/videos
+-   [Canal: GeekQA - Esteban Balvin]( https://www.youtube.com/c/GeekQA "Canal: GeekQA - Esteban Balvin")
 
+-    [Canal: The Free Range Tester - Patricio Miner](https://www.youtube.com/c/TheFreeRangeTester "Canal: The Free Range Tester - Patricio Miner")
 
-6. Canal: Charly Automatiza - Carlos Gauto
+-   [Canal: Draculinio - Pablo Soifer](https://www.youtube.com/c/Draculinio "Canal: Draculinio - Pablo Soifer")
 
-Link: https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg/videos
+-   [Canal: Joanmedia - Joan media](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos "Canal: Joanmedia - Joan media")
 
+### [Comunidades]
 
-7. Canal: Saitest - Elyer Maldonado
+-  [Canal: Argentesting - ArgenTesting ](https://www.youtube.com/c/Argentesting/videos "Canal: Argentesting - ArgenTesting ")
 
-Link: https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ
+-  [Canal: TestingUY - TestingUy ](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: TestingUY - TestingUy ")
 
+- [Canal: Under Test -  Under Test ](http://youtube.com/channel/UCRmodhs9u-WAk98URjaCo1w/videos "Canal: Under Test -  Under Test ")
 
-8. Canal: GeekQA - Esteban Balvin
+-  [Canal: Abstracta](http://youtube.com/c/AbstractaUS/videos "Canal: Abstracta") 
 
-Link: https://www.youtube.com/c/GeekQA
+-  [Canal: Northem Quality @](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: Northem Quality @")
 
+- [Canal: Testing Bolivia](https://www.youtube.com/channel/UCI-QIfg3XynSFKJkNXFycMg/videos "Canal: Testing Bolivia")
 
-9. Canal: The Free Range Tester - Patricio Miner
+-  [Canal: QA Dominicana](https://www.youtube.com/channel/UC6f2mFVJtUjjuGAx5jeV4jA "Canal: QA Dominicana")
 
-Link: https://www.youtube.com/c/TheFreeRangeTester
+-  [Canal: QA Minds](https://www.youtube.com/c/QAMINDS/videos "Canal: QA Minds")
 
+- [(Miercoles de QA Minders)](https://www.youtube.com/playlist?list=PLJL6iubHUeX0FoJ1g8FwAUVuaBrq-ey0p "(Miercoles de QA Minders)")
 
-10. Canal: Draculinio - Pablo Soifer
+- [Canal: Testing en Chile](https://www.youtube.com/channel/UCIzidbV0wqGaQmRbux_o31Q/videos "Canal: Testing en Chile")
 
-Link: https://www.youtube.com/c/Draculinio
 
+------------
 
-11 Canal: Joanmedia - Joan media
 
-Link: https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos
 
-
-#### [Comunidades]
-
-
-1. Canal: Argentesting - ArgenTesting - Congreso Argentino de testing
-
-Link: https://www.youtube.com/c/Argentesting/videos
-
-
-2. Canal: TestingUY - TestingUy 
-
-Link: https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos
-
-
-3. Canal: Under Test -  Under Test 
-
-Link: http://youtube.com/channel/UCRmodhs9u-WAk98URjaCo1w/videos
-
-
-4. Canal: Abstracta 
-
-Link: http://youtube.com/c/AbstractaUS/videos
-
-
-5. Canal: Northem Quality @
-
-Link: https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos
-
-
-6. Canal: Testing Bolivia
-
-Link: https://www.youtube.com/channel/UCI-QIfg3XynSFKJkNXFycMg/videos
-
-
-7. Canal: QA Dominicana
-
-Link: https://www.youtube.com/channel/UC6f2mFVJtUjjuGAx5jeV4jA
-
-
-8. Canal: QA Minds
-
-Link: https://www.youtube.com/c/QAMINDS/videos
-
-(Miercoles de QA Minders)
-https://www.youtube.com/playlist?list=PLJL6iubHUeX0FoJ1g8FwAUVuaBrq-ey0p
-
-
-9. Canal: Testing en Chile
-
-Link: https://www.youtube.com/channel/UCIzidbV0wqGaQmRbux_o31Q/videos
-
-
-### Linkedin*
+## Linkedin*
 
 
 Diego Gavilanes 
@@ -142,20 +99,25 @@ Elyer Maldonado
 Alfred Tejeda
 
 
-####  [Comunidades]
+##  [Comunidades]
 
-QA Dominicana
-https://www.linkedin.com/company/qa-dominicana/about/
+[QA Dominicana](https://www.linkedin.com/company/qa-dominicana/about/ "QA Dominicana")
+
+[Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
+
+
+------------
+
+## Twitter*
 
 Under-Test
-https://www.linkedin.com/company/under-test/
 
 
-Twitter*
+------------
 
-Under-Test
 
-### Libros*
+
+## Libros*
 
 [Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información")
 
@@ -166,111 +128,114 @@ Fundamentos de pruebas de software
 
 Guia practica para testing en devops
 
+------------
 
-### Podcast*
+## Podcast
 
-https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos
-
-https://www.laescueladeltesting.com/podcast
-
-https://open.spotify.com/show/1SZSBczwlq7jqDYr1UQYmm
-
-https://www.spreaker.com/show/perfbytes-esp
+- [La Escuela del Testing](https://www.laescueladeltesting.com/podcast "La Escuela del Testing")
 
 
-
-QAFE Talks:
-
-https://open.spotify.com/show/1SZSBczwlq7jqDYr1UQYmm
+- [PerfBytes](https://www.spreaker.com/show/perfbytes-esp "PerfBytes")
 
 
-
-Testers por el mundo:
-
-https://open.spotify.com/show/6iKsfKfotb73t7jYCpygst?si=1de643ceaec842a0&nd=1
+- [QAFE Talks:](https://open.spotify.com/show/1SZSBczwlq7jqDYr1UQYmm "QAFE Talks:")
 
 
+- [Testers por el mundo:](https://open.spotify.com/show/6iKsfKfotb73t7jYCpygst?si=1de643ceaec842a0&nd=1 "Testers por el mundo:")
 
-### Paginas & Blogs
+------------
 
-1 https://www.federico-toledo.com/category/blog/
+## Paginas & Blogs
 
-2 https://nadiacavalleri.com.ar/blog/
+- [Federico-toledo.com](https://www.federico-toledo.com/category/blog/ "Federico-toledo.com")
 
-3 https://www.freerangetesters.com/blog
-
-4 https://testingbaires.com/blog/
-
-5 https://www.qalovers.com/search?updated-max=max-results=6
-
-6 https://cl.abstracta.us/blog/
-
-7 https://unaqaenapuros.wordpress.com/
-
-8 https://alexanderandrade.net/blog/#.Ydhg8WjMLIU
-
-9 https://www.aftertest.es/
-
-10 https://jmeterenespanol.org/blog/
-
-11 https://qa.rocks/
-
-12 https://qajungle.com/
-
-13 https://elblogdesanti.com/ciencia-y-tecnologia/testing-automatizado/
-
-14 https://elminimoviable.es/
-
-15 https://blog.winstoncastillo.com/
-
-16 https://testing-tips-by-alfred-tejeda.super.site/
+- [Nadiacavalleri.com.ar]( https://nadiacavalleri.com.ar/blog/ "Nadiacavalleri.com.ar")
 
 
-### Slack *
-
-[QA MERCENARIES]
-qamercenaries.slack.com
-
-[UNDER-TEST]
-under--test.slack.com
-
-[UPEX]
-https://upexqa.slack.com/join/shared_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ
+- [Freerrangetesters.com](https://www.freerangetesters.com/blog "freerangetesters.com")
 
 
-paginas para practicar testing
+- [testingbaires.com](https://testingbaires.com/blog/ "testingbaires.com")
+
+- [Qalovers.com](https://www.qalovers.com/search?updated-max=max-results=6 "Qalovers.com")
 
 
+- [cl.abstracta.us](https://cl.abstracta.us/blog/ "cl.abstracta.us")
 
-### Discord *
-
-https://discord.com/invite/wwM9GwxmRZ <- Test Automation - Charly Automatiza
-
-https://discord.gg/S3Z4VSpR <- Free Range Testers
+- [unaqaenapuros.wordpress.com]( https://unaqaenapuros.wordpress.com/ "unaqaenapuros.wordpress.com")
 
 
-### Talks, Webinars
+- [alexanderandrade.net](https://alexanderandrade.net/blog/#.Ydhg8WjMLIU "alexanderandrade.net")
+
+- [aftertest.es](https://www.aftertest.es/ "aftertest.es")
+
+- [jmeterenespanol.org](https://jmeterenespanol.org/blog/ "jmeterenespanol.org")
+
+- [qa.rocks](https://qa.rocks/ "qa.rocks")
+
+- [qajungle.com](https://qajungle.com/ "qajungle.com")
+
+- [elblogdesanti.com]( https://elblogdesanti.com/ciencia-y-tecnologia/testing-automatizado/ "elblogdesanti.com")
 
 
-Test Talks
+- [elminimoviable.es](https://elminimoviable.es/ "elminimoviable.es")
+
+- [blog.winstoncastillo.com](https://blog.winstoncastillo.com/ "blog.winstoncastillo.com")
+
+- [testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda")
+
+------------
+
+## Slack
+
+------------
+
+- [QA MERCENARIES](qamercenaries.slack.com "[QA MERCENARIES]")
+
+
+- [UNDER-TEST](under--test.slack.com "[UNDER-TEST]")
+
+
+- [UPEX](https://upexqa.slack.com/join/shared_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ "[UPEX]")
+
+------------
+
+
+## Discord
+
+- [Test Automation - Charly Automatiza](https://discord.com/invite/wwM9GwxmRZ "Test Automation - Charly Automatiza")
+
+- [ Free Range Testers](https://discord.gg/S3Z4VSpR " Free Range Testers")
+
+
+## Talks, Webinars
+
+
+- [Test Talks](https://vimeo.com/showcase/5479902 "Test Talks")
 https://vimeo.com/showcase/5479902
 
-Testing CR
-https://www.youtube.com/channel/UC6STAETOFgTtd3i4FRbYsHw/videos
+- [Testing CR](https://www.youtube.com/channel/UC6STAETOFgTtd3i4FRbYsHw/videos "Testing CR")
 
+- [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")
 
+------------
 
 ### Paginas para practicar
-Awesome Sites To Test On
-Security Testing
-Mobile Testing
-Web Testing
-Performance Testing
-Test Automation
-API Testing
+## Indice
+- Security Testing
+
+- Mobile Testing
+
+- Web Testing
+
+- Performance Testing
+
+- Test Automation
+
+- API Testing
 
 
-##Security
+## Security
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop") - La aplicación web moderna que está llena de vulnerabilidades y desafíos de piratería se puede ejecutar localmente a través  de docker
 
@@ -287,106 +252,107 @@ API Testing
 
 ## Mobile Testing
 
-[(DVIA) Damn Vulnerable iOS App](https://damnvulnerableiosapp.com/ "(DVIA) Damn Vulnerable iOS App") - DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals.
+- [(DVIA) Damn Vulnerable iOS App](https://damnvulnerableiosapp.com/ "(DVIA) Damn Vulnerable iOS App") - DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals.
 
-[SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile "SauceLabs Sample Apps") - Github repo that contains mobile apps that can be used for automation practice.
+- [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile "SauceLabs Sample Apps") - Github repo that contains mobile apps that can be used for automation practice.
 
 ## Web Testing
 
-Automation Exercise - Website with API backend and test case examples to practice automation. Built by Arjun Thakur.
+- [Automation Exercise](https://www.automationexercise.com/ "Automation Exercise") - Website with API backend and test case examples to practice automation. Built by Arjun Thakur.
 
-Thinking Tester Contact List - Fresh web app with API.
+- [Thinking Tester Contact List -](https://thinking-tester-contact-list.herokuapp.com/ "Thinking Tester Contact List -") Fresh web app with API.
 
-Parking Calculator - Application that is simple enough to understand in 5 minutes but has plenty of bugs to keep a tester busy for hours.
+- [Parking Calculator](https://www.shino.de/parkcalc/ "Parking Calculator") - Application that is simple enough to understand in 5 minutes but has plenty of bugs to keep a tester busy for hours.
 
-Black Box Puzzles - Collection of simple puzzles that encourage exploratory testing.
-Sunny Meadows Bed & Breakfast - A modern web app with react front end / api backend.
+- [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/ "Black Box Puzzles") - Collection of simple puzzles that encourage exploratory testing.
 
-Testing Challenges - A collection of web application testing challenges.
+- [Sunny Meadows Bed & Breakfast ](https://automationintesting.online/#/ "Sunny Meadows Bed & Breakfast ")- A modern web app with react front end / api backend.
 
-WebSocket Echo - A websocket demo page to explore how websockets work.
+- [WebSocket Echo](https://socketsbay.com/test-websockets "WebSocket Echo") - A websocket demo page to explore how websockets work.
 
-OrangeHRM - Open source HR Demo site with lots of functionality.
+- [Todo List W/Bugs](http://todolist.james.am/#/ "Todo List W/Bugs")
 
-Todo List W/Bugs
+- [Test Address Book](http://a.testaddressbook.com/ "Test Address Book") - Address book app to practice testing.
 
-Test Address Book - Address book app to practice testing.
+- [Parabank](https://parabank.parasoft.com/parabank/admin.htm "Parabank") - Bank test site for exploring SOAP, WSDL, WADL web services
 
-Parabank - Bank test site for exploring SOAP, WSDL, WADL web services
+- [Presta Shop](https://demo.prestashop.com/#/en/front "Presta Shop") - E-commerce site for testing.
 
-Presta Shop - E-commerce site for testing.
+- [Polymer Shop ](https://shop.polymer-project.org/ "Polymer Shop ")- E-commerce site.
 
-Polymer Shop - E-commerce site.
+- [Travel Agileway ](http://travel.agileway.net/login "Travel Agileway ")- A site worth exploring along with a series of automated checks.
 
-Travel Agileway - A site worth exploring along with a series of automated checks.
-
-Demo OpenCart - Demo of open source E-commerce site.
+- [Demo OpenCart](https://demo.opencart.com/ "Demo OpenCart") - Demo of open source E-commerce site.
 
 ## Performance Testing
 
-Simple Travel Agency - BlazeMeter demo site for performance testing.
+- [Simple Travel Agency](https://blazedemo.com/index.php "Simple Travel Agency") - BlazeMeter demo site for performance testing.
 
-Pet Store Web - Pet store for performance testing.
+- [Pet Store Web ](https://petstore.octoperf.com/actions/Catalog.action "Pet Store Web ")- Pet store for performance testing.
 
-Computer Database - Simple site with minimal inputs to use in performance testing.
+- [Computer Database](https://computer-database.gatling.io/computers "Computer Database") - Simple site with minimal inputs to use in performance testing.
 
 ## Test Automation
 
-QA Automation Practice - App that has HTML and REST API endpoints for practicing.
-Selenium Testing Tasks - An interactive webpage with 17 testing tasks to practice test automation skills.
+- [QA Automation Practice](https://qa-automation-practice.netlify.app/ "QA Automation Practice") - App that has HTML and REST API endpoints for practicing.
 
-Basic Calculator - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
-Shop Demo QA - Online shopping site with wishlist and cart.
+- [Selenium Testing Tasks](http://timvroom.com/selenium/playground/ "Selenium Testing Tasks") - An interactive webpage with 17 testing tasks to practice test automation skills.
 
-Automation Practice - Online shopping site.
+- [Basic Calculator ](https://testsheepnz.github.io/BasicCalculator.html "Basic Calculator ")- Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 
-Sauce Demo - Online shopping site with pre-configured logins that change system behavior.
+- [Shop Demo QA](https://shop.demoqa.com/ "Shop Demo QA") - Online shopping site with wishlist and cart.
 
-UI Test Automation Playground - Different automation pitfalls appearing in modern web applications are available to interact with.
+- [Automation Practice](http://automationpractice.com/index.php "Automation Practice") - Online shopping site.
 
-The Internet - collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
-XYZ Bank - Small example bank website written in Angular.
+- [Sauce Demo ](https://www.saucedemo.com/ "Sauce Demo ")- Online shopping site with pre-configured logins that change system behavior.
 
-Automate Now Sandbox - Small single page site for practicing interactions with typical UI controls.
+- [UI Test Automation Playground ](http://www.uitestingplayground.com/ "UI Test Automation Playground ")- Different automation pitfalls appearing in modern web applications are available to interact with.
 
-Accessibility Tool Audit - Set of elements used for accessibility tool audit.
+- [The Internet ](https://the-internet.herokuapp.com/ "The Internet ")- collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
 
-The Lab - powered by boozang, unique exercises to test your automation skills.
+- [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login "XYZ Bank") - Small example bank website written in Angular.
 
-LetCode.in - Lots of element examples for E2E test automation practice
+- [Automate Now Sandbox ](https://automatenow.io/sandbox-automation-testing-practice-website/ "Automate Now Sandbox ")- Small single page site for practicing interactions with typical UI controls.
+
+- [Accessibility Tool Audit ](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content "Accessibility Tool Audit ")- Set of elements used for accessibility tool audit.
+
+- [The Lab -](http://thelab.boozang.com/ "The Lab -") powered by boozang, unique exercises to test your automation skills.
+
+- [LetCode.in ](https://letcode.in/test "LetCode.in ")- Lots of element examples for E2E test automation practice
 
 ## API Testing
 
-Restful-Booker - API that emulates booking a room, with authentication and good documentation.
+- [Restful-Booker](https://restful-booker.herokuapp.com/ "Restful-Booker") - API that emulates booking a room, with authentication and good documentation.
 
-Airport Gap - Airport Gap is a RESTful API to help you improve your API automation testing skills.
+- [Airport Gap](https://airportgap.dev-tester.com/ "Airport Gap") - Airport Gap is a RESTful API to help you improve your API automation testing skills.
 
-Automation Exercise API List - API backend and test case examples to practice automation. Built by Arjun Thakur.
+- [Automation Exercise API List ](https://www.automationexercise.com/api_list "Automation Exercise API List ")- API backend and test case examples to practice automation. Built by Arjun Thakur.
 
-Swagger Petstore - API with Swagger UI front end simulating a pet store.
+- [Swagger Petstore](https://petstore.swagger.io/ "Swagger Petstore") - API with Swagger UI front end simulating a pet store.
 
-Req | Res - A hosted REST-API ready to respond to your AJAX requests.
+- [Req | Res ](https://reqres.in/ "Req | Res ")- A hosted REST-API ready to respond to your AJAX requests.
 
-Rick and Morty API - Graphql API with Docs
+- [Rick and Morty API](https://rickandmortyapi.com/graphql "Rick and Morty API") - Graphql API with Docs
 
-Countries GraphQL - Simple Graphql API to interact with country data - docs
+- [Countries GraphQL](https://countries.trevorblades.com/ "Countries GraphQL") - Simple Graphql API to interact with country data - docs
 
-httpbin - Simple HTTP Request & Response service.
+- [httpbin](https://httpbin.org/ "httpbin") - Simple HTTP Request & Response service.
 
-JSON Placeholder - API for testing and prototyping.
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/ "JSON Placeholder") - API for testing and prototyping.
 
-TempAPI - Create your own short lived custom API.
+- [TempAPI](https://tempapi.proj.me/ "TempAPI") - Create your own short lived custom API.
 
-randomuser.me - API that generates random user data.
+- [randomuser.me](https://randomuser.me/ "randomuser.me") - API that generates random user data.
 
-Pokemon API - Restful API useful for exploring or adding automated checks against.
+- [Pokemon API](https://pokeapi.co/ "Pokemon API") - Restful API useful for exploring or adding automated checks against.
 
-Formula One API - API provides data for the Formula One series since 1950.
+- [Formula One API](https://ergast.com/mrd/ "Formula One API") - API provides data for the Formula One series since 1950.
 
-Marvel API - API with access to Marvel characters and comics, you will need to sign up for an API key.
+- [Marvel API ](https://developer.marvel.com/docs "Marvel API ")- API with access to Marvel characters and comics, you will need to sign up for an API key.
 
-RestCountries.com - An API with countries and their information.
+- [RestCountries.com](https://restcountries.com/ "RestCountries.com") - An API with countries and their information.
 
+------------
 
 
 ingles
