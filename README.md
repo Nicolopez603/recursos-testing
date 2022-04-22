@@ -28,39 +28,39 @@ Paginas para practicar  | Pages to practice
 > #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
 
 
--   [Canal: Testing para todos - Matías Pírez](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
+-   [Canal: Testing para todos](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
 
--    [ Canal: Nadia Cavalleri - Nadia Soledad Cavalleri](http://youtube.com/c/NadiaSoledadCavalleri/videos " Canal: Nadia Cavalleri - Nadia Soledad Cavalleri")
+-    [ Canal: Nadia Cavalleri](http://youtube.com/c/NadiaSoledadCavalleri/videos " Canal: Nadia Cavalleri - Nadia Soledad Cavalleri")
 
--    [Canal: Quality Stream - Karine Ramos](http://youtube.com/c/QualityStream/videos "Canal: Quality Stream - Karine Ramos")
+-    [Canal: Quality Stream](http://youtube.com/c/QualityStream/videos "Canal: Quality Stream - Karine Ramos")
 
--  [Canal: A Tester Mate @ATesterMate](http://youtube.com/c/ATesterMate/videos "Canal: A Tester Mate @ATesterMate")
+-  [Canal: A Tester Mate](http://youtube.com/c/ATesterMate/videos "Canal: A Tester Mate @ATesterMate")
 
--   [Canal: The QA Testing Channel @QATestingchannl](http://youtube.com/c/TheQATestingChannel/videos "Canal: The QA Testing Channel @QATestingchannl")
+-   [Canal: The QA Testing Channel](http://youtube.com/c/TheQATestingChannel/videos "Canal: The QA Testing Channel @QATestingchannl")
 
--   [Canal: Charly Automatiza - Carlos Gauto](https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg/videos "Canal: Charly Automatiza - Carlos Gauto")
+-   [Canal: Charly Automatiza](https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg/videos "Canal: Charly Automatiza - Carlos Gauto")
 
--    [Canal: Saitest - Elyer Maldonado](https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ "Canal: Saitest - Elyer Maldonado")
+-    [Canal: Saitest](https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ "Canal: Saitest - Elyer Maldonado")
 
--   [Canal: GeekQA - Esteban Balvin]( https://www.youtube.com/c/GeekQA "Canal: GeekQA - Esteban Balvin")
+-   [Canal: GeekQA]( https://www.youtube.com/c/GeekQA "Canal: GeekQA - Esteban Balvin")
 
--    [Canal: The Free Range Tester - Patricio Miner](https://www.youtube.com/c/TheFreeRangeTester "Canal: The Free Range Tester - Patricio Miner")
+-    [Canal: The Free Range Tester ](https://www.youtube.com/c/TheFreeRangeTester "Canal: The Free Range Tester - Patricio Miner")
 
--   [Canal: Draculinio - Pablo Soifer](https://www.youtube.com/c/Draculinio "Canal: Draculinio - Pablo Soifer")
+-   [Canal: Draculinio](https://www.youtube.com/c/Draculinio "Canal: Draculinio - Pablo Soifer")
 
--   [Canal: Joanmedia - Joan media](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos "Canal: Joanmedia - Joan media")
+-   [Canal: Joanmedia](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos "Canal: Joanmedia - Joan media")
 
 ### [Comunidades]
 
--  [Canal: Argentesting - ArgenTesting ](https://www.youtube.com/c/Argentesting/videos "Canal: Argentesting - ArgenTesting ")
+-  [Canal: Argentesting ](https://www.youtube.com/c/Argentesting/videos "Canal: Argentesting - ArgenTesting ")
 
--  [Canal: TestingUY - TestingUy ](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: TestingUY - TestingUy ")
+-  [Canal: TestingUY](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: TestingUY - TestingUy ")
 
-- [Canal: Under Test -  Under Test ](http://youtube.com/channel/UCRmodhs9u-WAk98URjaCo1w/videos "Canal: Under Test -  Under Test ")
+- [Canal: Under Test](http://youtube.com/channel/UCRmodhs9u-WAk98URjaCo1w/videos "Canal: Under Test -  Under Test ")
 
 -  [Canal: Abstracta](http://youtube.com/c/AbstractaUS/videos "Canal: Abstracta") 
 
--  [Canal: Northem Quality @](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: Northem Quality @")
+-  [Canal: Northem Quality](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: Northem Quality @")
 
 - [Canal: Testing Bolivia](https://www.youtube.com/channel/UCI-QIfg3XynSFKJkNXFycMg/videos "Canal: Testing Bolivia")
 
@@ -68,7 +68,7 @@ Paginas para practicar  | Pages to practice
 
 -  [Canal: QA Minds](https://www.youtube.com/c/QAMINDS/videos "Canal: QA Minds")
 
-- [(Miercoles de QA Minders)](https://www.youtube.com/playlist?list=PLJL6iubHUeX0FoJ1g8FwAUVuaBrq-ey0p "(Miercoles de QA Minders)")
+- -  [(Miercoles de QA Minders)](https://www.youtube.com/playlist?list=PLJL6iubHUeX0FoJ1g8FwAUVuaBrq-ey0p "(Miercoles de QA Minders)")
 
 - [Canal: Testing en Chile](https://www.youtube.com/channel/UCIzidbV0wqGaQmRbux_o31Q/videos "Canal: Testing en Chile")
 
@@ -90,9 +90,17 @@ Joan Media
 
 Patricio Miner
 
+Esteban Balvin
+
+Nadia Cavalleri
+
 Pablo Soifer
 
 Leo Corrales
+
+Karine Ramos
+
+Matias Pirez
 
 Elyer Maldonado
 
@@ -101,17 +109,22 @@ Alfred Tejeda
 
 ##  [Comunidades]
 
-[QA Dominicana](https://www.linkedin.com/company/qa-dominicana/about/ "QA Dominicana")
+- [QA Dominicana](https://www.linkedin.com/company/qa-dominicana/about/ "QA Dominicana")
 
-[Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
+- [Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
 
 
 ------------
 
 ## Twitter*
 
-Under-Test
+- Under-Test
 
+- Pablo Soifer
+
+- Patricio Miner
+
+- Joan
 
 ------------
 
@@ -119,14 +132,14 @@ Under-Test
 
 ## Libros*
 
-[Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información")
+- [Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información")
 
 
-Accesibilidad Web
+- Accesibilidad Web
 
-Fundamentos de pruebas de software
+- Fundamentos de pruebas de software
 
-Guia practica para testing en devops
+- Guia practica para testing en devops
 
 ------------
 
