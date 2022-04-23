@@ -1,24 +1,27 @@
 # Recursos sobre Testing
 
-> El objetivo principal es **compartirlo** . El material que encontré en estos meses de investigacion y aprendizaje, se va a ir actualizando a medida que encuentre más informacion y/o quieran aportar material
+El objetivo principal es **compartirlo** . El material que encontré en estos meses de investigacion y aprendizaje, se va a ir actualizando a medida que encuentre más informacion y/o quieran aportar material
+
+Finalmente, estoy seguro de que todos los que lean esta repositorio tienen algo que quieren agregar. ¡Lea la página **Cómo contribuir** y siéntase libre de agregar a la lista! Si crees que esto es útil, dale una estrella (Star) ★ .
 
 ![Testing](https://www.tecnologias-informacion.com/stesting.jpg "Testing")
 
-### **Tabla de contenidos | Table of Contents**
+### **Tabla de contenidos | Informacion**
 
 
-Español | English
+Español | Intro
 ------------- | -------------
-Youtube  | Youtube
-Linkedin  | Linkedin
-Libros  | Books
-Podcast  | Podcast
-Paginas & Blog Informativos  | Informative Pages and Blog
-Slack  | Slack
-Discord  | Discord
-Talks / Webinars  | Talks / Webinars
-Paginas para practicar  | Pages to practice
-----------  | Roadmap QA
+Youtube  | Canales Informativos
+Linkedin  | Referentes del area del Testing
+Libros  | Contenido con gran informacion
+Podcast  | Tanto de Latam como del Exterior
+Paginas & Blog Informativos  | Contenido Informativo
+Slack | Comunidades
+Discord | Comunidades
+Talks / Webinars | Contenido Informativo
+Paginas para practicar | Excelente topico a la hora de practicar
+Roadmap QA | Guia para tener en cuenta
+Herramientas | Distintas herramientas con distintos lenguajes
 
 ------------
 
@@ -141,35 +144,36 @@ Paginas para practicar  | Pages to practice
 
 > ENG
 
-- The Scrum Field Guide, Agile advice for your first year and beyond - Why you might want to move your company to Agile and great practical advice on how to do it.
 
-- Fifty quick ideas to improve your Tests 
+- Fifty quick ideas to improve your Tests - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
 
-- Software Testing: An ISTQB-BCS Certified Tester Foundation guide
+- Software Testing: An ISTQB-BCS Certified Tester Foundation guide - My go to book for people brand new to testing.
 
-- Agile Testing: A Practical Guide
+- Agile Testing: A Practical Guide - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
 
-- Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing
+- Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing - A very good book on structuring Exploratory Testing and designing tests.
 
-- The Domain Testing Workbook
+- The Domain Testing Workbook - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
 
-- Don't Make Me Think: A Common Sense Approach to Web Usability
+- Don't Make Me Think: A Common Sense Approach to Web Usability - An incredibly useful book for usability testing.
 
-- Lessons Learned in Software Testin
+- Lessons Learned in Software Testing - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
 
 - UI is Communication - How to make intuitive User Interfaces (UI and Usability Testing).
 
-- Chaos Engineering: Crash test your applications
+- Thinking, Fast and Slow - About how we make decisions and how to run experiments (experiments == tests).
 
-- Testing JavaScript Applications
+- Chaos Engineering: Crash test your applications - A book on how to design and execute controlled software failure experiments.
 
-- Chaos Engineering
+- Testing JavaScript Applications - A book about JavaScript testing tools and techniques for developers.
 
-- The Art of Unit Testing, Third Edition
+- Chaos Engineering - A book that teaches you to design and execute controlled experiments that uncover hidden problems.
 
-- Testing Web APIs
+- The Art of Unit Testing, Third Edition - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
 
-- Effective Software Testing
+- Testing Web APIs - Guarantee the quality and consistency of your web APIs by implementing an automated testing process.
+
+- Effective Software Testing - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
 
 - Book Entrerprise Continous Testing
 
@@ -321,7 +325,7 @@ https://beaufortfairmont.com/webinars/
 ## Security
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop")
-La aplicación web moderna que está llena de vulnerabilidades y desafíos de piratería se puede ejecutar localmente a través  de docker
+Aplicación web moderna que está llena de vulnerabilidades y desafíos. Se puede ejecutar localmente a través de docker
 
 - [Gruyere](https://google-gruyere.appspot.com/ "Gruyere") 
 Un CodeLab utilizado para la formación universitaria en torno a los exploits de aplicaciones web
@@ -361,10 +365,10 @@ Aplicación que es lo suficientemente simple como para entenderla en 5 minutos p
 Colección de acertijos simples que fomentan las pruebas exploratorias.
 
 - [Sunny Meadows Bed & Breakfast ](https://automationintesting.online/#/ "Sunny Meadows Bed & Breakfast ")
-Una aplicación web moderna con interfaz de reacción / backend api.
+Aplicación web moderna con interfaz de reacción / backend api.
 
 - [WebSocket Echo](https://socketsbay.com/test-websockets "WebSocket Echo")
-Una página de demostración de websockets para explorar cómo funcionan los websockets.
+Página de demostración de websockets para explorar cómo funcionan los websockets.
 
 - [Todo List W/Bugs](http://todolist.james.am/#/ "Todo List W/Bugs")
 
@@ -372,7 +376,7 @@ Una página de demostración de websockets para explorar cómo funcionan los web
 Aplicación de libreta de direcciones para practicar las pruebas.
 
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm "Parabank")
-Sitio de prueba del banco para explorar servicios web SOAP, WSDL, WADL
+Web de prueba del banco para explorar servicios web SOAP, WSDL, WADL
 
 - [Presta Shop](https://demo.prestashop.com/#/en/front "Presta Shop")
 E-commerce para testing.
@@ -381,7 +385,6 @@ E-commerce para testing.
 E-commerce
 
 - [Travel Agileway ](http://travel.agileway.net/login "Travel Agileway ")
-Un sitio que vale la pena explorar junto con una serie de controles automatizados.
 
 - [Demo OpenCart](https://demo.opencart.com/ "Demo OpenCart")
 Demo open source de un  E-commerce
@@ -491,11 +494,15 @@ Una API con países y su información.
 
 ----------------
 
+## Roadmap
 
-## Contenido
+### Contenido
 - Introducción
+
 - Plan de Prueba
-- RoadMap
+
+- Roadmap
+
 - Consejos
 
 -----------
@@ -519,7 +526,7 @@ Una API con países y su información.
 
 --------------
 
-### RoadMap
+### Roadmap
 
 ![QA Engineer Road Map](https://camo.githubusercontent.com/effe849f04d06ebe638665981252a21d0edd2d0dd532130f3dac1598e87f191b/68747470733a2f2f692e696d6775722e636f6d2f634d39634d38542e706e67 "QA Engineer Road Map")
 
@@ -542,8 +549,139 @@ Una API con países y su información.
 
 - 200~OK no siempre está bien; No confíe solo en el estado del servidor durante la prueba, obtener el estado 200 para una llamada API no autorizada está poniendo en riesgo la seguridad de su software.
 
+## Herramientas
+
+> - El material de los repositorios esta en ingles, pero no es un obstaculo usando Google Translate ¡Animesé!
+
+
+> ENG
+
+### Contenido
+
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme "Visual Regression Testing") - Asegura que los cambios no rompieron la funcionalidad o el estilo.
+
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme "Selenium") - Framework y ecosistema de automatización del navegador de código abierto.
+
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme "Appium ")- Herramienta de automatización de pruebas para aplicaciones.
+
+- [TAP ](https://github.com/sindresorhus/awesome-tap#readme "TAP ")- Test Anything Protocol.
+
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme "JMeter") - Herramienta de prueba de carga y medición de rendimiento.
+
+- [k6](https://github.com/grafana/awesome-k6#readme "k6") - Solución de prueba de carga y supervisión del rendimiento centrada en el desarrollador y de código abierto.
+
+- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme "Playwright") - Biblioteca Node.js para automatizar Chromium, Firefox y WebKit con una única API.
+
+- [Gatling](https://github.com/aliesbelik/awesome-gatling#readme "Gatling") - Framework de rendimiento y carga de código abierto basado en Scala, Akka y Netty.
+
+
+---------------------
+
+## Contributing
+### Your contributions are always welcome!
+
+- Anyone can contribute to this list, just make sure you follow the below guidelines.
+For contributing, open an issue and/or create a pull request.
+
+### Guidelines
+- Add one link per Pull Request.
+
+- Add the link: - [RESOURCE](LINK) - DESCRIPTION.
+
+- End descriptions with a full stop.
+
+- Descriptions are optional but keep them concise if you add any.
+
+- Add a section if needed.
+
+- Add the section description.
+
+- Add the section title to Table of Contents.
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+
+- Make sure there are no dead URLs in your submission.
+
+- Check your spelling and grammar.
+
+- Remove any trailing whitespace.
+
+- If there is a merge conflict, please rebase and resolve the conflicts and then submit the PR again.
+
+### Thank you for your contributions.
+
+-------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 REPOSITORIOS DE GUIA:
+
+
+
+
+
+
+
+
+
 
 https://github.com/BMayhew/awesome-sites-to-test-on
 
