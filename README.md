@@ -1,27 +1,34 @@
 # Recursos sobre Testing
 
-El objetivo principal es **compartirlo** . El material que encontré en estos meses de investigacion y aprendizaje, se va a ir actualizando a medida que encuentre más informacion y/o quieran aportar material
-
-Finalmente, estoy seguro de que todos los que lean esta repositorio tienen algo que quieren agregar. ¡Lea la página **Cómo contribuir** y siéntase libre de agregar a la lista! Si crees que esto es útil, dale una estrella (Star) ★ .
-
 ![Testing](https://www.tecnologias-informacion.com/stesting.jpg "Testing")
 
-### **Tabla de contenidos | Informacion**
+--------
+
+- #### El objetivo principal de este repositorio es **compartir** el material para la investigacion y aprendizaje, se va a ir actualizando a medida que se encuentre más informacion y/o quieran aportar respectivamente. El material se divide en ESP (Español) y ENG (English)
+
+- #### Finalmente: Estoy seguro de que todos los que se encuentren con este repositorio tienen algo que quieren aportar. ¡Lea la ultima seccion sobre **Cómo contribuir** y siéntase libre de agregar a la lista lo que desee!
+
+- #### Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
+
+-------
 
 
-Español | Intro
+## `Tabla de Contenido`
+
+
+Español | Introduccion
 ------------- | -------------
-Youtube  | Canales Informativos
-Linkedin  | Referentes del area del Testing
-Libros  | Contenido con gran informacion
-Podcast  | Tanto de Latam como del Exterior
-Paginas & Blog Informativos  | Contenido Informativo
-Slack | Comunidades
-Discord | Comunidades
-Talks / Webinars | Contenido Informativo
-Paginas para practicar | Excelente topico a la hora de practicar
-Roadmap QA | Guia para tener en cuenta
-Herramientas | Distintas herramientas con distintos lenguajes
+[`Youtube`](#Youtube)  | Canales Informativos
+[`Linkedin`](#Linkedin)  | Referentes del area del Testing
+[`Libros`](#Libros)  | Contenido con gran informacion
+[`Podcast`](#Podcast)  | Tanto de Latam como del Exterior
+[`Paginas-Blog-Informativos`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes
+[`Slack`](#Slack) | Comunidades para hacer Networking
+[`Discord`](#Discord) | Comunidades para hacer Networking
+[`Talks-Webinars`](#Talks-Webinars) | Contenido Informativo
+[`Paginas-para-practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar
+[`Roadmap-QA`](#Roadmap-QA) | Guia para tener en cuenta
+[`Herramientas`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks
 
 ------------
 
@@ -30,7 +37,7 @@ Herramientas | Distintas herramientas con distintos lenguajes
 
 > #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
 
-> ESP
+> ESP 
 
 -   [Canal: Testing para todos](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
 
@@ -129,7 +136,7 @@ Herramientas | Distintas herramientas con distintos lenguajes
 
 ----------------
 
-## Libros
+## Libros :tw-1f4da:
 
 > ESP
 
@@ -535,7 +542,7 @@ Una API con países y su información.
 
 ---------------------------
 
-### Consejos
+### Recomendaciones
 
 - No confíe en un código de prueba que no vio fallar.
 
@@ -548,6 +555,8 @@ Una API con países y su información.
 - Tu testing code no requerirá testing.
 
 - 200~OK no siempre está bien; No confíe solo en el estado del servidor durante la prueba, obtener el estado 200 para una llamada API no autorizada está poniendo en riesgo la seguridad de su software.
+
+---------------
 
 ## Herramientas
 
@@ -577,97 +586,58 @@ Una API con países y su información.
 
 ---------------------
 
-## Contributing
-### Your contributions are always welcome!
+## Contribuyendo
+### ¡Sus contribuciones son siempre bienvenidas!
 
-- Anyone can contribute to this list, just make sure you follow the below guidelines.
-For contributing, open an issue and/or create a pull request.
+- Cualquiera puede contribuir a esta lista, sólo asegúrate de seguir las siguientes directrices.
+Para contribuir, abra una cuestión y/o cree una solicitud de extracción.
 
 ### Guidelines
-- Add one link per Pull Request.
+- Añade un enlace por Pull Request.
 
-- Add the link: - [RESOURCE](LINK) - DESCRIPTION.
+- Añade el enlace: - [RECURSO](ENLACE) - DESCRIPCIÓN.
 
-- End descriptions with a full stop.
+- Termina las descripciones con un punto.
 
-- Descriptions are optional but keep them concise if you add any.
+- Las descripciones son opcionales, pero manténgalas concisas si añade alguna.
 
-- Add a section if needed.
+- Añade una sección si es necesario.
 
-- Add the section description.
+- Añada la descripción de la sección.
 
-- Add the section title to Table of Contents.
+- Añada el título de la sección al índice de contenidos.
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Busque las sugerencias anteriores antes de hacer una nueva, ya que la suya puede ser un duplicado.
 
-- Make sure there are no dead URLs in your submission.
+- Asegúrese de que no hay URLs muertas en su presentación.
 
-- Check your spelling and grammar.
+- Revise la ortografía y la gramática.
 
-- Remove any trailing whitespace.
+- Elimine los espacios en blanco al final del texto.
 
-- If there is a merge conflict, please rebase and resolve the conflicts and then submit the PR again.
+- Si hay un conflicto de fusión, por favor vuelva a rebase y resuelva los conflictos y luego enviar el PR de nuevo.
 
-### Thank you for your contributions.
+### Gracias por sus contribuciones.
+
+
+
+-----------------------------------------------
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita un café ☕ a alguien del equipo.
+* Da las gracias públicamente 🤓.
+
+Hecho con ❤️ para ustedes =)
+
+**Nico lopez**
+
+Consultas:
+- Twitter
+- Linkedin
 
 -------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -675,20 +645,10 @@ For contributing, open an issue and/or create a pull request.
 REPOSITORIOS DE GUIA:
 
 
-
-
-
-
-
-
-
-
 https://github.com/BMayhew/awesome-sites-to-test-on
 
 https://github.com/TheJambo/awesome-testing#books
 
 https://github.com/fityanos/awesome-quality-assurance-roadmap
-
-
 
 
