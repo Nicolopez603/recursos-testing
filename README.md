@@ -4,9 +4,9 @@
 
 --------
 
-- #### El objetivo principal de este repositorio es **compartir** el material para la investigacion y aprendizaje, se va a ir actualizando a medida que se encuentre más informacion y/o quieran aportar respectivamente. El material se divide en ESP (Español) y ENG (English)
+- #### El objetivo principal de este repositorio es **compartir** el material para la investigacion y aprendizaje, se va a ir actualizando a medida que se encuentre más informacion y/o quieran aportar respectivamente. El material se divide en ESP (Español) y ENG. (English)
 
-- #### Finalmente: Estoy seguro de que todos los que se encuentren con este repositorio tienen algo que quieren aportar. ¡Lea la ultima seccion sobre **Cómo contribuir** y siéntase libre de agregar a la lista lo que desee!
+- #### Finalmente: Estoy seguro de que tod@s las personas que se encuentren con este repositorio tienen algo que quieren aportar. ¡Lea la ultima seccion sobre **Cómo contribuir** y siéntase libre de agregar a la lista lo que desee!
 
 - #### Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 
@@ -18,17 +18,17 @@
 
 Español | Introduccion
 ------------- | -------------
-[`Youtube`](#Youtube)  | Canales Informativos
-[`Linkedin`](#Linkedin)  | Referentes del area del Testing
-[`Libros`](#Libros)  | Contenido con gran informacion
-[`Podcast`](#Podcast)  | Tanto de Latam como del Exterior
-[`Paginas-Blog-Informativos`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes
-[`Slack`](#Slack) | Comunidades para hacer Networking
-[`Discord`](#Discord) | Comunidades para hacer Networking
-[`Talks-Webinars`](#Talks-Webinars) | Contenido Informativo
-[`Paginas-para-practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar
-[`Roadmap-QA`](#Roadmap-QA) | Guia para tener en cuenta
-[`Herramientas`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks
+[`Youtube`](#Youtube)  | Canales Informativos.
+[`Linkedin`](#Linkedin)  | Referentes del area del Testing.
+[`Libros`](#Libros)  | Contenido con gran informacion.
+[`Podcast`](#Podcast)  | Tanto de Latam como del Exterior.
+[`Paginas-Blog-Informativos`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes.
+[`Slack`](#Slack) | Comunidades para hacer Networking.
+[`Discord`](#Discord) | Comunidades para hacer Networking.
+[`Talks-Webinars`](#Talks-Webinars) | Contenido Informativo.
+[`Paginas-para-practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar.
+[`Roadmap-QA`](#Roadmap-QA) | Guia para tener en cuenta.
+[`Herramientas`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks.
 
 ------------
 
@@ -37,7 +37,7 @@ Español | Introduccion
 
 > #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
 
-> ESP 
+> ESP
 
 -   [Canal: Testing para todos](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
 
@@ -55,7 +55,7 @@ Español | Introduccion
 
 -   [Canal: GeekQA]( https://www.youtube.com/c/GeekQA "Canal: GeekQA - Esteban Balvin")
 
--    [Canal: The Free Range Tester ](https://www.youtube.com/c/TheFreeRangeTester "Canal: The Free Range Tester - Patricio Miner")
+-    [Canal: The Free Range Tester](https://www.youtube.com/c/TheFreeRangeTester "Canal: The Free Range Tester - Patricio Miner")
 
 -   [Canal: Draculinio](https://www.youtube.com/c/Draculinio "Canal: Draculinio - Pablo Soifer")
 
@@ -63,7 +63,7 @@ Español | Introduccion
 
 ### [Comunidades]
 
--  [Canal: Argentesting ](https://www.youtube.com/c/Argentesting/videos "Canal: Argentesting - ArgenTesting ")
+-  [Canal: Argentesting](https://www.youtube.com/c/Argentesting/videos "Canal: Argentesting - ArgenTesting ")
 
 -  [Canal: TestingUY](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: TestingUY - TestingUy ")
 
@@ -136,7 +136,7 @@ Español | Introduccion
 
 ----------------
 
-## Libros :tw-1f4da:
+## Libros
 
 > ESP
 
@@ -332,16 +332,16 @@ https://beaufortfairmont.com/webinars/
 ## Security
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop")
-Aplicación web moderna que está llena de vulnerabilidades y desafíos. Se puede ejecutar localmente a través de docker
+Aplicación web moderna que está llena de vulnerabilidades y desafíos. Se puede ejecutar localmente a través de docker.
 
 - [Gruyere](https://google-gruyere.appspot.com/ "Gruyere") 
-Un CodeLab utilizado para la formación universitaria en torno a los exploits de aplicaciones web
+Un CodeLab utilizado para la formación universitaria en torno a los exploits de aplicaciones web.
 
 - [bWAPP](http://www.itsecgames.com/ "bWAPP") 
 Aplicación web descargable con más de 100 vulnerabilidades web.
 
 - [Zero Bank](http://zero.webappsecurity.com/ "Zero Bank")
-Sitio web bancario de demostración lleno de vulnerabilidades de seguridad
+Sitio web bancario de demostración lleno de vulnerabilidades de seguridad.
 
 - [Tryhackme](https://tryhackme.com/ "tryhackme.com")
 Colección de guías y desafíos para practicar habilidades de ciberseguridad a través del navegador (opciones gratuitas y de pago).
@@ -383,18 +383,18 @@ Página de demostración de websockets para explorar cómo funcionan los websock
 Aplicación de libreta de direcciones para practicar las pruebas.
 
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm "Parabank")
-Web de prueba del banco para explorar servicios web SOAP, WSDL, WADL
+Web de prueba del banco para explorar servicios web SOAP, WSDL, WADL.
 
 - [Presta Shop](https://demo.prestashop.com/#/en/front "Presta Shop")
 E-commerce para testing.
 
 - [Polymer Shop ](https://shop.polymer-project.org/ "Polymer Shop ")
-E-commerce
+E-commerce.
 
 - [Travel Agileway ](http://travel.agileway.net/login "Travel Agileway ")
 
 - [Demo OpenCart](https://demo.opencart.com/ "Demo OpenCart")
-Demo open source de un  E-commerce
+Demo open source de un  E-commerce.
 
 ## Performance Testing
 
@@ -416,13 +416,13 @@ App que tiene HTML y REST API endpoints para practicar.
 Una página web interactiva con 17 tareas de prueba para practicar las habilidades de automatización de pruebas.
 
 - [Basic Calculator ](https://testsheepnz.github.io/BasicCalculator.html "Basic Calculator ")
-Calculadora con la que puede interactuar fácilmente para ejercer la cobertura de prueba, ya que hay 9 'compilaciones' que tienen diferentes errores ¿Pueden sus pruebas automatizadas encontrarlos todos?
+Calculadora con la que puede interactuar fácilmente para ejercer la cobertura de prueba, ya que hay 9 'compilaciones' que tienen diferentes errores ¿Pueden sus pruebas automatizadas encontrarlos todos?.
 
 - [Shop Demo QA](https://shop.demoqa.com/ "Shop Demo QA") 
-Online shopping
+Online shopping.
 
 - [Automation Practice](http://automationpractice.com/index.php "Automation Practice") 
-Online shopping
+Online shopping.
 
 - [Sauce Demo ](https://www.saucedemo.com/ "Sauce Demo ")
 Online shopping con inicios de sesión preconfigurados que cambian el comportamiento del sistema.
@@ -504,13 +504,14 @@ Una API con países y su información.
 ## Roadmap
 
 ### Contenido
-- Introducción
 
-- Plan de Prueba
+#### `Introducción`
 
-- Roadmap
+#### `Plan de Prueba`
 
-- Consejos
+#### `Roadmap`
+
+#### `Recomendaciones`
 
 -----------
 
@@ -586,16 +587,25 @@ Una API con países y su información.
 
 ---------------------
 
-## Contribuyendo
+## Contribuir
+
 ### ¡Sus contribuciones son siempre bienvenidas!
 
 - Cualquiera puede contribuir a esta lista, sólo asegúrate de seguir las siguientes directrices.
-Para contribuir, abra una cuestión y/o cree una solicitud de extracción.
 
-### Guidelines
-- Añade un enlace por Pull Request.
+### Pasos a seguir
 
-- Añade el enlace: - [RECURSO](ENLACE) - DESCRIPCIÓN.
+- Crear un Fork del repositorio.
+
+- Clonar el repositorio.
+
+- Crear una nueva rama.
+
+- Realizar los cambios.
+
+- Enviar un Pull Request.
+
+### Tener en cuenta
 
 - Termina las descripciones con un punto.
 
@@ -633,9 +643,9 @@ Hecho con ❤️ para ustedes =)
 
 **Nico lopez**
 
-Consultas:
-- Twitter
-- Linkedin
+Contacto:
+- [Twitter](https://twitter.com/dripp1ng_ "Twitter")
+- [Linkedin](https://www.linkedin.com/in/nicolas-lopez-qa/ "Linkedin")
 
 -------------------------------------------
 
