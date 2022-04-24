@@ -22,18 +22,18 @@ Español | Introduccion
 [`Linkedin`](#Linkedin)  | Referentes del area del Testing.
 [`Libros`](#Libros)  | Contenido con gran informacion.
 [`Podcast`](#Podcast)  | Tanto de Latam como del Exterior.
-[`Paginas-Blog-Informativos`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes.
+[`Paginas & Blogs`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes.
 [`Slack`](#Slack) | Comunidades para hacer Networking.
 [`Discord`](#Discord) | Comunidades para hacer Networking.
-[`Talks-Webinars`](#Talks-Webinars) | Contenido Informativo.
-[`Paginas-para-practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar.
-[`Roadmap-QA`](#Roadmap-QA) | Guia para tener en cuenta.
+[`Talks & Webinars`](#Talks-Webinars) | Contenido Informativo.
+[`Paginas para practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar.
+[`Roadmap QA`](#Roadmap-QA) | Guia para tener en cuenta.
 [`Herramientas`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks.
 
 ------------
 
 
-# Youtube ![Youtube-Icono](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/youtube.png "Youtube-Icono")
+# Youtube ![Youtube-Icon](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/youtube.png "Youtube-Icon")
 
 > #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
 
@@ -87,7 +87,7 @@ Español | Introduccion
 
 ------------
 
-# Paginas & Blogs Informativos ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png)
+# Paginas & Blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
 
 > ESP
 
@@ -131,7 +131,7 @@ Español | Introduccion
 
 ----------------
 
-# Libros ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros")
+# Libros ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
 
 > ESP
 
@@ -323,21 +323,21 @@ https://beaufortfairmont.com/webinars/
 
 
 # Paginas para practicar ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
-## Indice
+## `Contenido`
 
-> El 90% son paginas en Ingles
+- `Security Testing`
 
-- `Security-Testing`
+- `Mobile Testing`
 
-- `Mobile-Testing`
+- `Web Testing`
 
-- `Performance-Testing`
+- `Performance Testing`
 
-- `Test-Automation`
+- `Test Automation`
 
-- `API-Testing`
+- `API Testing`
 
-## Security
+## Security ![Security](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/security.png "Security")
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop")
 Aplicación web moderna que está llena de vulnerabilidades y desafíos. Se puede ejecutar localmente a través de docker.
@@ -358,7 +358,7 @@ Colección de guías y desafíos para practicar habilidades de ciberseguridad a 
 
 ------------
 
-## Mobile Testing
+## Mobile Testing ![Mobile](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/mobile.png "Mobile")
 
 - [(DVIA) Damn Vulnerable iOS App](https://damnvulnerableiosapp.com/ "(DVIA) Damn Vulnerable iOS App")
 DVIA es una aplicación de iOS que es muy vulnerable. Su objetivo principal es proporcionar una plataforma a los entusiastas/profesionales de la seguridad móvil.
@@ -409,7 +409,7 @@ Demo open source de un  E-commerce.
 
 ------------
 
-## Performance Testing
+## Performance Testing ![Performance](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/performance.png "Performance")
 
 - [Simple Travel Agency](https://blazedemo.com/index.php "Simple Travel Agency")
 Sitio de demostración de BlazeMeter para pruebas de rendimiento.
@@ -422,7 +422,7 @@ Sitio simple con entradas mínimas para usar en las pruebas de rendimiento.
 
 ------------
 
-## Test Automation
+## Test Automation ![Test-automation](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/test-automation.png "Test-automation")
 
 - [QA Automation Practice](https://qa-automation-practice.netlify.app/ "QA Automation Practice")
 App que tiene HTML y REST API endpoints para practicar.
@@ -465,7 +465,7 @@ Muchos ejemplos de elementos para la práctica de automatización de pruebas E2E
 
 ------------
 
-## API Testing
+## API Testing ![Api-testing](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/api-testing.png "Api-testing")
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/ "Restful-Booker")
 API que emula la reserva de una habitación, con autenticación y buena documentación.
@@ -501,15 +501,12 @@ Cree su propia API personalizada de corta duración.
 API que genera datos de usuario aleatorios.
 
 - [Pokemon API](https://pokeapi.co/ "Pokemon API")
-
 Restful API útil para explorar o agregar comprobaciones automáticas.
 
 - [Formula One API](https://ergast.com/mrd/ "Formula One API")
-
 API proporciona datos para la serie de Fórmula Uno desde 1950.
 
 - [Marvel API ](https://developer.marvel.com/docs "Marvel API ")
-
 API con acceso a personajes y cómics de Marvel, deberá registrarse para obtener una clave de API.
 
 - [RestCountries.com](https://restcountries.com/ "RestCountries.com")
@@ -532,14 +529,13 @@ Una API con países y su información.
 
 ### `Contenido`
 
-#### - `Introducción`
+#### `Introducción`
 
-#### - `Plan de Prueba`
+#### `Plan de Prueba`
 
-#### - `Roadmap`
+#### `Roadmap`
 
-#### - `Recomendaciones`
-
+#### `Puntos claves`
 -----------
 
 ### Introduccion:
@@ -570,21 +566,17 @@ Una API con países y su información.
 
 ---------------------------
 
-### Recomendaciones
+### Puntos claves
 
 - No confíe en un código de prueba que no vio fallar.
 
-- Comprenda las pruebas de software y no salte a la automatización; personalmente, clasifico la automatización como una forma eficiente de trabajar una tarea redundante. asegúrese de diseñar correctamente sus criterios de prueba y, más adelante, puede automatizar para lograr lo anterior.
+- Comprender las pruebas de software es la clave: nos sirve  para tener las bases y poder transicionar a la automatización.
 
 - La automatización no es más que documentar pruebas escritas manualmente y diseñarlas de manera que el código sea legible, comprensible y reutilizable.
 
 - Asegúrese de que su código de prueba realmente esté probando algo.
 
-- Tu testing code no requerirá testing.
-
-- 200~OK no siempre está bien; No confíe solo en el estado del servidor durante la prueba, obtener el estado 200 para una llamada API no autorizada está poniendo en riesgo la seguridad de su software.
-
-
+- 200~OK no siempre está bien.
 
 
 
@@ -596,7 +588,7 @@ Una API con países y su información.
 
 # Herramientas ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
 
-> - El material de los repositorios esta en ingles, pero no es un obstaculo usando Google Translate ¡Animesé!
+#### `El material de los repositorios esta en ingles, pero no es un obstaculo usando Google Translate ¡Animesé!`
 
 ### Contenido
 
