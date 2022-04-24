@@ -33,7 +33,7 @@ Español | Introduccion
 ------------
 
 
-## Youtube
+# Youtube ![Youtube-Icono](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/youtube.png "Youtube-Icono")
 
 > #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
 
@@ -87,9 +87,7 @@ Español | Introduccion
 
 ------------
 
-![Homero-Diario](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUHvUoQCmfpEK_iazKged7hFtFJUvNlfvtx48s2Yet5vxNNn3XR0hKnDUxgRFb0HZ0zs&usqp=CAU)
-
-## Paginas & Blogs
+# Paginas & Blogs Informativos ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png)
 
 > ESP
 
@@ -97,19 +95,15 @@ Español | Introduccion
 
 - [Nadiacavalleri.com.ar]( https://nadiacavalleri.com.ar/blog/ "Nadiacavalleri.com.ar")
 
-
-- [Freerrangetesters.com](https://www.freerangetesters.com/blog "freerangetesters.com")
-
+- [Freerangetesters.com](https://www.freerangetesters.com/blog "freerangetesters.com")
 
 - [testingbaires.com](https://testingbaires.com/blog/ "testingbaires.com")
 
 - [Qalovers.com](https://www.qalovers.com/search?updated-max=max-results=6 "Qalovers.com")
 
-
 - [cl.abstracta.us](https://cl.abstracta.us/blog/ "cl.abstracta.us")
 
 - [unaqaenapuros.wordpress.com]( https://unaqaenapuros.wordpress.com/ "unaqaenapuros.wordpress.com")
-
 
 - [alexanderandrade.net](https://alexanderandrade.net/blog/#.Ydhg8WjMLIU "alexanderandrade.net")
 
@@ -122,7 +116,6 @@ Español | Introduccion
 - [qajungle.com](https://qajungle.com/ "qajungle.com")
 
 - [elblogdesanti.com]( https://elblogdesanti.com/ciencia-y-tecnologia/testing-automatizado/ "elblogdesanti.com")
-
 
 - [elminimoviable.es](https://elminimoviable.es/ "elminimoviable.es")
 
@@ -138,10 +131,7 @@ Español | Introduccion
 
 ----------------
 
-## Libros
-
-
-![Homero Leyendo](https://i.ytimg.com/vi/L8kwvfNwB48/hqdefault.jpg "Homero Leyendo")
+# Libros ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros")
 
 > ESP
 
@@ -194,9 +184,7 @@ Español | Introduccion
 ------------
 
 
-## Linkedin
-
-![](https://telefe-static.akamaized.net/media/18138234/screen-shot-2011-12-12-at-4-12-52-pm.png?width=888&height=500&mode=crop)
+# Linkedin ![Linkedin](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/linkedin.png "Linkedin")
 
 > ESP
 
@@ -228,18 +216,18 @@ Alfred Tejeda
 
 > ENG
 
-----------
 
-##  [Comunidades]
+
+###  [Comunidades]
 
 - [QA Dominicana](https://www.linkedin.com/company/qa-dominicana/about/ "QA Dominicana")
 
 - [Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
 
-
 ------------
 
-## Twitter
+# Twitter ![Twitter](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/twitter.png "Twitter")
+
 
 - Under-Test
 
@@ -251,11 +239,9 @@ Alfred Tejeda
 
 - Charly Gauto
 
-
 ------------
 
-## Podcast
-
+# Podcast ![Podcast](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/podcast.png "Podcast")
 
 
 > ESP
@@ -279,11 +265,14 @@ Alfred Tejeda
 - [Abstracta Podcast](https://abstracta.us/software-testing-podcast "Abstracta Podcast")
 
 
-------------
 
-## Slack
 
 ------------
+
+
+
+# Slack ![Slack](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/slack.png "Slack")
+
 
 - [QA MERCENARIES](qamercenaries.slack.com "[QA MERCENARIES]")
 
@@ -293,17 +282,23 @@ Alfred Tejeda
 
 - [UPEX](https://upexqa.slack.com/join/shared_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ "[UPEX]")
 
+
+
+
 ------------
 
 
-## Discord
+
+
+# Discord ![Discord](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/discord.png "Discord")
+
 
 - [Test Automation - Charly Automatiza](https://discord.com/invite/wwM9GwxmRZ "Test Automation - Charly Automatiza")
 
 - [ Free Range Testers](https://discord.gg/S3Z4VSpR " Free Range Testers")
 
 
-## Talks, Webinars
+# Talks, Webinars ![Webinar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/webinars.png "Webinar")
 
 > ESP
 
@@ -318,9 +313,16 @@ https://vimeo.com/showcase/5479902
 
 https://beaufortfairmont.com/webinars/
 
+
+
+
 ------------
 
-# Paginas para practicar
+
+
+
+
+# Paginas para practicar ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
 ## Indice
 
 > El 90% son paginas en Ingles
@@ -434,7 +436,6 @@ Calculadora con la que puede interactuar fácilmente para ejercer la cobertura d
 - [Shop Demo QA](https://shop.demoqa.com/ "Shop Demo QA")
 Online shopping.
 
-
 - [Automation Practice](http://automationpractice.com/index.php "Automation Practice")
 Online shopping.
 
@@ -518,9 +519,16 @@ Una API con países y su información.
 
 - [Simple Book](https://simple-books-api.glitch.me "Simple Book")
 
+
+
+
+
 ----------------
 
-# Roadmap
+
+
+
+# Roadmap ![Roadmap](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/roadmap.png "Roadmap")
 
 ### `Contenido`
 
@@ -576,14 +584,19 @@ Una API con países y su información.
 
 - 200~OK no siempre está bien; No confíe solo en el estado del servidor durante la prueba, obtener el estado 200 para una llamada API no autorizada está poniendo en riesgo la seguridad de su software.
 
+
+
+
+
 ---------------
 
-## Herramientas
+
+
+
+
+# Herramientas ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
 
 > - El material de los repositorios esta en ingles, pero no es un obstaculo usando Google Translate ¡Animesé!
-
-
-> ENG
 
 ### Contenido
 
@@ -604,9 +617,15 @@ Una API con países y su información.
 - [`Gatling`](https://github.com/aliesbelik/awesome-gatling#readme "Gatling") - Framework de rendimiento y carga de código abierto basado en Scala, Akka y Netty.
 
 
+
+
+
 ---------------------
 
-## Contribuir
+
+
+
+# Contribuir ![Github](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/github.png "Github")
 
 ### ¡Sus contribuciones son siempre bienvenidas!
 
@@ -652,6 +671,11 @@ Una API con países y su información.
 
 -----------------------------------------------
 
+
+
+
+
+
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
@@ -666,7 +690,11 @@ Contacto:
 - [Twitter](https://twitter.com/dripp1ng_ "Twitter")
 - [Linkedin](https://www.linkedin.com/in/nicolas-lopez-qa/ "Linkedin")
 
+
+
+
 -------------------------------------------
+
 
 
 
