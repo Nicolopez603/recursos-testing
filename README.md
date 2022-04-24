@@ -87,6 +87,8 @@ Español | Introduccion
 
 ------------
 
+![Homero-Diario](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUHvUoQCmfpEK_iazKged7hFtFJUvNlfvtx48s2Yet5vxNNn3XR0hKnDUxgRFb0HZ0zs&usqp=CAU)
+
 ## Paginas & Blogs
 
 > ESP
@@ -137,6 +139,9 @@ Español | Introduccion
 ----------------
 
 ## Libros
+
+
+![Homero Leyendo](https://i.ytimg.com/vi/L8kwvfNwB48/hqdefault.jpg "Homero Leyendo")
 
 > ESP
 
@@ -190,6 +195,8 @@ Español | Introduccion
 
 
 ## Linkedin
+
+![](https://telefe-static.akamaized.net/media/18138234/screen-shot-2011-12-12-at-4-12-52-pm.png?width=888&height=500&mode=crop)
 
 > ESP
 
@@ -248,6 +255,8 @@ Alfred Tejeda
 ------------
 
 ## Podcast
+
+
 
 > ESP
 
@@ -311,33 +320,30 @@ https://beaufortfairmont.com/webinars/
 
 ------------
 
-### Paginas para practicar
+# Paginas para practicar
 ## Indice
 
 > El 90% son paginas en Ingles
 
-- Security Testing
+- `Security-Testing`
 
-- Mobile Testing
+- `Mobile-Testing`
 
-- Web Testing
+- `Performance-Testing`
 
-- Performance Testing
+- `Test-Automation`
 
-- Test Automation
-
-- API Testing
-
+- `API-Testing`
 
 ## Security
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/ "OWASP Juice Shop")
 Aplicación web moderna que está llena de vulnerabilidades y desafíos. Se puede ejecutar localmente a través de docker.
 
-- [Gruyere](https://google-gruyere.appspot.com/ "Gruyere") 
+- [Gruyere](https://google-gruyere.appspot.com/ "Gruyere")
 Un CodeLab utilizado para la formación universitaria en torno a los exploits de aplicaciones web.
 
-- [bWAPP](http://www.itsecgames.com/ "bWAPP") 
+- [bWAPP](http://www.itsecgames.com/ "bWAPP")
 Aplicación web descargable con más de 100 vulnerabilidades web.
 
 - [Zero Bank](http://zero.webappsecurity.com/ "Zero Bank")
@@ -348,6 +354,7 @@ Colección de guías y desafíos para practicar habilidades de ciberseguridad a 
 
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI "VAmPI The Vulnerable API (Based on OpenAPI 3)")
 
+------------
 
 ## Mobile Testing
 
@@ -356,6 +363,8 @@ DVIA es una aplicación de iOS que es muy vulnerable. Su objetivo principal es p
 
 - [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile "SauceLabs Sample Apps")
 Repositorio de Github que contiene aplicaciones móviles que se pueden usar para la práctica de automatización.
+
+------------
 
 ## Web Testing
 
@@ -396,6 +405,8 @@ E-commerce.
 - [Demo OpenCart](https://demo.opencart.com/ "Demo OpenCart")
 Demo open source de un  E-commerce.
 
+------------
+
 ## Performance Testing
 
 - [Simple Travel Agency](https://blazedemo.com/index.php "Simple Travel Agency")
@@ -406,6 +417,8 @@ Tienda de mascotas para pruebas de rendimiento.
 
 - [Computer Database](https://computer-database.gatling.io/computers "Computer Database")
 Sitio simple con entradas mínimas para usar en las pruebas de rendimiento.
+
+------------
 
 ## Test Automation
 
@@ -418,17 +431,18 @@ Una página web interactiva con 17 tareas de prueba para practicar las habilidad
 - [Basic Calculator ](https://testsheepnz.github.io/BasicCalculator.html "Basic Calculator ")
 Calculadora con la que puede interactuar fácilmente para ejercer la cobertura de prueba, ya que hay 9 'compilaciones' que tienen diferentes errores ¿Pueden sus pruebas automatizadas encontrarlos todos?.
 
-- [Shop Demo QA](https://shop.demoqa.com/ "Shop Demo QA") 
+- [Shop Demo QA](https://shop.demoqa.com/ "Shop Demo QA")
 Online shopping.
 
-- [Automation Practice](http://automationpractice.com/index.php "Automation Practice") 
+
+- [Automation Practice](http://automationpractice.com/index.php "Automation Practice")
 Online shopping.
 
 - [Sauce Demo ](https://www.saucedemo.com/ "Sauce Demo ")
 Online shopping con inicios de sesión preconfigurados que cambian el comportamiento del sistema.
 
 - [UI Test Automation Playground ](http://www.uitestingplayground.com/ "UI Test Automation Playground ")
-Los diferentes "pitfalls" de automatización que aparecen en las aplicaciones web modernas están disponibles para interactuar
+Los diferentes "pitfalls" de automatización que aparecen en las aplicaciones web modernas están disponibles para interactuar.
 
 - [The Internet ](https://the-internet.herokuapp.com/ "The Internet ")
 Colección de escenarios comunes de automatización de pruebas, incluidas situaciones difíciles de automatizar; marcos anidados, shadow DOM, pulsaciones de teclas y DOM complicados.
@@ -440,13 +454,15 @@ Pequeño ejemplo de sitio web bancario escrito en Angular.
 Sitio pequeño de una sola página para practicar interacciones con los controles típicos de la interfaz de usuario.
 
 - [Accessibility Tool Audit ](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content "Accessibility Tool Audit ")
-Conjunto de elementos utilizados para la auditoría de herramientas de accesibilidad
+Conjunto de elementos utilizados para la auditoría de herramientas de accesibilidad.
 
-- [The Lab -](http://thelab.boozang.com/ "The Lab -") 
+- [The Lab -](http://thelab.boozang.com/ "The Lab -")
 impulsado por boozang, ejercicios únicos para poner a prueba tus habilidades de automatización.
 
 - [LetCode.in ](https://letcode.in/test "LetCode.in ")
-Muchos ejemplos de elementos para la práctica de automatización de pruebas E2E
+Muchos ejemplos de elementos para la práctica de automatización de pruebas E2E.
+
+------------
 
 ## API Testing
 
@@ -466,16 +482,16 @@ API con interfaz de usuario de Swagger que simula una tienda de mascotas.
 Una REST-API alojada lista para responder a sus solicitudes de AJAX.
 
 - [Rick and Morty API](https://rickandmortyapi.com/graphql "Rick and Morty API")
-API Graphql con Documentos
+API Graphql con Documentos.
 
 - [Countries GraphQL](https://countries.trevorblades.com/ "Countries GraphQL")
-API de Graphql simple para interactuar con datos de países - docs
+API de Graphql simple para interactuar con datos de países - docs.
 
 - [httpbin](https://httpbin.org/ "httpbin")
 Servicio simple de solicitud y respuesta HTTP.
 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/ "JSON Placeholder")
-API para pruebas y prototipos
+API para pruebas y prototipos.
 
 - [TempAPI](https://tempapi.proj.me/ "TempAPI")
 Cree su propia API personalizada de corta duración.
@@ -484,12 +500,15 @@ Cree su propia API personalizada de corta duración.
 API que genera datos de usuario aleatorios.
 
 - [Pokemon API](https://pokeapi.co/ "Pokemon API")
+
 Restful API útil para explorar o agregar comprobaciones automáticas.
 
 - [Formula One API](https://ergast.com/mrd/ "Formula One API")
+
 API proporciona datos para la serie de Fórmula Uno desde 1950.
 
 - [Marvel API ](https://developer.marvel.com/docs "Marvel API ")
+
 API con acceso a personajes y cómics de Marvel, deberá registrarse para obtener una clave de API.
 
 - [RestCountries.com](https://restcountries.com/ "RestCountries.com")
@@ -501,21 +520,21 @@ Una API con países y su información.
 
 ----------------
 
-## Roadmap
+# Roadmap
 
-### Contenido
+### `Contenido`
 
-#### `Introducción`
+#### - `Introducción`
 
-#### `Plan de Prueba`
+#### - `Plan de Prueba`
 
-#### `Roadmap`
+#### - `Roadmap`
 
-#### `Recomendaciones`
+#### - `Recomendaciones`
 
 -----------
 
-### Introduction:
+### Introduccion:
 
 - Testing es una fase esencial en cualquier ciclo de vida del producto; ya sea que se trate de una línea de producción de alimentos, automóviles o software, los resultados deben coincidir con lo esperado y satisfacer la necesidad para la que creamos el producto.
 
@@ -568,21 +587,21 @@ Una API con países y su información.
 
 ### Contenido
 
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme "Visual Regression Testing") - Asegura que los cambios no rompieron la funcionalidad o el estilo.
+- [`Visual Regression Testing`](https://github.com/mojoaxel/awesome-regression-testing#readme "Visual Regression Testing") - Asegura que los cambios no rompieron la funcionalidad o el estilo.
 
-- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme "Selenium") - Framework y ecosistema de automatización del navegador de código abierto.
+- [`Selenium`](https://github.com/christian-bromann/awesome-selenium#readme "Selenium") - Framework y ecosistema de automatización del navegador de código abierto.
 
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme "Appium ")- Herramienta de automatización de pruebas para aplicaciones.
+- [`Appium`](https://github.com/SrinivasanTarget/awesome-appium#readme "Appium ")- Herramienta de automatización de pruebas para aplicaciones.
 
-- [TAP ](https://github.com/sindresorhus/awesome-tap#readme "TAP ")- Test Anything Protocol.
+- [`TAP`](https://github.com/sindresorhus/awesome-tap#readme "TAP ")- Test Anything Protocol.
 
-- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme "JMeter") - Herramienta de prueba de carga y medición de rendimiento.
+- [`JMeter`](https://github.com/aliesbelik/awesome-jmeter#readme "JMeter") - Herramienta de prueba de carga y medición de rendimiento.
 
-- [k6](https://github.com/grafana/awesome-k6#readme "k6") - Solución de prueba de carga y supervisión del rendimiento centrada en el desarrollador y de código abierto.
+- [`k6`](https://github.com/grafana/awesome-k6#readme "k6") - Solución de prueba de carga y supervisión del rendimiento centrada en el desarrollador y de código abierto.
 
-- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme "Playwright") - Biblioteca Node.js para automatizar Chromium, Firefox y WebKit con una única API.
+- [`Playwright`](https://github.com/mxschmitt/awesome-playwright#readme "Playwright") - Biblioteca Node.js para automatizar Chromium, Firefox y WebKit con una única API.
 
-- [Gatling](https://github.com/aliesbelik/awesome-gatling#readme "Gatling") - Framework de rendimiento y carga de código abierto basado en Scala, Akka y Netty.
+- [`Gatling`](https://github.com/aliesbelik/awesome-gatling#readme "Gatling") - Framework de rendimiento y carga de código abierto basado en Scala, Akka y Netty.
 
 
 ---------------------
