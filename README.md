@@ -10,13 +10,21 @@
 
 - #### Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 
+---------
+
+- #### The main objective of this repository is to **share** the material for research and learning, it will be updated as more information is found and/or they want to contribute respectively. The material is divided into ESP (Spanish) and ENG. (Spanish)
+
+- #### Finally: I'm sure everyone who comes across this repository has something they want to contribute. Please read the last section on **How to Contribute** and feel free to add anything to the list!
+
+- #### If you think this repository was useful to you, give it a star (Star) ★ .
+
 -------
 
 
 ## `Tabla de Contenido`
 
 
-Español | Introduccion
+ESP & ENG | Introduccion
 ------------- | -------------
 [`Youtube`](#Youtube)  | Canales Informativos.
 [`Linkedin`](#Linkedin)  | Referentes del area del Testing.
@@ -36,6 +44,8 @@ Español | Introduccion
 # Youtube ![Youtube-Icon](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/youtube.png "Youtube-Icon")
 
 > #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
+
+> #### Contains Manual & Automation Testing channels. The order is totally and purely random:
 
 > ESP
 
@@ -61,6 +71,8 @@ Español | Introduccion
 
 -   [Canal: Joanmedia](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos "Canal: Joanmedia - Joan media")
 
+- [Canal: Señor Perfomo](https://www.youtube.com/c/Se%C3%B1orPerformo/featured "Canal: Señor Perfomo")
+
 ### [Comunidades]
 
 -  [Canal: Argentesting](https://www.youtube.com/c/Argentesting/videos "Canal: Argentesting - ArgenTesting ")
@@ -85,6 +97,8 @@ Español | Introduccion
 
 > ENG
 
+[Canal: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
+
 ------------
 
 # Paginas & Blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
@@ -97,31 +111,31 @@ Español | Introduccion
 
 - [Freerangetesters.com](https://www.freerangetesters.com/blog "freerangetesters.com")
 
-- [testingbaires.com](https://testingbaires.com/blog/ "testingbaires.com")
+- [Testingbaires.com](https://testingbaires.com/blog/ "testingbaires.com")
 
-- [Qalovers.com](https://www.qalovers.com/search?updated-max=max-results=6 "Qalovers.com")
+- [QAlovers.com](https://www.qalovers.com/search?updated-max=max-results=6 "QAlovers.com")
 
-- [cl.abstracta.us](https://cl.abstracta.us/blog/ "cl.abstracta.us")
+- [CL.abstracta.us](https://cl.abstracta.us/blog/ "cl.abstracta.us")
 
-- [unaqaenapuros.wordpress.com]( https://unaqaenapuros.wordpress.com/ "unaqaenapuros.wordpress.com")
+- [Unaqaenapuros.wordpress.com]( https://unaqaenapuros.wordpress.com/ "unaqaenapuros.wordpress.com")
 
-- [alexanderandrade.net](https://alexanderandrade.net/blog/#.Ydhg8WjMLIU "alexanderandrade.net")
+- [Alexanderandrade.net](https://alexanderandrade.net/blog/#.Ydhg8WjMLIU "alexanderandrade.net")
 
-- [aftertest.es](https://www.aftertest.es/ "aftertest.es")
+- [Aftertest.es](https://www.aftertest.es/ "aftertest.es")
 
-- [jmeterenespanol.org](https://jmeterenespanol.org/blog/ "jmeterenespanol.org")
+- [Jmeterenespanol.org](https://jmeterenespanol.org/blog/ "jmeterenespanol.org")
 
-- [qa.rocks](https://qa.rocks/ "qa.rocks")
+- [QA.rocks](https://qa.rocks/ "qa.rocks")
 
-- [qajungle.com](https://qajungle.com/ "qajungle.com")
+- [QAjungle.com](https://qajungle.com/ "qajungle.com")
 
-- [elblogdesanti.com]( https://elblogdesanti.com/ciencia-y-tecnologia/testing-automatizado/ "elblogdesanti.com")
+- [Elblogdesanti.com]( https://elblogdesanti.com/ciencia-y-tecnologia/testing-automatizado/ "elblogdesanti.com")
 
-- [elminimoviable.es](https://elminimoviable.es/ "elminimoviable.es")
+- [Elminimoviable.es](https://elminimoviable.es/ "elminimoviable.es")
 
-- [blog.winstoncastillo.com](https://blog.winstoncastillo.com/ "blog.winstoncastillo.com")
+- [Blog.winstoncastillo.com](https://blog.winstoncastillo.com/ "blog.winstoncastillo.com")
 
-- [testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda")
+- [Testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda")
 
 > ENG
 
@@ -129,13 +143,17 @@ Español | Introduccion
 
 - [Testguild.com](https://testguild.com/ "testguild.com")
 
+- [Ek121268](https://ek121268.medium.com/)
+
+- [ContinuosTesting](https://continuoustesting.dev/ "ContinuosTesting")
+
 ----------------
 
 # Libros ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
 
 > ESP
 
-- [Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información")
+- [Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información") - Gratis
 
 
 - Accesibilidad Web
@@ -147,39 +165,47 @@ Español | Introduccion
 > ENG
 
 
-- Fifty quick ideas to improve your Tests - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
+- [Fifty quick ideas to improve your Tests - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments](https://www.amazon.co.uk/gp/product/0993088112/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=0993088112&linkId=0f87de675be852785ae8e4f22c6fde75 "Fifty quick ideas to improve your Tests - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments")!
 
 - Software Testing: An ISTQB-BCS Certified Tester Foundation guide - My go to book for people brand new to testing.
 
-- Agile Testing: A Practical Guide - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
+- [Agile Testing: A Practical Guide - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.](https://www.amazon.co.uk/gp/product/0321534468/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=0321534468&linkId=2329466ff07991dac63044267a6333d1 "Agile Testing: A Practical Guide - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.")
 
-- Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing - A very good book on structuring Exploratory Testing and designing tests.
+- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing - A very good book on structuring Exploratory Testing and designing tests.](https://www.amazon.co.uk/gp/product/1937785025/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=1937785025&linkId=70fb53df42614861fc877ce7030ff178 "Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing - A very good book on structuring Exploratory Testing and designing tests.")
 
-- The Domain Testing Workbook - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
+- [The Domain Testing Workbook - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better](https://www.amazon.co.uk/gp/product/0989811905/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=0989811905&linkId=53bca0de3137af05850fbe0552729ddd "The Domain Testing Workbook - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better").
 
-- Don't Make Me Think: A Common Sense Approach to Web Usability - An incredibly useful book for usability testing.
+- [Don't Make Me Think: A Common Sense Approach to Web Usability - An incredibly useful book for usability testing](https://www.amazon.co.uk/gp/product/0321965515/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=0321965515&linkId=02f9fc9cacff7f02b4250897ea0ff769 "Don't Make Me Think: A Common Sense Approach to Web Usability - An incredibly useful book for usability testing").
 
-- Lessons Learned in Software Testing - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
+- [Lessons Learned in Software Testing - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.](https://www.amazon.co.uk/gp/product/0471081124/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0471081124&linkCode=as2&tag=jamesosborn-21&linkId=2757d4e2dd5ab2266c9d8cfad1f6be60 "Lessons Learned in Software Testing - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.")
 
-- UI is Communication - How to make intuitive User Interfaces (UI and Usability Testing).
+- [UI is Communication - How to make intuitive User Interfaces (UI and Usability Testing)](https://www.amazon.co.uk/gp/product/0123969808/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=0123969808&linkId=f42ec2279e9532e96cccfe839dfcbe62 "UI is Communication - How to make intuitive User Interfaces (UI and Usability Testing)").
 
-- Thinking, Fast and Slow - About how we make decisions and how to run experiments (experiments == tests).
+- [Thinking, Fast and Slow - About how we make decisions and how to run experiments (experiments == tests)](https://www.amazon.co.uk/gp/product/0141033576/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=0141033576&linkId=c44dca706a9c2db409fd3c8f6bae0931 "Thinking, Fast and Slow - About how we make decisions and how to run experiments (experiments == tests)").
 
-- Chaos Engineering: Crash test your applications - A book on how to design and execute controlled software failure experiments.
+- [Chaos Engineering: Crash test your applications - A book on how to design and execute controlled software failure experiment](https://www.manning.com/books/chaos-engineering "Chaos Engineering: Crash test your applications - A book on how to design and execute controlled software failure experiment")s.
 
-- Testing JavaScript Applications - A book about JavaScript testing tools and techniques for developers.
+- [Testing JavaScript Applications - A book about JavaScript testing tools and techniques for developers](https://www.manning.com/books/testing-javascript-applications "Testing JavaScript Applications - A book about JavaScript testing tools and techniques for developers").
 
 - Chaos Engineering - A book that teaches you to design and execute controlled experiments that uncover hidden problems.
 
-- The Art of Unit Testing, Third Edition - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
+- [The Art of Unit Testing, Third Edition - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy](https://www.manning.com/books/the-art-of-unit-testing-third-edition "The Art of Unit Testing, Third Edition - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy").
 
-- Testing Web APIs - Guarantee the quality and consistency of your web APIs by implementing an automated testing process.
+- [Testing Web APIs - Guarantee the quality and consistency of your web APIs by implementing an automated testing process](https://www.manning.com/books/testing-web-apis "Testing Web APIs - Guarantee the quality and consistency of your web APIs by implementing an automated testing process").
 
-- Effective Software Testing - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
+- [Effective Software Testing - A hands-on guide for developers on how to create high quality tests in a systematic and effective way](https://www.manning.com/books/effective-software-testing "Effective Software Testing - A hands-on guide for developers on how to create high quality tests in a systematic and effective way").
 
 - Book Entrerprise Continous Testing
 
 - Automation Ebook Final
+
+- [A Frontend Web Developer's Guide to Testing: Explore leading web test automation frameworks and their future driven by low-code and AI](https://www.amazon.com/-/es/gp/product/B09TKYS7Y1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0 "A Frontend Web Developer's Guide to Testing: Explore leading web test automation frameworks and their future driven by low-code and AI")
+
+- [The Digital Quality Handbook: Guide for Achieving Continuous Quality in a DevOps Reality](https://www.amazon.com/-/es/gp/product/0692885994/ref=dbs_a_def_rwt_bibl_vppi_i3 "The Digital Quality Handbook: Guide for Achieving Continuous Quality in a DevOps Reality")
+
+- [Accelerating Software Quality: Machine Learning and Artificial Intelligence in the Age of DevOps](https://www.amazon.com/-/es/gp/product/B08FKWD2TR/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2 "Accelerating Software Quality: Machine Learning and Artificial Intelligence in the Age of DevOps")
+
+- [Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts](https://www.amazon.com/-/es/gp/product/B07H8PH7VB/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1 "Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts")
 
 ------------
 
@@ -188,33 +214,57 @@ Español | Introduccion
 
 > ESP
 
-Diego Gavilanes
+- Diego Gavilanes
 
-Damian Pereira
+- Damian Pereira
 
-Charly Gauto
+- Charly Gauto
 
-Joan Media
+- Joan Media
 
-Patricio Miner
+- Patricio Miner
 
-Esteban Balvin
+- Esteban Balvin
 
-Nadia Cavalleri
+- Nadia Cavalleri
 
-Pablo Soifer
+- Pablo Soifer
 
-Leo Corrales
+- Leo Corrales
 
-Karine Ramos
+- [Edgardo Crovetto](https://www.linkedin.com/in/edgardocrovetto/ "Edgardo Crovetto")
 
-Matias Pirez
+- Karine Ramos
 
-Elyer Maldonado
+- Matias Pirez
 
-Alfred Tejeda
+- Elyer Maldonado
+
+- Alfred Tejeda
 
 > ENG
+
+- [Angie Jones](https://www.linkedin.com/in/angiejones/ "Angie Jones") 
+
+- [Janet Gregory](https://www.linkedin.com/in/janetgregory/ "Janet Gregory")
+
+- [Eran Kinsbruner](https://www.linkedin.com/in/erankinsbruner/ "Eran Kinsbruner")
+
+- [Simon Prior](https://www.linkedin.com/in/simon-prior-0499372/ "Simon Prior")
+
+- [Tristan Lombard](https://www.linkedin.com/in/tristanlombard/ "Tristan Lombard")
+
+- [Erika Chestnut](https://www.linkedin.com/in/erikachestnut/ "Erika Chestnut")
+
+- [Katya Aronov](https://www.linkedin.com/in/katya-aronov/ "Katya Aronov")
+
+- [Ian Goddard](https://www.linkedin.com/in/goddardian/ "Ian Goddard")
+
+- [Julio de lima](https://www.linkedin.com/in/juliodelimas/ "Julio de lima")
+
+- [Lisi Hocke](https://www.linkedin.com/in/lisihocke/ "Lisi Hocke")
+
+- [Lisa Crispin](https://www.linkedin.com/in/lisa-crispin-88420a/ "Lisa Crispin")
 
 
 
@@ -228,16 +278,51 @@ Alfred Tejeda
 
 # Twitter ![Twitter](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/twitter.png "Twitter")
 
+[ESP]
 
-- Under-Test
+- [Under-Test](https://twitter.com/undertest_es "Under-Test")
 
 - Pablo Soifer
 
-- Patricio Miner
+- [Patricio Miner](https://twitter.com/RangeTester "Patricio Miner")
 
 - Joan
 
+- [Nadia Cavalleri](https://twitter.com/NadiaCavalleri "Nadia Cavalleri")
+
+- [Delvis Echeverria](https://twitter.com/DelvisEcheverri "Delvis Echeverria")
+
+- [Francisco Moreno](https://twitter.com/morvader "Francisco Moreno") 
+
+- [Ximena Romero](https://twitter.com/ximer81 "Ximena Romero") 
+
 - Charly Gauto
+
+- [Abel Quintana](https://twitter.com/beloquintana "Abel Quintana")
+
+- [Leonardo Espindola](https://twitter.com/espindolaleoapi "Leonardo Espindola")
+
+- [Lisandra Armas](https://twitter.com/lisyarmas "Lisandra Armas")
+
+[ENG]
+
+- [Chris Arnstrong](https://twitter.com/christovskia "Chris Arnstrong")
+
+- [Pandy Knight](https://twitter.com/AutomationPanda "Pandy Knight")
+
+- [Carlos Kidman](https://twitter.com/CarlosKidman "Carlos Kidman")
+
+- [Sanjay Kumar](https://twitter.com/SanjayKumaarr "Sanjay Kumar")
+
+- [Angie Jones](https://twitter.com/techgirl1908 "Angie Jones")
+
+- [Claudia Badell](https://twitter.com/claubs_uy "Claudia Badell")
+
+- [Paul Grossman](https://twitter.com/DarkArtsWizard "Paul Grossman")
+
+- [Paul Grizzaffi](https://twitter.com/pgrizzaffi "Paul Grizzaffi")
+
+- [Eran Kinsbruner](https://twitter.com/ek121268 "Eran Kinsbruner")
 
 ------------
 
@@ -261,12 +346,15 @@ Alfred Tejeda
 
 - [Ministry of Testing](https://www.ministryoftesting.com/dojo/podcasts "Ministry of Testing")
 
+-  [Softwaretestingpodcast](https://www.softwaretestingpodcast.com/ "Softwaretestingpodcast")
 
 - [Abstracta Podcast](https://abstracta.us/software-testing-podcast "Abstracta Podcast")
 
+- [TestGuild](https://testguild.com/podcasts/ "TestGuild")
 
+- [Testingpeers](https://testingpeers.com/ "Testingpeers")
 
-
+- [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI "AB Testing")
 ------------
 
 
@@ -305,6 +393,8 @@ Alfred Tejeda
 - [Test Talks](https://vimeo.com/showcase/5479902 "Test Talks")
 https://vimeo.com/showcase/5479902
 
+- [Mendoza Testing Day ](https://www.youtube.com/channel/UCBoEIY6cBx3g4uCvJchoDYA/videos "Mendoza Testing Day ")
+
 - [Testing CR](https://www.youtube.com/channel/UC6STAETOFgTtd3i4FRbYsHw/videos "Testing CR")
 
 - [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")
@@ -323,6 +413,7 @@ https://beaufortfairmont.com/webinars/
 
 
 # Paginas para practicar ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
+
 ## `Contenido`
 
 - `Security Testing`
