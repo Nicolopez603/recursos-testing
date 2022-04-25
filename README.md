@@ -470,7 +470,7 @@ Repositorio de Github que contiene aplicaciones móviles que se pueden usar para
 
 ------------
 
-## Web Testing
+## Web Testing ![Web-Testing](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/web-automation.png "Web-Testing")
 
 - [Automation Exercise](https://www.automationexercise.com/ "Automation Exercise")
 Sitio web con API backend y ejemplos de casos de prueba para practicar la automatización.
