@@ -99,7 +99,6 @@ ESP & ENG | Introduccion
 
 - [Canal: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
 
-------------
 
 # Paginas & Blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
 
@@ -152,7 +151,6 @@ ESP & ENG | Introduccion
 - [SoftwareTester](https://www.softwaretester.blog/ "SoftwareTester")
 
 - [AutomationPanda](https://automationpanda.com/ "AutomationPanda")
-----------------
 
 # Libros ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
 
@@ -210,9 +208,6 @@ ESP & ENG | Introduccion
 - [Accelerating Software Quality: Machine Learning and Artificial Intelligence in the Age of DevOps](https://www.amazon.com/-/es/gp/product/B08FKWD2TR/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2 "Accelerating Software Quality: Machine Learning and Artificial Intelligence in the Age of DevOps")
 
 - [Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts](https://www.amazon.com/-/es/gp/product/B07H8PH7VB/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1 "Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts")
-
-------------
-
 
 # Linkedin ![Linkedin](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/linkedin.png "Linkedin")
 
@@ -284,7 +279,6 @@ ESP & ENG | Introduccion
 
 - [ArgenTesting](https://www.linkedin.com/company/argentesting/ "ArgenTesting")
 
-------------
 
 # Twitter ![Twitter](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/twitter.png "Twitter")
 
@@ -318,6 +312,8 @@ ESP & ENG | Introduccion
 
 - [Quassure](https://twitter.com/QuassureUY "Quassure")
 
+- [MoT](https://twitter.com/ministryoftest "MoT")
+
 #### ENG
 
 - [Chris Arnstrong](https://twitter.com/christovskia "Chris Arnstrong")
@@ -340,7 +336,6 @@ ESP & ENG | Introduccion
 
 - [Delvis Echeverria](https://twitter.com/DelvisEcheverri "Delvis Echeverria")
 
-------------
 
 # Podcast ![Podcast](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/podcast.png "Podcast")
 
@@ -372,7 +367,6 @@ ESP & ENG | Introduccion
 
 - [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI "AB Testing")
 
-------------
 
 # Slack ![Slack](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/slack.png "Slack")
 
@@ -386,7 +380,11 @@ ESP & ENG | Introduccion
 
 - [UPEX](https://upexqa.slack.com/join/shared_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ "[UPEX]")
 
-------------
+#### ENG
+
+- [MinistryOfTesting](https://www.ministryoftesting.com/slack_invite "MinistryOfTesting")
+
+
 
 # Discord ![Discord](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/discord.png "Discord")
 
@@ -396,7 +394,7 @@ ESP & ENG | Introduccion
 
 - [ Free Range Testers](https://discord.gg/S3Z4VSpR " Free Range Testers")
 
----------
+
 
 # Talks, Webinars ![Webinar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/webinars.png "Webinar")
 
@@ -412,13 +410,6 @@ https://vimeo.com/showcase/5479902
 - [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")
 
 #### ENG
-
-
-
-------------
-
-
-
 
 
 # Paginas para practicar ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
@@ -458,8 +449,6 @@ Colección de guías y desafíos para practicar habilidades de ciberseguridad a 
 
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI "VAmPI The Vulnerable API (Based on OpenAPI 3)")
 
-------------
-
 ## Mobile Testing ![Mobile](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/mobile.png "Mobile")
 
 - [(DVIA) Damn Vulnerable iOS App](https://damnvulnerableiosapp.com/ "(DVIA) Damn Vulnerable iOS App")
@@ -467,8 +456,6 @@ DVIA es una aplicación de iOS que es muy vulnerable. Su objetivo principal es p
 
 - [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile "SauceLabs Sample Apps")
 Repositorio de Github que contiene aplicaciones móviles que se pueden usar para la práctica de automatización.
-
-------------
 
 ## Web Testing ![Web-Testing](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/web-automation.png "Web-Testing")
 
@@ -509,8 +496,6 @@ E-commerce.
 - [Demo OpenCart](https://demo.opencart.com/ "Demo OpenCart")
 Demo open source de un  E-commerce.
 
-------------
-
 ## Performance Testing ![Performance](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/performance.png "Performance")
 
 - [Simple Travel Agency](https://blazedemo.com/index.php "Simple Travel Agency")
@@ -521,8 +506,6 @@ Tienda de mascotas para pruebas de rendimiento.
 
 - [Computer Database](https://computer-database.gatling.io/computers "Computer Database")
 Sitio simple para usar en las pruebas de rendimiento.
-
-------------
 
 ## Test Automation ![Test-automation](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/test-automation.png "Test-automation")
 
@@ -564,8 +547,6 @@ impulsado por boozang, ejercicios únicos para poner a prueba tus habilidades de
 
 - [LetCode.in ](https://letcode.in/test "LetCode.in ")
 Muchos ejemplos de elementos para la práctica de automatización de pruebas E2E.
-
-------------
 
 ## API Testing ![Api-testing](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/api-testing.png "Api-testing")
 
@@ -619,14 +600,6 @@ Una API con países y su información.
 - [Simple Book](https://simple-books-api.glitch.me "Simple Book")
 
 
-
-
-
-----------------
-
-
-
-
 # Roadmap ![Roadmap](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/roadmap.png "Roadmap")
 
 #### ESP
@@ -640,7 +613,7 @@ Una API con países y su información.
 #### `Roadmap`
 
 #### `Puntos claves`
------------
+
 
 ### Introduccion:
 
@@ -649,7 +622,7 @@ Una API con países y su información.
 - Tener una base sólida para comprender cómo funcionan los componentes del software y cómo se integran entre sí, así como adquirir las habilidades para romper cosas, es un conjunto de habilidades esenciales para cualquier ingeniero de control de calidad. La prueba de software es el arte de investigar el software y encontrar cualquier comportamiento no deseado que pueda generar escenarios no deseados.
 
 - A continuación, puede encontrar el camino para la curva de aprendizaje de pruebas de software y control de calidad que podría necesitar para comenzar el viaje.
------------------------------
+
 
 ### Plan de Prueba
 
@@ -659,7 +632,6 @@ Una API con países y su información.
 
 - El PDF adjunto se puede encontrar aquí [ test_plan_sample.pdf](https://github.com/fityanos/awesome-quality-assurance-roadmap/blob/master/Test_Plan_Sample.pdf " test_plan_sample.pdf") for downloading.
 
---------------
 
 ### Roadmap
 
@@ -681,14 +653,6 @@ Una API con países y su información.
 - Asegúrese de que su código de prueba realmente esté probando algo.
 
 - 200~OK no siempre está bien.
-
-
-
----------------
-
-
-
-
 
 # Herramientas ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
 
@@ -713,15 +677,6 @@ Una API con países y su información.
 - [`Playwright`](https://github.com/mxschmitt/awesome-playwright#readme "Playwright") - Biblioteca Node.js para automatizar Chromium, Firefox y WebKit con una única API.
 
 - [`Gatling`](https://github.com/aliesbelik/awesome-gatling#readme "Gatling") - Framework de rendimiento y carga de código abierto basado en Scala, Akka y Netty.
-
-
-
-
-
----------------------
-
-
-
 
 # Contribuir ![Github](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/github.png "Github")
 
