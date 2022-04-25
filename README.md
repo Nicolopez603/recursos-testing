@@ -97,7 +97,7 @@ ESP & ENG | Introduccion
 
 #### ENG
 
-[Canal: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
+- [Canal: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
 
 ------------
 
@@ -147,6 +147,11 @@ ESP & ENG | Introduccion
 
 - [ContinuosTesting](https://continuoustesting.dev/ "ContinuosTesting")
 
+- [Satifisfice](https://www.satisfice.com/blog/ "Satifisfice")
+
+- [SoftwareTester](https://www.softwaretester.blog/ "SoftwareTester")
+
+- [AutomationPanda](https://automationpanda.com/ "AutomationPanda")
 ----------------
 
 # Libros ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
@@ -213,33 +218,33 @@ ESP & ENG | Introduccion
 
 #### ESP
 
-- Diego Gavilanes
+- [Diego Gavilanes](https://www.linkedin.com/in/diego-gavilanes-azambuya/ "Diego Gavilanes")
 
-- Damian Pereira
+- [Damian Pereira](https://www.linkedin.com/in/damian-pereira/ "Damian Pereira")
 
-- Charly Gauto
+- [Carlos Gauto](https://www.linkedin.com/in/gautocarlos/ "Carlos Gauto")
 
-- Joan Media
+- [Joan Esquivel](https://www.linkedin.com/in/joanesquivel/ "Joan Esquivel")
 
-- Patricio Miner
+- [Patricio Miner](https://www.linkedin.com/in/patricio-m-690b3729/ "Patricio Miner")
 
-- Esteban Balvin
+- [Esteban Balvin](https://www.linkedin.com/in/esteban-balvin-763a6773/ "Esteban Balvin")
 
-- Nadia Cavalleri
+- [Nadia Soledad Cavalleri](https://www.linkedin.com/in/ncavalleri/ "Nadia Soledad Cavalleri")
 
-- Pablo Soifer
+- [Pablo Soifer](https://www.linkedin.com/in/pablo-soifer-9a087322/ "Pablo Soifer")
 
-- Leo Corrales
+- [Leonardo Corrales](https://www.linkedin.com/in/leonardo-corrales/ "Leonardo Corrales")
 
 - [Edgardo Crovetto](https://www.linkedin.com/in/edgardocrovetto/ "Edgardo Crovetto")
 
-- Karine Ramos
+- [Karine Ramos](https://www.linkedin.com/in/karine-ramos-02006485/ "Karine Ramos")
 
-- Matias Pirez
+- [Matias Pirez](https://www.linkedin.com/in/matiaspirez/ "Matias Pirez")
 
-- Elyer Maldonado
+- [Elyer Maldonado](https://www.linkedin.com/in/elyermad/ "Elyer Maldonado")
 
-- Alfred Tejeda
+- [Alfred Tejeda](https://www.linkedin.com/in/alfredtejeda/ "Alfred Tejeda")
 
 #### ENG
 
@@ -265,7 +270,7 @@ ESP & ENG | Introduccion
 
 - [Lisa Crispin](https://www.linkedin.com/in/lisa-crispin-88420a/ "Lisa Crispin")
 
-
+- [Carlos Kidman](https://www.linkedin.com/in/carlos-kidman/ "Carlos Kidman")
 
 ###  [Comunidades]
 
@@ -275,35 +280,43 @@ ESP & ENG | Introduccion
 
 - [Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
 
+- [Quassure](https://www.linkedin.com/company/quassure/ "Quassure")
+
+- [ArgenTesting](https://www.linkedin.com/company/argentesting/ "ArgenTesting")
+
 ------------
 
 # Twitter ![Twitter](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/twitter.png "Twitter")
 
 #### ESP
 
-- [Under-Test](https://twitter.com/undertest_es "Under-Test")
-
-- Pablo Soifer
+- [Pablo Soifer](https://twitter.com/PabloSoifer1 "Pablo Soifer")
 
 - [Patricio Miner](https://twitter.com/RangeTester "Patricio Miner")
 
-- Joan
+- [Joan ES](https://twitter.com/joanmediaes "Joan ES")
+
+- [Leo Corrales](https://twitter.com/Leocorrales84 "Leo Corrales")
 
 - [Nadia Cavalleri](https://twitter.com/NadiaCavalleri "Nadia Cavalleri")
 
-- [Delvis Echeverria](https://twitter.com/DelvisEcheverri "Delvis Echeverria")
+- [Francisco Moreno](https://twitter.com/morvader "Francisco Moreno")
 
-- [Francisco Moreno](https://twitter.com/morvader "Francisco Moreno") 
+- [Ximena Romero](https://twitter.com/ximer81 "Ximena Romero")
 
-- [Ximena Romero](https://twitter.com/ximer81 "Ximena Romero") 
-
-- Charly Gauto
+- [Carlos Gauto](https://twitter.com/char_automatiza "Carlos Gauto")
 
 - [Abel Quintana](https://twitter.com/beloquintana "Abel Quintana")
 
 - [Leonardo Espindola](https://twitter.com/espindolaleoapi "Leonardo Espindola")
 
 - [Lisandra Armas](https://twitter.com/lisyarmas "Lisandra Armas")
+
+#### [Comunidades]
+
+- [Under-Test](https://twitter.com/undertest_es "Under-Test")
+
+- [Quassure](https://twitter.com/QuassureUY "Quassure")
 
 #### ENG
 
@@ -319,11 +332,13 @@ ESP & ENG | Introduccion
 
 - [Claudia Badell](https://twitter.com/claubs_uy "Claudia Badell")
 
-- [Paul Grossman](https://twitter.com/DarkArtsWizard "Paul Grossman")
-
 - [Paul Grizzaffi](https://twitter.com/pgrizzaffi "Paul Grizzaffi")
 
 - [Eran Kinsbruner](https://twitter.com/ek121268 "Eran Kinsbruner")
+
+- [Joan Media](https://twitter.com/joan_media "Joan Media")
+
+- [Delvis Echeverria](https://twitter.com/DelvisEcheverri "Delvis Echeverria")
 
 ------------
 
@@ -356,9 +371,8 @@ ESP & ENG | Introduccion
 - [Testingpeers](https://testingpeers.com/ "Testingpeers")
 
 - [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI "AB Testing")
+
 ------------
-
-
 
 # Slack ![Slack](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/slack.png "Slack")
 
@@ -372,13 +386,7 @@ ESP & ENG | Introduccion
 
 - [UPEX](https://upexqa.slack.com/join/shared_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ "[UPEX]")
 
-
-
-
 ------------
-
-
-
 
 # Discord ![Discord](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/discord.png "Discord")
 
@@ -388,6 +396,7 @@ ESP & ENG | Introduccion
 
 - [ Free Range Testers](https://discord.gg/S3Z4VSpR " Free Range Testers")
 
+---------
 
 # Talks, Webinars ![Webinar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/webinars.png "Webinar")
 
@@ -402,10 +411,7 @@ https://vimeo.com/showcase/5479902
 
 - [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")
 
-> ENG
-
-https://beaufortfairmont.com/webinars/
-
+#### ENG
 
 
 
