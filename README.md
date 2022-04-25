@@ -47,7 +47,7 @@ ESP & ENG | Introduccion
 
 > #### Contains Manual & Automation Testing channels. The order is totally and purely random:
 
-> ESP
+#### ESP
 
 -   [Canal: Testing para todos](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
 
@@ -95,7 +95,7 @@ ESP & ENG | Introduccion
 
 - [Canal: Testing en Chile](https://www.youtube.com/channel/UCIzidbV0wqGaQmRbux_o31Q/videos "Canal: Testing en Chile")
 
-> ENG
+#### ENG
 
 [Canal: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
 
@@ -103,7 +103,7 @@ ESP & ENG | Introduccion
 
 # Paginas & Blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
 
-> ESP
+#### ESP
 
 - [Federico-toledo.com](https://www.federico-toledo.com/category/blog/ "Federico-toledo.com")
 
@@ -137,7 +137,7 @@ ESP & ENG | Introduccion
 
 - [Testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda")
 
-> ENG
+#### ENG
 
 - [Ministryoftesting.com](https://www.ministryoftesting.com/dojo "ministryoftesting.com")
 
@@ -151,7 +151,7 @@ ESP & ENG | Introduccion
 
 # Libros ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
 
-> ESP
+#### ESP
 
 - [Introducción a las Pruebas de Sistemas de Información](https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/ "Introducción a las Pruebas de Sistemas de Información") - Gratis
 
@@ -162,8 +162,7 @@ ESP & ENG | Introduccion
 
 - Guia practica para testing en devops
 
-> ENG
-
+#### ENG
 
 - [Fifty quick ideas to improve your Tests - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments](https://www.amazon.co.uk/gp/product/0993088112/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesosborn-21&creative=6738&linkCode=as2&creativeASIN=0993088112&linkId=0f87de675be852785ae8e4f22c6fde75 "Fifty quick ideas to improve your Tests - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments")!
 
@@ -212,7 +211,7 @@ ESP & ENG | Introduccion
 
 # Linkedin ![Linkedin](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/linkedin.png "Linkedin")
 
-> ESP
+#### ESP
 
 - Diego Gavilanes
 
@@ -242,7 +241,7 @@ ESP & ENG | Introduccion
 
 - Alfred Tejeda
 
-> ENG
+#### ENG
 
 - [Angie Jones](https://www.linkedin.com/in/angiejones/ "Angie Jones") 
 
@@ -270,6 +269,8 @@ ESP & ENG | Introduccion
 
 ###  [Comunidades]
 
+#### ESP
+
 - [QA Dominicana](https://www.linkedin.com/company/qa-dominicana/about/ "QA Dominicana")
 
 - [Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
@@ -278,7 +279,7 @@ ESP & ENG | Introduccion
 
 # Twitter ![Twitter](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/twitter.png "Twitter")
 
-[ESP]
+#### ESP
 
 - [Under-Test](https://twitter.com/undertest_es "Under-Test")
 
@@ -304,7 +305,7 @@ ESP & ENG | Introduccion
 
 - [Lisandra Armas](https://twitter.com/lisyarmas "Lisandra Armas")
 
-[ENG]
+#### ENG
 
 - [Chris Arnstrong](https://twitter.com/christovskia "Chris Arnstrong")
 
@@ -329,7 +330,7 @@ ESP & ENG | Introduccion
 # Podcast ![Podcast](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/podcast.png "Podcast")
 
 
-> ESP
+#### ESP
 
 - [La Escuela del Testing](https://www.laescueladeltesting.com/podcast "La Escuela del Testing")
 
@@ -342,7 +343,7 @@ ESP & ENG | Introduccion
 
 - [Testers por el mundo:](https://open.spotify.com/show/6iKsfKfotb73t7jYCpygst?si=1de643ceaec842a0&nd=1 "Testers por el mundo:")
 
-> ENG
+#### ENG
 
 - [Ministry of Testing](https://www.ministryoftesting.com/dojo/podcasts "Ministry of Testing")
 
@@ -361,6 +362,7 @@ ESP & ENG | Introduccion
 
 # Slack ![Slack](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/slack.png "Slack")
 
+#### ESP
 
 - [QA MERCENARIES](qamercenaries.slack.com "[QA MERCENARIES]")
 
@@ -380,6 +382,7 @@ ESP & ENG | Introduccion
 
 # Discord ![Discord](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/discord.png "Discord")
 
+#### ESP
 
 - [Test Automation - Charly Automatiza](https://discord.com/invite/wwM9GwxmRZ "Test Automation - Charly Automatiza")
 
@@ -388,7 +391,7 @@ ESP & ENG | Introduccion
 
 # Talks, Webinars ![Webinar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/webinars.png "Webinar")
 
-> ESP
+#### ESP
 
 - [Test Talks](https://vimeo.com/showcase/5479902 "Test Talks")
 https://vimeo.com/showcase/5479902
@@ -414,6 +417,8 @@ https://beaufortfairmont.com/webinars/
 
 # Paginas para practicar ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
 
+#### ESP
+
 ## `Contenido`
 
 - `Security Testing`
@@ -437,10 +442,10 @@ Aplicación web moderna que está llena de vulnerabilidades y desafíos. Se pued
 Un CodeLab utilizado para la formación universitaria en torno a los exploits de aplicaciones web.
 
 - [bWAPP](http://www.itsecgames.com/ "bWAPP")
-Aplicación web descargable con más de 100 vulnerabilidades web.
+Aplicación web descargable con multiples vulnerabilidades web.
 
 - [Zero Bank](http://zero.webappsecurity.com/ "Zero Bank")
-Sitio web bancario de demostración lleno de vulnerabilidades de seguridad.
+Sitio web bancario de demostración con vulnerabilidades de seguridad.
 
 - [Tryhackme](https://tryhackme.com/ "tryhackme.com")
 Colección de guías y desafíos para practicar habilidades de ciberseguridad a través del navegador (opciones gratuitas y de pago).
@@ -468,7 +473,7 @@ Sitio web con API backend y ejemplos de casos de prueba para practicar la automa
 Aplicación web con API.
 
 - [Parking Calculator](https://www.shino.de/parkcalc/ "Parking Calculator")
-Aplicación que es lo suficientemente simple como para entenderla en 5 minutos pero tiene muchos errores para mantener ocupado al probador durante horas.
+Aplicación con muchos errores.
 
 - [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/ "Black Box Puzzles")
 Colección de acertijos simples que fomentan las pruebas exploratorias.
@@ -509,7 +514,7 @@ Sitio de demostración de BlazeMeter para pruebas de rendimiento.
 Tienda de mascotas para pruebas de rendimiento.
 
 - [Computer Database](https://computer-database.gatling.io/computers "Computer Database")
-Sitio simple con entradas mínimas para usar en las pruebas de rendimiento.
+Sitio simple para usar en las pruebas de rendimiento.
 
 ------------
 
@@ -522,7 +527,7 @@ App que tiene HTML y REST API endpoints para practicar.
 Una página web interactiva con 17 tareas de prueba para practicar las habilidades de automatización de pruebas.
 
 - [Basic Calculator ](https://testsheepnz.github.io/BasicCalculator.html "Basic Calculator ")
-Calculadora con la que puede interactuar fácilmente para ejercer la cobertura de prueba, ya que hay 9 'compilaciones' que tienen diferentes errores ¿Pueden sus pruebas automatizadas encontrarlos todos?.
+Calculadora con la que puede interactuar fácilmente para ejercer la cobertura de prueba, ¿Pueden sus pruebas automatizadas encontrarlos todos?.
 
 - [Shop Demo QA](https://shop.demoqa.com/ "Shop Demo QA")
 Online shopping.
@@ -618,6 +623,8 @@ Una API con países y su información.
 
 # Roadmap ![Roadmap](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/roadmap.png "Roadmap")
 
+#### ESP
+
 ### `Contenido`
 
 #### `Introducción`
@@ -678,6 +685,8 @@ Una API con países y su información.
 
 
 # Herramientas ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
+
+#### ESP
 
 #### `El material de los repositorios esta en ingles, pero no es un obstaculo usando Google Translate ¡Animesé!`
 
