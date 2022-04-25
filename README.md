@@ -61,6 +61,8 @@ Español | Introduccion
 
 -   [Canal: Joanmedia](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos "Canal: Joanmedia - Joan media")
 
+- [Canal: Señor Perfomo](https://www.youtube.com/c/Se%C3%B1orPerformo/featured "Canal: Señor Perfomo")
+
 ### [Comunidades]
 
 -  [Canal: Argentesting](https://www.youtube.com/c/Argentesting/videos "Canal: Argentesting - ArgenTesting ")
@@ -84,6 +86,8 @@ Español | Introduccion
 - [Canal: Testing en Chile](https://www.youtube.com/channel/UCIzidbV0wqGaQmRbux_o31Q/videos "Canal: Testing en Chile")
 
 > ENG
+
+[Canal: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
 
 ------------
 
@@ -188,33 +192,57 @@ Español | Introduccion
 
 > ESP
 
-Diego Gavilanes
+- Diego Gavilanes
 
-Damian Pereira
+- Damian Pereira
 
-Charly Gauto
+- Charly Gauto
 
-Joan Media
+- Joan Media
 
-Patricio Miner
+- Patricio Miner
 
-Esteban Balvin
+- Esteban Balvin
 
-Nadia Cavalleri
+- Nadia Cavalleri
 
-Pablo Soifer
+- Pablo Soifer
 
-Leo Corrales
+- Leo Corrales
 
-Karine Ramos
+- [Edgardo Crovetto](https://www.linkedin.com/in/edgardocrovetto/ "Edgardo Crovetto")
 
-Matias Pirez
+- Karine Ramos
 
-Elyer Maldonado
+- Matias Pirez
 
-Alfred Tejeda
+- Elyer Maldonado
+
+- Alfred Tejeda
 
 > ENG
+
+- [Angie Jones](https://www.linkedin.com/in/angiejones/ "Angie Jones") 
+
+- [Janet Gregory](https://www.linkedin.com/in/janetgregory/ "Janet Gregory")
+
+- [Eran Kinsbruner](https://www.linkedin.com/in/erankinsbruner/ "Eran Kinsbruner")
+
+- [Simon Prior](https://www.linkedin.com/in/simon-prior-0499372/ "Simon Prior")
+
+- [Tristan Lombard](https://www.linkedin.com/in/tristanlombard/ "Tristan Lombard")
+
+- [Erika Chestnut](https://www.linkedin.com/in/erikachestnut/ "Erika Chestnut")
+
+- [Katya Aronov](https://www.linkedin.com/in/katya-aronov/ "Katya Aronov")
+
+- [Ian Goddard](https://www.linkedin.com/in/goddardian/ "Ian Goddard")
+
+- [Julio de lima](https://www.linkedin.com/in/juliodelimas/ "Julio de lima")
+
+- [Lisi Hocke](https://www.linkedin.com/in/lisihocke/ "Lisi Hocke")
+
+- [Lisa Crispin](https://www.linkedin.com/in/lisa-crispin-88420a/ "Lisa Crispin")
 
 
 
@@ -228,16 +256,49 @@ Alfred Tejeda
 
 # Twitter ![Twitter](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/twitter.png "Twitter")
 
+[ESP]
 
-- Under-Test
+- [Under-Test](https://twitter.com/undertest_es "Under-Test")
 
 - Pablo Soifer
 
-- Patricio Miner
+- [Patricio Miner](https://twitter.com/RangeTester "Patricio Miner")
 
 - Joan
 
+- [Nadia Cavalleri](https://twitter.com/NadiaCavalleri "Nadia Cavalleri")
+
+- [Delvis Echeverria](https://twitter.com/DelvisEcheverri "Delvis Echeverria")
+
+- [Francisco Moreno](https://twitter.com/morvader "Francisco Moreno") 
+
+- [Ximena Romero](https://twitter.com/ximer81 "Ximena Romero") 
+
 - Charly Gauto
+
+- [Abel Quintana](https://twitter.com/beloquintana "Abel Quintana")
+
+- [Leonardo Espindola](https://twitter.com/espindolaleoapi "Leonardo Espindola")
+
+- [Lisandra Armas](https://twitter.com/lisyarmas "Lisandra Armas")
+
+[ENG]
+
+- [Chris Arnstrong](https://twitter.com/christovskia "Chris Arnstrong")
+
+- [Pandy Knight](https://twitter.com/AutomationPanda "Pandy Knight")
+
+- [Carlos Kidman](https://twitter.com/CarlosKidman "Carlos Kidman")
+
+- [Sanjay Kumar](https://twitter.com/SanjayKumaarr "Sanjay Kumar")
+
+- [Angie Jones](https://twitter.com/techgirl1908 "Angie Jones")
+
+- [Claudia Badell](https://twitter.com/claubs_uy "Claudia Badell")
+
+- [Paul Grossman](https://twitter.com/DarkArtsWizard "Paul Grossman")
+
+- [Paul Grizzaffi](https://twitter.com/pgrizzaffi "Paul Grizzaffi")
 
 ------------
 
@@ -261,12 +322,15 @@ Alfred Tejeda
 
 - [Ministry of Testing](https://www.ministryoftesting.com/dojo/podcasts "Ministry of Testing")
 
+-  [Softwaretestingpodcas](https://www.softwaretestingpodcast.com/ "Softwaretestingpodcas")
 
 - [Abstracta Podcast](https://abstracta.us/software-testing-podcast "Abstracta Podcast")
 
+- [TestGuild](https://testguild.com/podcasts/ "TestGuild")
 
+- [Testingpeers](https://testingpeers.com/ "Testingpeers")
 
-
+- [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI "AB Testing")
 ------------
 
 
@@ -305,6 +369,8 @@ Alfred Tejeda
 - [Test Talks](https://vimeo.com/showcase/5479902 "Test Talks")
 https://vimeo.com/showcase/5479902
 
+- [Mendoza Testing Day ](https://www.youtube.com/channel/UCBoEIY6cBx3g4uCvJchoDYA/videos "Mendoza Testing Day ")
+
 - [Testing CR](https://www.youtube.com/channel/UC6STAETOFgTtd3i4FRbYsHw/videos "Testing CR")
 
 - [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")
@@ -323,6 +389,7 @@ https://beaufortfairmont.com/webinars/
 
 
 # Paginas para practicar ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
+
 ## `Contenido`
 
 - `Security Testing`
