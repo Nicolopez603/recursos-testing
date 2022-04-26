@@ -49,29 +49,31 @@ ESP & ENG | Introduccion
 
 #### ESP
 
--   [Canal: Testing para todos](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
+- [Canal: Testing para todos](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
 
--    [ Canal: Nadia Cavalleri](http://youtube.com/c/NadiaSoledadCavalleri/videos " Canal: Nadia Cavalleri - Nadia Soledad Cavalleri")
+- [ Canal: Nadia Cavalleri](http://youtube.com/c/NadiaSoledadCavalleri/videos " Canal: Nadia Cavalleri - Nadia Soledad Cavalleri")
 
--    [Canal: Quality Stream](http://youtube.com/c/QualityStream/videos "Canal: Quality Stream - Karine Ramos")
+- [Canal: Quality Stream](http://youtube.com/c/QualityStream/videos "Canal: Quality Stream - Karine Ramos")
 
--  [Canal: A Tester Mate](http://youtube.com/c/ATesterMate/videos "Canal: A Tester Mate @ATesterMate")
+- [Canal: A Tester Mate](http://youtube.com/c/ATesterMate/videos "Canal: A Tester Mate @ATesterMate")
 
--   [Canal: The QA Testing Channel](http://youtube.com/c/TheQATestingChannel/videos "Canal: The QA Testing Channel @QATestingchannl")
+- [Canal: The QA Testing Channel](http://youtube.com/c/TheQATestingChannel/videos "Canal: The QA Testing Channel @QATestingchannl")
 
--   [Canal: Charly Automatiza](https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg/videos "Canal: Charly Automatiza - Carlos Gauto")
+- [Canal: Charly Automatiza](https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg/videos "Canal: Charly Automatiza - Carlos Gauto")
 
--    [Canal: Saitest](https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ "Canal: Saitest - Elyer Maldonado")
+- [Canal: Saitest](https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ "Canal: Saitest - Elyer Maldonado")
 
--   [Canal: GeekQA]( https://www.youtube.com/c/GeekQA "Canal: GeekQA - Esteban Balvin")
+- [Canal: GeekQA]( https://www.youtube.com/c/GeekQA "Canal: GeekQA - Esteban Balvin")
 
--    [Canal: The Free Range Tester](https://www.youtube.com/c/TheFreeRangeTester "Canal: The Free Range Tester - Patricio Miner")
+- [Canal: The Free Range Tester](https://www.youtube.com/c/TheFreeRangeTester "Canal: The Free Range Tester - Patricio Miner")
 
--   [Canal: Draculinio](https://www.youtube.com/c/Draculinio "Canal: Draculinio - Pablo Soifer")
+- [Canal: Draculinio](https://www.youtube.com/c/Draculinio "Canal: Draculinio - Pablo Soifer")
 
--   [Canal: Joanmedia](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos "Canal: Joanmedia - Joan media")
+- [Canal: Joanmedia](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos "Canal: Joanmedia - Joan media")
 
 - [Canal: Señor Perfomo](https://www.youtube.com/c/Se%C3%B1orPerformo/featured "Canal: Señor Perfomo")
+
+- [Canal: FullAdvanced](https://www.youtube.com/c/FullAdvanced/videos "Canal: FullAdvanced")
 
 ### [Comunidades]
 
@@ -97,7 +99,21 @@ ESP & ENG | Introduccion
 
 #### ENG
 
-- [Canal: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
+- [Channel: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
+
+- [Channel: The Test Lead](https://www.youtube.com/channel/UC7O2ES7xKv35EPtga6OtLHg/videos "The Test Lead")
+
+- [Channel: QA Madness](https://www.youtube.com/c/QAMadness/videos "QA Madness")
+
+- [Channel: TestDemy](https://www.youtube.com/channel/UCd2hh6hEcpSy-u_IAnev9uQ/videos "TestDemy")
+
+- [Channel: AutomationStepByStep](https://www.youtube.com/c/AutomationStepByStep "AutomationStepByStep")
+
+- [Channel: SDET- QA Automation Techie](https://www.youtube.com/c/pavanoltraining "SDET- QA Automation Techie")
+
+- [Channel: RahulShettyAcademy](https://www.youtube.com/c/RahulShettyAcademy/videos "RahulShettyAcademy")
+
+- [Channel: AgileTestingFellowship](https://www.youtube.com/c/AgileTestingFellowship "AgileTestingFellowship")
 
 
 # Paginas & Blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
@@ -743,22 +759,5 @@ Contacto:
 - [Twitter](https://twitter.com/dripp1ng_ "Twitter")
 - [Linkedin](https://www.linkedin.com/in/nicolas-lopez-qa/ "Linkedin")
 
-
-
-
--------------------------------------------
-
-
-
-
-
-REPOSITORIOS DE GUIA:
-
-
-https://github.com/BMayhew/awesome-sites-to-test-on
-
-https://github.com/TheJambo/awesome-testing#books
-
-https://github.com/fityanos/awesome-quality-assurance-roadmap
 
 
