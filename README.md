@@ -21,7 +21,7 @@
 -------
 
 
-## `Tabla de Contenido`
+## `Tabla de Contenido | Table of Contents`
 
 
 ESP & ENG | Introduccion
