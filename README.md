@@ -116,7 +116,7 @@ ESP & ENG | Introduccion
 - [Channel: AgileTestingFellowship](https://www.youtube.com/c/AgileTestingFellowship "AgileTestingFellowship")
 
 
-# Paginas & Blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
+# Paginas & Blogs - Websites and blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
 
 #### ESP
 
@@ -168,7 +168,7 @@ ESP & ENG | Introduccion
 
 - [AutomationPanda](https://automationpanda.com/ "AutomationPanda")
 
-# Libros ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
+# Libros - Books ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
 
 #### ESP
 
@@ -417,7 +417,6 @@ ESP & ENG | Introduccion
 #### ESP
 
 - [Test Talks](https://vimeo.com/showcase/5479902 "Test Talks")
-https://vimeo.com/showcase/5479902
 
 - [Mendoza Testing Day ](https://www.youtube.com/channel/UCBoEIY6cBx3g4uCvJchoDYA/videos "Mendoza Testing Day ")
 
@@ -428,7 +427,7 @@ https://vimeo.com/showcase/5479902
 #### ENG
 
 
-# Paginas para practicar ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
+# Paginas para practicar - Practice pages ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
 
 #### ESP
 
@@ -670,7 +669,7 @@ Una API con países y su información.
 
 - 200~OK no siempre está bien.
 
-# Herramientas ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
+# Herramientas - Tools ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
 
 #### ESP
 
