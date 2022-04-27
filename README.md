@@ -26,17 +26,18 @@
 
 ESP & ENG | Introduccion
 ------------- | -------------
-[`Youtube`](#Youtube)  | Canales Informativos.
-[`Linkedin`](#Linkedin)  | Referentes del area del Testing.
-[`Libros`](#Libros)  | Contenido con gran informacion.
-[`Podcast`](#Podcast)  | Tanto de Latam como del Exterior.
+[`YouTube`](#Youtube)  | Canales Informativos.
 [`Paginas & Blogs`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes.
+[`Libros - Books`](#Libros)  | Contenido con gran informacion.
+[`LinkedIn`](#Linkedin)  | Referentes del area del Testing.
+[`Twitter`](#Twitter) | Para mantenerte informado de las novedades
+[`Podcast`](#Podcast)  | Tanto de Latam como del Exterior.
 [`Slack`](#Slack) | Comunidades para hacer Networking.
 [`Discord`](#Discord) | Comunidades para hacer Networking.
 [`Talks & Webinars`](#Talks-Webinars) | Contenido Informativo.
-[`Paginas para practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar.
+[`Material para practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar.
 [`Roadmap QA`](#Roadmap-QA) | Guia para tener en cuenta.
-[`Herramientas`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks.
+[`Herramientas - Tools`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks.
 
 ------------
 
