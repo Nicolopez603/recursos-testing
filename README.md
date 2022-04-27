@@ -10,6 +10,8 @@
 
 - #### Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 
+- #### **Notion** por si gustan verlo por allí: [Recursos de Testing](https://apuntesdenico.notion.site/Recursos-de-Testing-Testing-Resources-19c6ab34612047e4aa6fd5da376662bd "Recursos de Testing")
+
 ---------
 
 - #### The main objective of this repository is to **share** the material for research and learning, it will be updated as more information is found and/or they want to contribute respectively. The material is divided into ESP (Spanish) and ENG. (Spanish)
@@ -18,9 +20,9 @@
 
 - #### If you think this repository was useful to you, give it a star (Star) ★ .
 
--------
+-  #### **Notion** in case you would like to see it over there: [Testing Resources](https://apuntesdenico.notion.site/Recursos-de-Testing-Testing-Resources-19c6ab34612047e4aa6fd5da376662bd "Recursos de Testing")
 
-
+---------
 ## `Tabla de Contenido | Table of Contents`
 
 
