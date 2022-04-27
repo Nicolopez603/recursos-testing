@@ -428,7 +428,7 @@ ESP & ENG | Introduccion
 #### ENG
 
 
-# Paginas para practicar - Practice pages ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
+# Material para practicar -  Material to practice ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
 
 #### ESP
 
