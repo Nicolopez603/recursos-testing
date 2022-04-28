@@ -184,7 +184,11 @@ ESP & ENG | Introduccion | Introduction
 
 - Fundamentos de pruebas de software
 
-- Guia practica para testing en devops
+- Guia practica para testing en DevOps
+
+- [Cómo ser un Tester: Introducción a las Pruebas de Software](https://www.amazon.es/gp/product/1791767931/ref=as_li_tl?ie=UTF8&tag=diardeunbebec-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=1791767931&linkId=a5a38414203a5d5490fdabdda38fbf95 "Cómo ser un Tester: Introducción a las Pruebas de Software")
+
+- Calidad en el desarrollo de software por Guillermo Pantaleo
 
 #### ENG
 
