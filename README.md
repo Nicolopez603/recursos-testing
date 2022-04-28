@@ -45,7 +45,7 @@ ESP & ENG | Introduccion | Introduction
 
 ------------
 
-
+<a name="Youtube"></a>
 # Youtube ![Youtube-Icon](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/youtube.png "Youtube-Icon")
 
 > #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
@@ -120,7 +120,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [Channel: AgileTestingFellowship](https://www.youtube.com/c/AgileTestingFellowship "AgileTestingFellowship")
 
-
+<a name="Paginas-Blog-Informativos"></a>
 # Paginas & Blogs - Websites and blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
 
 #### ESP
@@ -175,6 +175,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [AutomationPanda](https://automationpanda.com/ "AutomationPanda")
 
+<a name="Libros"></a>
 # Libros - Books ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
 
 #### ESP
@@ -236,6 +237,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts](https://www.amazon.com/-/es/gp/product/B07H8PH7VB/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1 "Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts")
 
+<a name="Linkedin"></a>
 # Linkedin ![Linkedin](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/linkedin.png "Linkedin")
 
 #### ESP
@@ -308,7 +310,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [ArgenTesting](https://www.linkedin.com/company/argentesting/ "ArgenTesting")
 
-
+<a name="Twitter"></a>
 # Twitter ![Twitter](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/twitter.png "Twitter")
 
 #### ESP
@@ -368,7 +370,7 @@ ESP & ENG | Introduccion | Introduction
 - [Lisi Hocke](https://twitter.com/lisihocke "Lisi Hocke")
 
 
-
+<a name="Podcast"></a>
 # Podcast ![Podcast](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/podcast.png "Podcast")
 
 
@@ -399,7 +401,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI "AB Testing")
 
-
+<a name="Slack"></a>
 # Slack ![Slack](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/slack.png "Slack")
 
 #### ESP
@@ -414,7 +416,7 @@ ESP & ENG | Introduccion | Introduction
 - [MinistryOfTesting](https://www.ministryoftesting.com/slack_invite "MinistryOfTesting")
 
 
-
+<a name="Discord"></a>
 # Discord ![Discord](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/discord.png "Discord")
 
 #### ESP
@@ -424,7 +426,7 @@ ESP & ENG | Introduccion | Introduction
 - [ Free Range Testers](https://discord.gg/K7MrbmYR " Free Range Testers")
 
 
-
+<a name="Talks-Webinars"></a>
 # Talks, Webinars ![Webinar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/webinars.png "Webinar")
 
 #### ESP
@@ -439,7 +441,7 @@ ESP & ENG | Introduccion | Introduction
 
 #### ENG
 
-
+<a name="Paginas-para-practicar"></a>
 # Material para practicar -  Material to practice ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
 
 #### ESP
@@ -627,7 +629,7 @@ Una API con países y su información.
 
 - [Simple Book](https://simple-books-api.glitch.me "Simple Book")
 
-
+<a name="Roadmap-QA"></a>
 # Roadmap ![Roadmap](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/roadmap.png "Roadmap")
 
 #### ESP
@@ -683,12 +685,12 @@ Una API con países y su información.
 - 200~OK no siempre está bien.
 
 - Guarda evidencia de tus pruebas. Independientemente si fallan o no, es importante poder demostrar que cuando probaste el software obtuviste cierto resultado.
-
+<a name="Herramientas"></a>
 # Herramientas - Tools ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
 
 #### ESP
 
-#### `El material de los repositorios esta en ingles, pero no es un obstaculo usando Google Translate ¡Animesé!`
+#### El material de los repositorios esta en ingles, pero no es un obstaculo usando Google Translate ¡Animesé!
 
 ### Contenido
 
@@ -708,6 +710,7 @@ Una API con países y su información.
 
 - [`Gatling`](https://github.com/aliesbelik/awesome-gatling#readme "Gatling") - Framework de rendimiento y carga de código abierto basado en Scala, Akka y Netty.
 
+<a name="Cursos-Gratuitos"></a>
 # Cursos &  Tutoriales Gratuitos - Free courses and tutorials ![Curso-Icon](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/curso-gratuito.png "Curso-Icon")
 
 #### ESP
@@ -744,7 +747,7 @@ Manual | Automation
 
 
 
-
+<a name="Contribuir"></a>
 # Contribuir ![Github](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/github.png "Github")
 
 ### ¡Sus contribuciones son siempre bienvenidas!
