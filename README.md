@@ -26,20 +26,20 @@
 ## `Tabla de Contenido | Table of Contents`
 
 
-ESP & ENG | Introduccion
-------------- | -------------
-[`YouTube`](#Youtube)  | Canales Informativos.
-[`Paginas & Blogs`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes.
-[`Libros - Books`](#Libros)  | Contenido con gran informacion.
-[`LinkedIn`](#Linkedin)  | Referentes del area del Testing.
-[`Twitter`](#Twitter) | Para mantenerte informado de las novedades
-[`Podcast`](#Podcast)  | Tanto de Latam como del Exterior.
-[`Slack`](#Slack) | Comunidades para hacer Networking.
-[`Discord`](#Discord) | Comunidades para hacer Networking.
-[`Talks & Webinars`](#Talks-Webinars) | Contenido Informativo.
-[`Material para practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar.
-[`Roadmap QA`](#Roadmap-QA) | Guia para tener en cuenta.
-[`Herramientas - Tools`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks.
+ESP & ENG | Introduccion | Introduction
+------------- | ------------- | --------------- |
+[`YouTube`](#Youtube)  | Canales Informativos. | Information channels .
+[`Paginas & Blogs`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes.| Content made by referents.
+[`Libros - Books`](#Libros)  | Contenido con gran informacion.| The best books.
+[`LinkedIn`](#Linkedin)  | Referentes del area del Testing.| Referents in the area of Testing.
+[`Twitter`](#Twitter) | Mantente informado de las ultimas novedades| Stay informed of the latest news.
+[`Podcast`](#Podcast)  | Tanto de Latam como del Exterior.| From Latin America and abroad.
+[`Slack`](#Slack) | Comunidades para hacer Networking.| Communities for Networking.
+[`Discord`](#Discord) | Comunidades para hacer Networking.| Communities for Networking.
+[`Talks & Webinars`](#Talks-Webinars) | Contenido Informativo.| Informative Content.
+[`Material para practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar.| Excellent section for practice.
+[`Roadmap QA`](#Roadmap-QA) | Guia para tener en cuenta.| Guidance to consider.
+[`Herramientas - Tools`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks.| Tools with different languages & Frameworks.
 
 ------------
 
