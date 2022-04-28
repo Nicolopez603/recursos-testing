@@ -709,7 +709,7 @@ Una API con países y su información.
 
 # Cursos &  Tutoriales Gratuitos - Free courses and tutorials ![Curso-Icon](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/curso-gratuito.png "Curso-Icon")
 
-ESP
+#### ESP
 
 Manual | Automation |
 ------------- | ------------- |
@@ -731,17 +731,17 @@ Manual | Automation |
 
 
 
-ENG
+#### ENG
 
-- [Course Cypress](https://www.youtube.com/watch?v=uIX8nHBfo-o&list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb "Course Cypress:")
+Manual | Automation
+------------- | ----------
+[-] | [Course Cypress](https://www.youtube.com/watch?v=uIX8nHBfo-o&list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb "Course Cypress:")
+[-] | [Course: Docker](https://www.youtube.com/watch?v=5I6AKxrCHBI&list=PLYDwWPRvXB8-XKYMt3BDOjyGgdwOwIubc "Course: Docker")
+[-] | [Course: Jenkins](https://www.youtube.com/watch?v=3Ax9bcj3OrM&list=PLYDwWPRvXB89p_NxZJSjsldRR0vUdv3-g "Course: Jenkins")
+[-] | [Course: Postman](https://www.youtube.com/watch?v=imwPHA7bXDM&list=PLYDwWPRvXB8-3QhgZvW1xOE-T-I2W7iDx "Course: Postman")
+[-] | [Course: TestCafe](https://www.youtube.com/watch?v=wbJZd9CuVM4&list=PLYDwWPRvXB8_TDgPmQyMNjN6gaI8yS7KQ "Course: TestCafe")
 
-- [Course: Docker](https://www.youtube.com/watch?v=5I6AKxrCHBI&list=PLYDwWPRvXB8-XKYMt3BDOjyGgdwOwIubc "Course: Docker")
 
-- [Course: Jenkins](https://www.youtube.com/watch?v=3Ax9bcj3OrM&list=PLYDwWPRvXB89p_NxZJSjsldRR0vUdv3-g "Course: Jenkins")
-
-- [Course: Postman](https://www.youtube.com/watch?v=imwPHA7bXDM&list=PLYDwWPRvXB8-3QhgZvW1xOE-T-I2W7iDx "Course: Postman")
-
-- [Course: TestCafe](https://www.youtube.com/watch?v=wbJZd9CuVM4&list=PLYDwWPRvXB8_TDgPmQyMNjN6gaI8yS7KQ "Course: TestCafe")
 
 
 # Contribuir ![Github](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/github.png "Github")
