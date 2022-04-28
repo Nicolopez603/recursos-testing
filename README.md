@@ -155,6 +155,8 @@ ESP & ENG | Introduccion | Introduction
 
 - [Testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda")
 
+- [OlgaCarreras](https://olgacarreras.blogspot.com/ "OlgaCarreras")
+
 #### ENG
 
 - [Ministryoftesting.com](https://www.ministryoftesting.com/dojo "ministryoftesting.com")
@@ -260,9 +262,11 @@ ESP & ENG | Introduccion | Introduction
 
 - [Alfred Tejeda](https://www.linkedin.com/in/alfredtejeda/ "Alfred Tejeda")
 
+- [Olga Carreras](https://www.linkedin.com/in/olgacarreras/ "Olga Carreras")
+
 #### ENG
 
-- [Angie Jones](https://www.linkedin.com/in/angiejones/ "Angie Jones") 
+- [Angie Jones](https://www.linkedin.com/in/angiejones/ "Angie Jones")
 
 - [Janet Gregory](https://www.linkedin.com/in/janetgregory/ "Janet Gregory")
 
@@ -354,6 +358,9 @@ ESP & ENG | Introduccion | Introduction
 - [Joan Media](https://twitter.com/joan_media "Joan Media")
 
 - [Delvis Echeverria](https://twitter.com/DelvisEcheverri "Delvis Echeverria")
+
+- [Lisi Hocke](https://twitter.com/lisihocke "Lisi Hocke")
+
 
 
 # Podcast ![Podcast](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/podcast.png "Podcast")
@@ -672,6 +679,8 @@ Una API con países y su información.
 
 - 200~OK no siempre está bien.
 
+- Guarda evidencia de tus pruebas. Independientemente si fallan o no, es importante poder demostrar que cuando probaste el software obtuviste cierto resultado.
+
 # Herramientas - Tools ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
 
 #### ESP
@@ -758,7 +767,7 @@ Hecho con ❤️ para ustedes =)
 **Nico lopez**
 
 Contacto:
-- [Twitter](https://twitter.com/dripp1ng_ "Twitter")
+- [Twitter](https://twitter.com/nicomlopez "Twitter")
 - [Linkedin](https://www.linkedin.com/in/nicolas-lopez-qa/ "Linkedin")
 
 
