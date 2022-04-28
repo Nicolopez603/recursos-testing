@@ -40,7 +40,8 @@ ESP & ENG | Introduccion | Introduction
 [`Material para practicar`](#Paginas-para-practicar) | Excelente seccion a la hora de practicar.| Excellent section for practice.
 [`Roadmap QA`](#Roadmap-QA) | Guia para tener en cuenta.| Guidance to consider.
 [`Herramientas - Tools`](#Herramientas) | Herramientas con distintos lenguajes & Frameworks.| Tools with different languages & Frameworks.
-[`Cursos & Tutoriales - Free courses and tutorials`](#Cursos-Gratuitos) | Material teórico y práctico gratuito | Free theoretical and practical material
+[`Cursos & Tutoriales - Free Courses & Tutorials`](#Cursos-Gratuitos) | Material teórico y práctico gratuito | Free theoretical and practical material
+[`Contribuir`](#Contribuir) | Como contribuir al repositorio | How to contribute to the repository
 
 ------------
 
