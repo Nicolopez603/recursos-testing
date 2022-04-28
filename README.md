@@ -402,9 +402,6 @@ ESP & ENG | Introduccion | Introduction
 
 #### ESP
 
-- [QA MERCENARIES](qamercenaries.slack.com "[QA MERCENARIES]")
-
-
 - [UNDER-TEST](under--test.slack.com "[UNDER-TEST]")
 
 
@@ -422,7 +419,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [Test Automation - Charly Automatiza](https://discord.com/invite/wwM9GwxmRZ "Test Automation - Charly Automatiza")
 
-- [ Free Range Testers](https://discord.gg/S3Z4VSpR " Free Range Testers")
+- [ Free Range Testers](https://discord.gg/K7MrbmYR " Free Range Testers")
 
 
 
