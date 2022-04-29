@@ -175,7 +175,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [ContinuosTesting](https://continuoustesting.dev/ "ContinuosTesting")
 
-- [Satifisfice](https://www.satisfice.com/blog/ "Satifisfice")
+- [Satisfice](https://www.satisfice.com/blog/ "Satisfice")
 
 - [SoftwareTester](https://www.softwaretester.blog/ "SoftwareTester")
 
@@ -320,6 +320,8 @@ ESP & ENG | Introduccion | Introduction
 
 - [Carlos Kidman](https://www.linkedin.com/in/carlos-kidman/ "Carlos Kidman")
 
+- [James Bach](https://www.linkedin.com/in/james-bach-6188a811/ "James Bach")
+
 ###  [Comunidades]
 
 #### ESP
@@ -417,7 +419,7 @@ ESP & ENG | Introduccion | Introduction
 
 -  [Softwaretestingpodcast](https://www.softwaretestingpodcast.com/ "Softwaretestingpodcast")
 
-- [Abstracta Podcast](https://abstracta.us/software-testing-podcast "Abstracta Podcast")
+- [Quality Sense Podcast (Federico Toledo, Abstracta)](https://abstracta.us/software-testing-podcast "Quality Sense Podcast (Federico Toledo, Abstracta)")
 
 - [TestGuild](https://testguild.com/podcasts/ "TestGuild")
 
@@ -467,6 +469,8 @@ ESP & ENG | Introduccion | Introduction
 - [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")
 
 #### ENG
+
+[Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU "Open Lecture by James Bach on Software Testing")
 
 <a name="Paginas-para-practicar"></a>
 # Material para practicar -  Material to practice ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
