@@ -102,6 +102,9 @@ ESP & ENG | Introduccion | Introduction
 
 - [Canal: Testing en Chile](https://www.youtube.com/channel/UCIzidbV0wqGaQmRbux_o31Q/videos "Canal: Testing en Chile")
 
+-  [Canal: TestingAR](https://www.youtube.com/c/TestingARMeetup/videos "TestingAR")
+
+
 #### ENG
 
 - [Channel: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
@@ -364,6 +367,8 @@ ESP & ENG | Introduccion | Introduction
 
 - [MoT](https://twitter.com/ministryoftest "MoT")
 
+- [TestingAR](https://twitter.com/TestingARMeetup "TestingAR")
+
 #### ENG
 
 - [Chris Arnstrong](https://twitter.com/christovskia "Chris Arnstrong")
@@ -427,6 +432,9 @@ ESP & ENG | Introduccion | Introduction
 
 - [UNDER-TEST](under--test.slack.com "[UNDER-TEST]")
 
+- QA-MERCENARIES
+
+- [TESTINGAR](https://webtask.it.auth0.com/api/run/wt-ignacio_esmite-auth0_com-0/testingar-signup?webtask_no_cache=1 "TESTINGAR")
 
 - [UPEX](https://upexqa.slack.com/join/shared_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ "[UPEX]")
 
