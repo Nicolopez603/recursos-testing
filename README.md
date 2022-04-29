@@ -457,8 +457,6 @@ ESP & ENG | Introduccion | Introduction
 
 - [UNDER-TEST](under--test.slack.com "[UNDER-TEST]")
 
-- QA-MERCENARIES
-
 - [TESTINGAR](https://webtask.it.auth0.com/api/run/wt-ignacio_esmite-auth0_com-0/testingar-signup?webtask_no_cache=1 "TESTINGAR")
 
 - [UPEX](https://upexqa.slack.com/join/shared_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ "[UPEX]")
