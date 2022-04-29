@@ -197,6 +197,23 @@ ESP & ENG | Introduccion | Introduction
 
 - [GlobalAPPTesting](https://www.globalapptesting.com/blog "GlobalAPPTesting")
 
+- [Naveenautomationlabs](https://naveenautomationlabs.com/ "naveenautomationlabs")
+
+- [Learn-Automation](https://learn-automation.com/ "Learn-Automation")
+
+- [Blog-TestProject](https://blog.testproject.io/ "Blog-TestProject")
+
+- [Softwaretestingmaterial](https://www.softwaretestingmaterial.com/ "softwaretestingmaterial")
+
+- [ToolsQA](https://toolsqa.com/ "ToolsQA")
+
+- [lambdaTest](https://www.lambdatest.com/blog/ "lambdaTest")
+
+
+
+
+
+
 <a name="Libros"></a>
 # Libros - Books ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
 
@@ -290,6 +307,8 @@ ESP & ENG | Introduccion | Introduction
 
 - [Elyer Maldonado](https://www.linkedin.com/in/elyermad/ "Elyer Maldonado")
 
+- [Damian Meydac Jean](https://www.linkedin.com/in/damianmeydacjean/ "Damian Meydac Jean")
+
 - [Alfred Tejeda](https://www.linkedin.com/in/alfredtejeda/ "Alfred Tejeda")
 
 - [Olga Carreras](https://www.linkedin.com/in/olgacarreras/ "Olga Carreras")
@@ -321,6 +340,8 @@ ESP & ENG | Introduccion | Introduction
 - [Carlos Kidman](https://www.linkedin.com/in/carlos-kidman/ "Carlos Kidman")
 
 - [James Bach](https://www.linkedin.com/in/james-bach-6188a811/ "James Bach")
+
+- [John Ferguson](https://www.linkedin.com/in/john-ferguson-smart/ "John Ferguson")
 
 ###  [Comunidades]
 
@@ -370,6 +391,8 @@ ESP & ENG | Introduccion | Introduction
 - [MoT](https://twitter.com/ministryoftest "MoT")
 
 - [TestingAR](https://twitter.com/TestingARMeetup "TestingAR")
+
+- [TestingChannel](https://twitter.com/testingchannel_ "TestingChannel")
 
 #### ENG
 
@@ -444,6 +467,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [MinistryOfTesting](https://www.ministryoftesting.com/slack_invite "MinistryOfTesting")
 
+- [TAU](https://testautomationu.slack.com/signup#/domain-signup "TAU")
 
 <a name="Discord"></a>
 # Discord ![Discord](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/discord.png "Discord")
@@ -470,7 +494,7 @@ ESP & ENG | Introduccion | Introduction
 
 #### ENG
 
-[Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU "Open Lecture by James Bach on Software Testing")
+- [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU "Open Lecture by James Bach on Software Testing")
 
 <a name="Paginas-para-practicar"></a>
 # Material para practicar -  Material to practice ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
@@ -775,6 +799,8 @@ Manual | Automation
 [-] | [Course: Jenkins](https://www.youtube.com/watch?v=3Ax9bcj3OrM&list=PLYDwWPRvXB89p_NxZJSjsldRR0vUdv3-g "Course: Jenkins")
 [-] | [Course: Postman](https://www.youtube.com/watch?v=imwPHA7bXDM&list=PLYDwWPRvXB8-3QhgZvW1xOE-T-I2W7iDx "Course: Postman")
 [-] | [Course: TestCafe](https://www.youtube.com/watch?v=wbJZd9CuVM4&list=PLYDwWPRvXB8_TDgPmQyMNjN6gaI8yS7KQ "Course: TestCafe")
+[-] | [Multiple-Courses: TAU](https://testautomationu.applitools.com/ "Multiple-Courses: TAU")
+[-] | [Multiple-Courses: AutomationStepByStep](https://automationstepbystep.com/ "Multiple-Courses: AutomationStepByStep")
 
 
 
