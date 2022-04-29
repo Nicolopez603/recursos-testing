@@ -159,6 +159,9 @@ ESP & ENG | Introduccion | Introduction
 
 - [OlgaCarreras](https://olgacarreras.blogspot.com/ "OlgaCarreras")
 
+- [QAnews](https://qanewsblog.com/ "QAnews")
+
+
 #### ENG
 
 - [Ministryoftesting.com](https://www.ministryoftesting.com/dojo "ministryoftesting.com")
@@ -174,6 +177,22 @@ ESP & ENG | Introduccion | Introduction
 - [SoftwareTester](https://www.softwaretester.blog/ "SoftwareTester")
 
 - [AutomationPanda](https://automationpanda.com/ "AutomationPanda")
+
+- [Guru99](https://www.guru99.com/software-testing.html "Guru99")
+
+- [AngieJones](https://angiejones.tech/ "AngieJones")
+
+- [AppliTools](https://applitools.com/blog/ "AppliTools")
+
+- [QABlog](https://qablog.practitest.com/ "QABlog")
+
+- [Rainforest](https://www.rainforestqa.com/blog "RainForest")
+
+- [Blog-apptim](https://blog.apptim.com/ "Blog-apptim")
+
+- [TestandCode](https://testandcode.com/ "TestandCode")
+
+- [GlobalAPPTesting](https://www.globalapptesting.com/blog "GlobalAPPTesting")
 
 <a name="Libros"></a>
 # Libros - Books ![Libros](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/libros.png "Libros-icon")
