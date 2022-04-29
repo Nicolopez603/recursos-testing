@@ -455,7 +455,7 @@ ESP & ENG | Introduccion | Introduction
 
 #### ESP
 
-- [UNDER-TEST](under--test.slack.com "[UNDER-TEST]")
+- [UNDER-TEST](https://join.slack.com/t/under--test/shared_invite/zt-meihwyk0-hNDdioGXUvQewyJkzoJWlw "[UNDER-TEST]")
 
 - [TESTINGAR](https://webtask.it.auth0.com/api/run/wt-ignacio_esmite-auth0_com-0/testingar-signup?webtask_no_cache=1 "TESTINGAR")
 
