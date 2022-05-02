@@ -311,6 +311,10 @@ ESP & ENG | Introduccion | Introduction
 
 - [Alfred Tejeda](https://www.linkedin.com/in/alfredtejeda/ "Alfred Tejeda")
 
+- [Irene Valentina](https://www.linkedin.com/in/irerda/ "Irene Valentina")
+
+- [Florencia Teves](https://www.linkedin.com/in/florenciateves/ "Florencia Teves")
+
 - [Olga Carreras](https://www.linkedin.com/in/olgacarreras/ "Olga Carreras")
 
 #### ENG
