@@ -480,7 +480,7 @@ ESP & ENG | Introduccion | Introduction
 
 - [Test Automation - Charly Automatiza](https://discord.com/invite/wwM9GwxmRZ "Test Automation - Charly Automatiza")
 
-- [ Free Range Testers](https://discord.gg/K7MrbmYR " Free Range Testers")
+- [ Free Range Testers](https://discord.gg/FQm7kuzqrj " Free Range Testers")
 
 
 <a name="Talks-Webinars"></a>
