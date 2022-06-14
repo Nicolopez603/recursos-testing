@@ -28,11 +28,9 @@
 
 ESP & ENG | Introduccion | Introduction
 ------------- | ------------- | --------------- |
-[`YouTube`](#Youtube)  | Canales Informativos. | Information channels .
+[`Referentes`](#Referentes)  | Canales Informativos y de educacion de referentes como tambien sus redes | Informative and educational referral channels as well as their networks
 [`Paginas & Blogs`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes.| Content made by referents.
 [`Libros - Books`](#Libros)  | Contenido con gran informacion.| The best books.
-[`LinkedIn`](#Linkedin)  | Referentes del area del Testing.| Referents in the area of Testing.
-[`Twitter`](#Twitter) | Mantente informado de las ultimas novedades| Stay informed of the latest news.
 [`Podcast`](#Podcast)  | Tanto de Latam como del Exterior.| From Latin America and abroad.
 [`Slack`](#Slack) | Comunidades para hacer Networking.| Communities for Networking.
 [`Discord`](#Discord) | Comunidades para hacer Networking.| Communities for Networking.
@@ -45,83 +43,60 @@ ESP & ENG | Introduccion | Introduction
 
 ------------
 
-<a name="Youtube"></a>
-# Youtube ![Youtube-Icon](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/youtube.png "Youtube-Icon")
+<a name="Referentes"></a>
+# Referentes 
 
-> #### Contiene canales de Testing Manual & Automation. Es orden es total y puramente aleatorio:
+| Nombre             | Twitter                                                | Youtube                                                                            | Twitch                                                              | Linkedin                                                                 | Idioma  |
+| ------------------ | ------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------- |
+| Nadia Cavalleri    | [![twitter]](https://twitter.com/NadiaCavalleri)   | [![youtube]](http://youtube.com/c/NadiaSoledadCavalleri/videos)                |                                                                     | [![linkedin]](https://www.linkedin.com/in/ncavalleri/)               | ![es] |
+| Carlos Gauto       | [![twitter]](https://twitter.com/char\_automatiza) | [![youtube]](https://www.youtube.com/c/CharlyAutomatiza)                       | [![twitch]](https://www.twitch.tv/charlyautomatiza)             | [![linkedin]](https://www.linkedin.com/in/gautocarlos/)              | ![es]
+| Federico Toledo       | [![twitter]](https://twitter.com/fltoledo) |                        |              | [![linkedin]](https://www.linkedin.com/in/federicotoledo/)              | ![es] |
+| Diego Gavilanes    | [![twitter]](https://twitter.com/thetesteriam)     |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/diego-gavilanes-azambuya/) | ![es] |
+| Damian Pereira     | [![twitter]](https://twitter.com/damianpereira86)  |  |                                                                                  | [![linkedin]](https://www.linkedin.com/in/damian-pereira/)      | ![es]                                                                  |
+| Joan Esquivel      | [![twitter]](https://twitter.com/joanmediaes)      | [![youtube]](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y\_YnQ/videos) |                                                                     | [![linkedin]](https://www.linkedin.com/in/joanesquivel/)             | ![es] |
+| Patricio Miner     | [![twitter]](https://twitter.com/RangeTester)      | [![youtube]](https://www.youtube.com/c/TheFreeRangeTester)                     |                                                                     | [![linkedin]](https://www.linkedin.com/in/patricio-m-690b3729/)      | ![es] |
+| Esteban Balvin     |                                                        | [![youtube]](https://www.youtube.com/c/GeekQA)                                 |                                                                     | [![linkedin]](https://www.linkedin.com/in/esteban-balvin-763a6773/)  | ![es] |
+| Pablo Soifer       | [![twitter]](https://twitter.com/PabloSoifer1)     | [![youtube]](https://www.youtube.com/c/Draculinio)                             |                                                                     | [![linkedin]](https://www.linkedin.com/in/pablo-soifer-9a087322/)    | ![es] |
+| Leonardo Corrales  | [![twitter]](https://twitter.com/Leocorrales84)    |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/leonardo-corrales/)        | ![es] |
+| Edgardo Crovetto   | [![twitter]](https://twitter.com/edgardocrovetto)  |     |                                                                               | [![linkedin]](https://www.linkedin.com/in/edgardocrovetto/)     | ![es]                                                                  |
+| Karine Ramos       |                                                        | [![youtube]](https://www.youtube.com/c/QualityStream/videos)                   |                                                                     | [![linkedin]](https://www.linkedin.com/in/karine-ramos-02006485/)    | ![es] |
+| Matias Pirez       | [![twitter]](https://twitter.com/matiaspirez)      | [![youtube]](https://www.youtube.com/c/TestingParaTodos/videos)                |                                                                     | [![linkedin]](https://www.linkedin.com/in/matiaspirez/)              | ![es] |
+| Elyer Maldonado    |                                                        | [![youtube]](https://www.youtube.com/c/Saitest/videos)                         |                                                                     | [![linkedin]](https://www.linkedin.com/in/elyermad/)                 | ![es] |
+| Damian Meydac Jean |                                                        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/damianmeydacjean/)         | ![es] |
+| Alfred Tejeda      | [![twitter]](https://twitter.com/atejeda\_qa)      |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/alfredtejeda/)             | ![es] |
+| Irene Valentina    |                                                        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/irerda/)                   | ![es] |
+| Florencia Teves    |                                                        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/florenciateves/)           | ![es] |
+| Olga Carreras      | [![twitter]](https://twitter.com/olgacarreras)     | [![youtube]](https://www.youtube.com/user/UsableyAccesible)                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/olgacarreras/)             | ![es] |
+| Fabrizio Otranto   |                                                        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/fabrizio-otranto/)         | ![es] |
+| Leonardo Espindola | [![twitter]](https://twitter.com/espindolaleoapi)  | [![youtube]](https://www.youtube.com/c/LeonardoExequielEspindola/videos)       |                                                                     | [![linkedin]](https://www.linkedin.com/in/leonardoespindola/)        | ![es] |
+| Lisandra Armas     | [![twitter]](https://twitter.com/lisyarmas)        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/lisandra-armas-aguila/)    | ![es] |
+| Francisco Moreno   | [![twitter]](https://twitter.com/morvader)         |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/franciscomorenosanz/)      | ![es] |
+| Delvis Echeverria  | [![twitter]](https://twitter.com/DelvisEcheverri)  |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/delvisecheverria/)         | ![es] |
+| Ximena Romero      | [![twitter]](https://twitter.com/ximer81)          |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/ximena-romero-2a225269/)   | ![es] |
+| Angie Jones        | [![twitter]](https://twitter.com/techgirl1908)     | [![youtube]](https://www.youtube.com/user/angieluvboo)                         |                                                                     | [![linkedin]](https://www.linkedin.com/in/angiejones/)               | ![en] |
+| Janet Gregory      | [![twitter]](https://twitter.com/janetgregoryca)   |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/janetgregory/)             | ![en] |
+| Eran Kinsbruner    | [![twitter]](https://twitter.com/ek121268)         |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/erankinsbruner/)           | ![en] |
+| Simon Prior        | [![twitter]](https://twitter.com/LeadTestInclude)  |        |                                                                            | [![linkedin]](https://www.linkedin.com/in/simon-prior-0499372/) | ![en]                                                                  |
+| Tristan Lombard    | [![twitter]](https://twitter.com/TristanLombard2)  |         |                                                                           | [![linkedin]](https://www.linkedin.com/in/tristanlombard/)      | ![en]                                                                  |
+| Erika Chestnut     | [![twitter]](https://twitter.com/erika\_chestnut)  |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/erikachestnut/)            | ![en] |
+| Katya Aronov       |                                                        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/katya-aronov/)             | ![en] |
+| Ian Goddard        |                                                        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/goddardian/)               | ![en] |
+| Lisi Hocke         | [![twitter]](https://twitter.com/lisihocke)        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/lisihocke/)                | ![en] |
+| Lisa Crispin       |                                                        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/lisa-crispin-88420a/)      | ![en] |
+| Carlos Kidman      | [![twitter]](https://twitter.com/CarlosKidman)     | [![youtube]](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos)  |                                                                     | [![linkedin]](https://www.linkedin.com/in/carlos-kidman/)            | ![en] |
+| James Bach         | [![twitter]](https://twitter.com/jamesmarcusbach)  |          |                                                                          | [![linkedin]](https://www.linkedin.com/in/james-bach-6188a811/) | ![en]                                                                  |
+| John Ferguson      |                                                        |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/in/john-ferguson-smart/)      | ![en] |
+| Under-Test         | [![twitter]](https://twitter.com/undertest\_es)    | [![youtube]](https://www.youtube.com/channel/UCRmodhs9u-WAk98URjaCo1w/videos)  |                                                                     | [![linkedin]](https://www.linkedin.com/company/under-test/)          | ![es] |
+| Quassure           | [![twitter]](https://twitter.com/QuassureUY)       |                                                                                    |                                                                     | [![linkedin]](https://www.linkedin.com/company/quassure/)            | ![es] |
+| MoT                | [![twitter]](https://twitter.com/ministryoftest)   | [![youtube]](https://www.youtube.com/c/MinistryofTesting)                      |                                                                     | [![linkedin]](https://www.linkedin.com/company/ministry-of-testing/) | ![es] |
+| TestingAR          | [![twitter]](https://twitter.com/TestingARMeetup)  | [![youtube]](https://www.youtube.com/c/TestingARMeetup/videos)                 |                                                                     |                                                                          | ![es] |
+| TestingChannel     | [![twitter]](https://twitter.com/testingchannel\_) | [![youtube]](https://www.youtube.com/channel/UC5LNk2IIWBlDChd6XhbqVMQ/videos)  | [![twitch]](https://www.twitch.tv/testingchannelTV)             |                                                                          | ![es] |
+| Abstracta          | [![twitter]](https://twitter.com/AbstractaUS)      | [![youtube]](https://www.youtube.com/c/AbstractaUS/videos)                     |                                                                     | [![linkedin]](https://www.linkedin.com/company/abstracta/)           | ![es] |
+| Northem Quality    | [![twitter]](https://twitter.com/northemquality)   | [![youtube]](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos)  |                                                                     | [![linkedin]](https://www.linkedin.com/company/northemquality/)      | ![es] |
+| QA Minds           |                                                        | [![youtube]](https://www.youtube.com/c/QAMINDS/videos)                         |                                                                     | [![linkedin]](https://www.linkedin.com/company/qamindslab/)          | ![es] |
+| ArgenTesting       |                                                        | [![youtube]](https://www.youtube.com/c/Argentesting/videos)                    |                                                                     | [![linkedin]](https://www.linkedin.com/company/argentesting/)        | ![es] |
+| TestingUY          | [![twitter]](https://twitter.com/testingUY)        | [![youtube]](https://www.youtube.com/c/TestingUy/videos)                       |                                                                     | [![linkedin]](https://www.linkedin.com/company/testinguy/)           | ![es] |
 
-> #### Contains Manual & Automation Testing channels. The order is totally and purely random:
-
-#### ESP
-
-- [Canal: Testing para todos](http://youtube.com/c/TestingParaTodos/videos "Canal: Testing para todos - Matías Pírez")
-
-- [ Canal: Nadia Cavalleri](http://youtube.com/c/NadiaSoledadCavalleri/videos " Canal: Nadia Cavalleri - Nadia Soledad Cavalleri")
-
-- [Canal: Quality Stream](http://youtube.com/c/QualityStream/videos "Canal: Quality Stream - Karine Ramos")
-
-- [Canal: A Tester Mate](http://youtube.com/c/ATesterMate/videos "Canal: A Tester Mate @ATesterMate")
-
-- [Canal: The QA Testing Channel](http://youtube.com/c/TheQATestingChannel/videos "Canal: The QA Testing Channel @QATestingchannl")
-
-- [Canal: Charly Automatiza](https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg/videos "Canal: Charly Automatiza - Carlos Gauto")
-
-- [Canal: Saitest](https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ "Canal: Saitest - Elyer Maldonado")
-
-- [Canal: GeekQA]( https://www.youtube.com/c/GeekQA "Canal: GeekQA - Esteban Balvin")
-
-- [Canal: The Free Range Tester](https://www.youtube.com/c/TheFreeRangeTester "Canal: The Free Range Tester - Patricio Miner")
-
-- [Canal: Draculinio](https://www.youtube.com/c/Draculinio "Canal: Draculinio - Pablo Soifer")
-
-- [Canal: Joanmedia](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ/videos "Canal: Joanmedia - Joan media")
-
-- [Canal: Señor Perfomo](https://www.youtube.com/c/Se%C3%B1orPerformo/featured "Canal: Señor Perfomo")
-
-- [Canal: FullAdvanced](https://www.youtube.com/c/FullAdvanced/videos "Canal: FullAdvanced")
-
-### [Comunidades]
-
--  [Canal: Argentesting](https://www.youtube.com/c/Argentesting/videos "Canal: Argentesting - ArgenTesting ")
-
--  [Canal: TestingUY](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: TestingUY - TestingUy ")
-
-- [Canal: Under Test](http://youtube.com/channel/UCRmodhs9u-WAk98URjaCo1w/videos "Canal: Under Test -  Under Test ")
-
--  [Canal: Abstracta](http://youtube.com/c/AbstractaUS/videos "Canal: Abstracta") 
-
--  [Canal: Northem Quality](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw/videos "Canal: Northem Quality @")
-
-- [Canal: Testing Bolivia](https://www.youtube.com/channel/UCI-QIfg3XynSFKJkNXFycMg/videos "Canal: Testing Bolivia")
-
--  [Canal: QA Dominicana](https://www.youtube.com/channel/UC6f2mFVJtUjjuGAx5jeV4jA "Canal: QA Dominicana")
-
--  [Canal: QA Minds](https://www.youtube.com/c/QAMINDS/videos "Canal: QA Minds")
-
-- -  [(Miercoles de QA Minders)](https://www.youtube.com/playlist?list=PLJL6iubHUeX0FoJ1g8FwAUVuaBrq-ey0p "(Miercoles de QA Minders)")
-
-- [Canal: Testing en Chile](https://www.youtube.com/channel/UCIzidbV0wqGaQmRbux_o31Q/videos "Canal: Testing en Chile")
-
--  [Canal: TestingAR](https://www.youtube.com/c/TestingARMeetup/videos "TestingAR")
-
-
-#### ENG
-
-- [Channel: QA at the point](https://www.youtube.com/channel/UCNvYBOCETf7MByrYKDTU3fQ/videos "QA at the point")
-
-- [Channel: The Test Lead](https://www.youtube.com/channel/UC7O2ES7xKv35EPtga6OtLHg/videos "The Test Lead")
-
-- [Channel: QA Madness](https://www.youtube.com/c/QAMadness/videos "QA Madness")
-
-- [Channel: TestDemy](https://www.youtube.com/channel/UCd2hh6hEcpSy-u_IAnev9uQ/videos "TestDemy")
-
-- [Channel: AutomationStepByStep](https://www.youtube.com/c/AutomationStepByStep "AutomationStepByStep")
-
-- [Channel: SDET- QA Automation Techie](https://www.youtube.com/c/pavanoltraining "SDET- QA Automation Techie")
-
-- [Channel: RahulShettyAcademy](https://www.youtube.com/c/RahulShettyAcademy/videos "RahulShettyAcademy")
-
-- [Channel: AgileTestingFellowship](https://www.youtube.com/c/AgileTestingFellowship "AgileTestingFellowship")
 
 <a name="Paginas-Blog-Informativos"></a>
 # Paginas & Blogs - Websites and blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
@@ -275,154 +250,6 @@ ESP & ENG | Introduccion | Introduction
 - [Accelerating Software Quality: Machine Learning and Artificial Intelligence in the Age of DevOps](https://www.amazon.com/-/es/gp/product/B08FKWD2TR/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2 "Accelerating Software Quality: Machine Learning and Artificial Intelligence in the Age of DevOps")
 
 - [Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts](https://www.amazon.com/-/es/gp/product/B07H8PH7VB/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1 "Continuous Testing for DevOps Professionals: A Practical Guide From Industry Experts")
-
-<a name="Linkedin"></a>
-# Linkedin ![Linkedin](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/linkedin.png "Linkedin")
-
-#### ESP
-
-- [Diego Gavilanes](https://www.linkedin.com/in/diego-gavilanes-azambuya/ "Diego Gavilanes")
-
-- [Damian Pereira](https://www.linkedin.com/in/damian-pereira/ "Damian Pereira")
-
-- [Carlos Gauto](https://www.linkedin.com/in/gautocarlos/ "Carlos Gauto")
-
-- [Joan Esquivel](https://www.linkedin.com/in/joanesquivel/ "Joan Esquivel")
-
-- [Patricio Miner](https://www.linkedin.com/in/patricio-m-690b3729/ "Patricio Miner")
-
-- [Esteban Balvin](https://www.linkedin.com/in/esteban-balvin-763a6773/ "Esteban Balvin")
-
-- [Nadia Soledad Cavalleri](https://www.linkedin.com/in/ncavalleri/ "Nadia Soledad Cavalleri")
-
-- [Pablo Soifer](https://www.linkedin.com/in/pablo-soifer-9a087322/ "Pablo Soifer")
-
-- [Leonardo Corrales](https://www.linkedin.com/in/leonardo-corrales/ "Leonardo Corrales")
-
-- [Edgardo Crovetto](https://www.linkedin.com/in/edgardocrovetto/ "Edgardo Crovetto")
-
-- [Karine Ramos](https://www.linkedin.com/in/karine-ramos-02006485/ "Karine Ramos")
-
-- [Matias Pirez](https://www.linkedin.com/in/matiaspirez/ "Matias Pirez")
-
-- [Elyer Maldonado](https://www.linkedin.com/in/elyermad/ "Elyer Maldonado")
-
-- [Damian Meydac Jean](https://www.linkedin.com/in/damianmeydacjean/ "Damian Meydac Jean")
-
-- [Alfred Tejeda](https://www.linkedin.com/in/alfredtejeda/ "Alfred Tejeda")
-
-- [Irene Valentina](https://www.linkedin.com/in/irerda/ "Irene Valentina")
-
-- [Florencia Teves](https://www.linkedin.com/in/florenciateves/ "Florencia Teves")
-
-- [Olga Carreras](https://www.linkedin.com/in/olgacarreras/ "Olga Carreras")
-
-- [Fabrizio Otranto](https://www.linkedin.com/in/fabrizio-otranto/ "Fabrizio Otranto")
-
-#### ENG
-
-- [Angie Jones](https://www.linkedin.com/in/angiejones/ "Angie Jones")
-
-- [Janet Gregory](https://www.linkedin.com/in/janetgregory/ "Janet Gregory")
-
-- [Eran Kinsbruner](https://www.linkedin.com/in/erankinsbruner/ "Eran Kinsbruner")
-
-- [Simon Prior](https://www.linkedin.com/in/simon-prior-0499372/ "Simon Prior")
-
-- [Tristan Lombard](https://www.linkedin.com/in/tristanlombard/ "Tristan Lombard")
-
-- [Erika Chestnut](https://www.linkedin.com/in/erikachestnut/ "Erika Chestnut")
-
-- [Katya Aronov](https://www.linkedin.com/in/katya-aronov/ "Katya Aronov")
-
-- [Ian Goddard](https://www.linkedin.com/in/goddardian/ "Ian Goddard")
-
-- [Julio de lima](https://www.linkedin.com/in/juliodelimas/ "Julio de lima")
-
-- [Lisi Hocke](https://www.linkedin.com/in/lisihocke/ "Lisi Hocke")
-
-- [Lisa Crispin](https://www.linkedin.com/in/lisa-crispin-88420a/ "Lisa Crispin")
-
-- [Carlos Kidman](https://www.linkedin.com/in/carlos-kidman/ "Carlos Kidman")
-
-- [James Bach](https://www.linkedin.com/in/james-bach-6188a811/ "James Bach")
-
-- [John Ferguson](https://www.linkedin.com/in/john-ferguson-smart/ "John Ferguson")
-
-###  [Comunidades]
-
-#### ESP
-
-- [QA Dominicana](https://www.linkedin.com/company/qa-dominicana/about/ "QA Dominicana")
-
-- [Under-Test](https://www.linkedin.com/company/under-test/ "Under-Test")
-
-- [Quassure](https://www.linkedin.com/company/quassure/ "Quassure")
-
-- [ArgenTesting](https://www.linkedin.com/company/argentesting/ "ArgenTesting")
-
-<a name="Twitter"></a>
-# Twitter ![Twitter](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/twitter.png "Twitter")
-
-#### ESP
-
-- [Pablo Soifer](https://twitter.com/PabloSoifer1 "Pablo Soifer")
-
-- [Patricio Miner](https://twitter.com/RangeTester "Patricio Miner")
-
-- [Joan ES](https://twitter.com/joanmediaes "Joan ES")
-
-- [Leo Corrales](https://twitter.com/Leocorrales84 "Leo Corrales")
-
-- [Nadia Cavalleri](https://twitter.com/NadiaCavalleri "Nadia Cavalleri")
-
-- [Francisco Moreno](https://twitter.com/morvader "Francisco Moreno")
-
-- [Ximena Romero](https://twitter.com/ximer81 "Ximena Romero")
-
-- [Carlos Gauto](https://twitter.com/char_automatiza "Carlos Gauto")
-
-- [Abel Quintana](https://twitter.com/beloquintana "Abel Quintana")
-
-- [Leonardo Espindola](https://twitter.com/espindolaleoapi "Leonardo Espindola")
-
-- [Lisandra Armas](https://twitter.com/lisyarmas "Lisandra Armas")
-
-#### [Comunidades]
-
-- [Under-Test](https://twitter.com/undertest_es "Under-Test")
-
-- [Quassure](https://twitter.com/QuassureUY "Quassure")
-
-- [MoT](https://twitter.com/ministryoftest "MoT")
-
-- [TestingAR](https://twitter.com/TestingARMeetup "TestingAR")
-
-- [TestingChannel](https://twitter.com/testingchannel_ "TestingChannel")
-
-#### ENG
-
-- [Chris Arnstrong](https://twitter.com/christovskia "Chris Arnstrong")
-
-- [Pandy Knight](https://twitter.com/AutomationPanda "Pandy Knight")
-
-- [Carlos Kidman](https://twitter.com/CarlosKidman "Carlos Kidman")
-
-- [Sanjay Kumar](https://twitter.com/SanjayKumaarr "Sanjay Kumar")
-
-- [Angie Jones](https://twitter.com/techgirl1908 "Angie Jones")
-
-- [Claudia Badell](https://twitter.com/claubs_uy "Claudia Badell")
-
-- [Paul Grizzaffi](https://twitter.com/pgrizzaffi "Paul Grizzaffi")
-
-- [Eran Kinsbruner](https://twitter.com/ek121268 "Eran Kinsbruner")
-
-- [Joan Media](https://twitter.com/joan_media "Joan Media")
-
-- [Delvis Echeverria](https://twitter.com/DelvisEcheverri "Delvis Echeverria")
-
-- [Lisi Hocke](https://twitter.com/lisihocke "Lisi Hocke")
 
 
 <a name="Podcast"></a>
@@ -863,7 +690,7 @@ Manual | Automation
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Invita un café ☕ a alguien del equipo.
+* Invita un café ☕ o Mate a alguien del equipo ^-^ .
 * Da las gracias públicamente 🤓.
 
 Hecho con ❤️ para ustedes =)
@@ -876,3 +703,16 @@ Contacto:
 
 
 
+
+
+[twitter]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitter_icon-icons.com_66688.png?alt=media&token=f413e76a-08d4-4259-92e9-d1fa41d62ecd "Twitter"
+
+[youtube]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/1491580651-yumminkysocialmedia28_83061.png?alt=media&token=3cfbf587-9d88-4c55-ac42-3b0b32c6578f "Youtube"
+
+[twitch]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitch_icon_146123.png?alt=media&token=a1bd09c2-22ae-4b18-93de-55fe2aaab7f3 "Twitch"
+
+[linkedin]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/linkedin_icon-icons.com_65929.png?alt=media&token=5bdf302c-6710-4460-93b2-8221dec7e344 "Linkedin"
+
+[en]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/en-flag.png?alt=media&token=d2fb3718-7802-4b81-ac03-e94a8d9bed4e "English"
+
+[es]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/es-flag.png?alt=media&token=019f63c7-4c64-4f2a-8543-57c93275cd8f "Español"
