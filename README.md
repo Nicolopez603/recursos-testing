@@ -26,7 +26,7 @@
 ## `Tabla de Contenido | Table of Contents`
 
 
-ESP & ENG | Introduccion | Introduction
+ESP & ENG | ![es] | ![en]
 ------------- | ------------- | --------------- |
 [`Referentes`](#Referentes)  | Canales Informativos y de educacion de referentes como tambien sus redes | Informative and educational referral channels as well as their networks
 [`Paginas & Blogs`](#Paginas-Blog-Informativos)  | Contenido hecho por referentes.| Content made by referents.
