@@ -101,91 +101,48 @@ ESP & ENG | ![es] | ![en]
 <a name="Paginas-Blog-Informativos"></a>
 # Paginas & Blogs - Websites and blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
 
-#### ESP
 
-- [Federico-toledo.com](https://www.federico-toledo.com/category/blog/ "Federico-toledo.com")
-
-- [Nadiacavalleri.com.ar]( https://nadiacavalleri.com.ar/blog/ "Nadiacavalleri.com.ar")
-
-- [Freerangetesters.com](https://www.freerangetesters.com/blog "freerangetesters.com")
-
-- [Testingbaires.com](https://testingbaires.com/blog/ "testingbaires.com")
-
-- [QAlovers.com](https://www.qalovers.com/search?updated-max=max-results=6 "QAlovers.com")
-
-- [CL.abstracta.us](https://cl.abstracta.us/blog/ "cl.abstracta.us")
-
-- [Unaqaenapuros.wordpress.com]( https://unaqaenapuros.wordpress.com/ "unaqaenapuros.wordpress.com")
-
-- [Alexanderandrade.net](https://alexanderandrade.net/blog/#.Ydhg8WjMLIU "alexanderandrade.net")
-
-- [Aftertest.es](https://www.aftertest.es/ "aftertest.es")
-
-- [Jmeterenespanol.org](https://jmeterenespanol.org/blog/ "jmeterenespanol.org")
-
-- [QA.rocks](https://qa.rocks/ "qa.rocks")
-
-- [QAjungle.com](https://qajungle.com/ "qajungle.com")
-
-- [Elblogdesanti.com]( https://elblogdesanti.com/ciencia-y-tecnologia/testing-automatizado/ "elblogdesanti.com")
-
-- [Elminimoviable.es](https://elminimoviable.es/ "elminimoviable.es")
-
-- [Blog.winstoncastillo.com](https://blog.winstoncastillo.com/ "blog.winstoncastillo.com")
-
-- [Testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda")
-
-- [OlgaCarreras](https://olgacarreras.blogspot.com/ "OlgaCarreras")
-
-- [QAnews](https://qanewsblog.com/ "QAnews")
-
-
-#### ENG
-
-- [Ministryoftesting.com](https://www.ministryoftesting.com/dojo "ministryoftesting.com")
-
-- [Testguild.com](https://testguild.com/ "testguild.com")
-
-- [Ek121268](https://ek121268.medium.com/)
-
-- [ContinuosTesting](https://continuoustesting.dev/ "ContinuosTesting")
-
-- [Satisfice](https://www.satisfice.com/blog/ "Satisfice")
-
-- [SoftwareTester](https://www.softwaretester.blog/ "SoftwareTester")
-
-- [AutomationPanda](https://automationpanda.com/ "AutomationPanda")
-
-- [Guru99](https://www.guru99.com/software-testing.html "Guru99")
-
-- [AngieJones](https://angiejones.tech/ "AngieJones")
-
-- [AppliTools](https://applitools.com/blog/ "AppliTools")
-
-- [QABlog](https://qablog.practitest.com/ "QABlog")
-
-- [Rainforest](https://www.rainforestqa.com/blog "RainForest")
-
-- [Blog-apptim](https://blog.apptim.com/ "Blog-apptim")
-
-- [TestandCode](https://testandcode.com/ "TestandCode")
-
-- [GlobalAPPTesting](https://www.globalapptesting.com/blog "GlobalAPPTesting")
-
-- [Naveenautomationlabs](https://naveenautomationlabs.com/ "naveenautomationlabs")
-
-- [Learn-Automation](https://learn-automation.com/ "Learn-Automation")
-
-- [Blog-TestProject](https://blog.testproject.io/ "Blog-TestProject")
-
-- [Softwaretestingmaterial](https://www.softwaretestingmaterial.com/ "softwaretestingmaterial")
-
-- [ToolsQA](https://toolsqa.com/ "ToolsQA")
-
-- [lambdaTest](https://www.lambdatest.com/blog/ "lambdaTest")
-
-
-
+| Nombre                                                                                                               | Idioma  |
+| -------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Federico-toledo.com](https://www.federico-toledo.com/category/blog/ "Federico-toledo.com")                        | ![es] |
+| [Nadiacavalleri.com.ar](https://nadiacavalleri.com.ar/blog/ "Nadiacavalleri.com.ar")                               | ![es] |
+| [Freerangetesters.com](https://www.freerangetesters.com/blog "freerangetesters.com")                               | ![es] |
+| [Testingbaires.com](https://testingbaires.com/blog/ "testingbaires.com")                                           | ![es] |
+| [QAlovers.com](https://www.qalovers.com/search?updated-max=max-results=6 "QAlovers.com")                           | ![es] |
+| [CL.abstracta.us](https://cl.abstracta.us/blog/ "cl.abstracta.us")                                                 | ![es] |
+| [Unaqaenapuros.wordpress.com](https://unaqaenapuros.wordpress.com/ "unaqaenapuros.wordpress.com")                  | ![es] |
+| [Alexanderandrade.net](https://alexanderandrade.net/blog/#.Ydhg8WjMLIU "alexanderandrade.net")                     | ![es] |
+| [Aftertest.es](https://www.aftertest.es/ "aftertest.es")                                                           | ![es] |
+| [Jmeterenespanol.org](https://jmeterenespanol.org/blog/ "jmeterenespanol.org")                                     | ![es] |
+| [QA.rocks](https://qa.rocks/ "qa.rocks")                                                                           | ![es] |
+| [QAjungle.com](https://qajungle.com/ "qajungle.com")                                                               | ![es] |
+| [Elblogdesanti.com](https://elblogdesanti.com/ciencia-y-tecnologia/testing-automatizado/ "elblogdesanti.com")      | ![es] |
+| [Elminimoviable.es](https://elminimoviable.es/ "elminimoviable.es")                                                | ![es] |
+| [Blog.winstoncastillo.com](https://blog.winstoncastillo.com/ "blog.winstoncastillo.com")                           | ![es] |
+| [Testing-tips-by-alfred-tejeda](https://testing-tips-by-alfred-tejeda.super.site/ "testing-tips-by-alfred-tejeda") | ![es] |
+| [OlgaCarreras](https://olgacarreras.blogspot.com/ "OlgaCarreras")                                                  | ![es] |
+| [QAnews](https://qanewsblog.com/ "QAnews")                                                                         | ![es] |
+| [Ministryoftesting.com](https://www.ministryoftesting.com/dojo "ministryoftesting.com")                            | ![en] |
+| [Testguild.com](https://testguild.com/ "testguild.com")                                                            | ![en] |
+| [Ek121268](https://ek121268.medium.com/)                                                                           | ![en] |
+| [ContinuosTesting](https://continuoustesting.dev/ "ContinuosTesting")                                              | ![en] |
+| [Satisfice](https://www.satisfice.com/blog/ "Satisfice")                                                           | ![en] |
+| [SoftwareTester](https://www.softwaretester.blog/ "SoftwareTester")                                                | ![en] |
+| [AutomationPanda](https://automationpanda.com/ "AutomationPanda")                                                  | ![en] |
+| [Guru99](https://www.guru99.com/software-testing.html "Guru99")                                                    | ![en] |
+| [AngieJones](https://angiejones.tech/ "AngieJones")                                                                | ![en] |
+| [AppliTools](https://applitools.com/blog/ "AppliTools")                                                            | ![en] |
+| [QABlog](https://qablog.practitest.com/ "QABlog")                                                                  | ![en] |
+| [Rainforest](https://www.rainforestqa.com/blog "RainForest")                                                       | ![en] |
+| [Blog-apptim](https://blog.apptim.com/ "Blog-apptim")                                                              | ![en] |
+| [TestandCode](https://testandcode.com/ "TestandCode")                                                              | ![en] |
+| [GlobalAPPTesting](https://www.globalapptesting.com/blog "GlobalAPPTesting")                                       | ![en] |
+| [Naveenautomationlabs](https://naveenautomationlabs.com/ "naveenautomationlabs")                                   | ![en] |
+| [Learn-Automation](https://learn-automation.com/ "Learn-Automation")                                               | ![en] |
+| [Blog-TestProject](https://blog.testproject.io/ "Blog-TestProject")                                                | ![en] |
+| [Softwaretestingmaterial](https://www.softwaretestingmaterial.com/ "softwaretestingmaterial")                      | ![en] |
+| [ToolsQA](https://toolsqa.com/ "ToolsQA")                                                                          | ![en] |
+| [lambdaTest](https://www.lambdatest.com/blog/ "lambdaTest")                                                        | ![en] |
 
 
 
