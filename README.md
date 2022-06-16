@@ -213,32 +213,18 @@ ESP & ENG | ![es] | ![en]
 # Podcast ![Podcast](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/podcast.png "Podcast")
 
 
-#### ESP
-
-- [La Escuela del Testing](https://www.laescueladeltesting.com/podcast "La Escuela del Testing")
-
-
-- [PerfBytes](https://www.spreaker.com/show/perfbytes-esp "PerfBytes")
-
-
-- [QAFE Talks:](https://open.spotify.com/show/1SZSBczwlq7jqDYr1UQYmm "QAFE Talks:")
-
-
-- [Testers por el mundo:](https://open.spotify.com/show/6iKsfKfotb73t7jYCpygst?si=1de643ceaec842a0&nd=1 "Testers por el mundo:")
-
-#### ENG
-
-- [Ministry of Testing](https://www.ministryoftesting.com/dojo/podcasts "Ministry of Testing")
-
--  [Softwaretestingpodcast](https://www.softwaretestingpodcast.com/ "Softwaretestingpodcast")
-
-- [Quality Sense Podcast (Federico Toledo, Abstracta)](https://abstracta.us/software-testing-podcast "Quality Sense Podcast (Federico Toledo, Abstracta)")
-
-- [TestGuild](https://testguild.com/podcasts/ "TestGuild")
-
-- [Testingpeers](https://testingpeers.com/ "Testingpeers")
-
-- [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI "AB Testing")
+| Nombre                                                                                                                                                     | Idioma  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [La Escuela del Testing](https://www.laescueladeltesting.com/podcast "La Escuela del Testing")                                                           | ![es] |
+| [PerfBytes](https://www.spreaker.com/show/perfbytes-esp "PerfBytes")                                                                                     | ![es] |
+| [QAFE Talks:](https://open.spotify.com/show/1SZSBczwlq7jqDYr1UQYmm "QAFE Talks:")                                                                        | ![es] |
+| [Testers por el mundo:](https://open.spotify.com/show/6iKsfKfotb73t7jYCpygst?si=1de643ceaec842a0&nd=1 "Testers por el mundo:")                           | ![es] |
+| [Ministry of Testing](https://www.ministryoftesting.com/dojo/podcasts "Ministry of Testing")                                                             | ![en] |
+| [Softwaretestingpodcast](https://www.softwaretestingpodcast.com/ "Softwaretestingpodcast")                                                               | ![en] |
+| [Quality Sense Podcast (Federico Toledo, Abstracta)](https://abstracta.us/software-testing-podcast "Quality Sense Podcast (Federico Toledo, Abstracta)") | ![en] |
+| [TestGuild](https://testguild.com/podcasts/ "TestGuild")                                                                                                 | ![en] |
+| [Testingpeers](https://testingpeers.com/ "Testingpeers")                                                                                                 | ![en] |
+| [AB Testing](https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI "AB Testing")                                                                          | ![en] |
 
 <a name="Slack"></a>
 # Slack ![Slack](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/slack.png "Slack")
