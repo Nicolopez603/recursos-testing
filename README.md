@@ -229,19 +229,13 @@ ESP & ENG | ![es] | ![en]
 <a name="Slack"></a>
 # Slack ![Slack](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/slack.png "Slack")
 
-#### ESP
-
-- [UNDER-TEST](https://join.slack.com/t/under--test/shared_invite/zt-meihwyk0-hNDdioGXUvQewyJkzoJWlw "[UNDER-TEST]")
-
-- [TESTINGAR](https://webtask.it.auth0.com/api/run/wt-ignacio_esmite-auth0_com-0/testingar-signup?webtask_no_cache=1 "TESTINGAR")
-
-- [UPEX](https://upexqa.slack.com/join/shared_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ "[UPEX]")
-
-#### ENG
-
-- [MinistryOfTesting](https://www.ministryoftesting.com/slack_invite "MinistryOfTesting")
-
-- [TAU](https://testautomationu.slack.com/signup#/domain-signup "TAU")
+| Nombre                                                                                                                                | Idioma  |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [UNDER-TEST](https://join.slack.com/t/under--test/shared\_invite/zt-meihwyk0-hNDdioGXUvQewyJkzoJWlw "\[UNDER-TEST\]")               | ![es] |
+| [TESTINGAR](https://webtask.it.auth0.com/api/run/wt-ignacio\_esmite-auth0\_com-0/testingar-signup?webtask\_no\_cache=1 "TESTINGAR") | ![es] |
+| [UPEX](https://upexqa.slack.com/join/shared\_invite/zt-w30bb0bm-cd2omEBFDD0sO9NY3BQ4tQ "\[UPEX\]")                                  | ![es] |
+| [MinistryOfTesting](https://www.ministryoftesting.com/slack\_invite "MinistryOfTesting")                                            | ![en] |
+| [TAU](https://testautomationu.slack.com/signup#/domain-signup "TAU")                                                                | ![en] |
 
 <a name="Discord"></a>
 # Discord ![Discord](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/discord.png "Discord")
