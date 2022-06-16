@@ -240,11 +240,10 @@ ESP & ENG | ![es] | ![en]
 <a name="Discord"></a>
 # Discord ![Discord](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/discord.png "Discord")
 
-#### ESP
-
-- [Test Automation - Charly Automatiza](https://discord.com/invite/wwM9GwxmRZ "Test Automation - Charly Automatiza")
-
-- [ Free Range Testers](https://discord.gg/FQm7kuzqrj " Free Range Testers")
+| Nombre                                                                                                               | Idioma  |
+| -------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Test Automation - Charly Automatiza](https://discord.com/invite/wwM9GwxmRZ "Test Automation - Charly Automatiza") | ![es] |
+| [ Free Range Testers](https://discord.gg/FQm7kuzqrj " Free Range Testers")                                         | ![es] |
 
 
 <a name="Talks-Webinars"></a>
@@ -465,8 +464,6 @@ Una API con países y su información.
 
 #### `Roadmap`
 
-#### `Puntos claves`
-
 
 ### Introduccion:
 
@@ -495,19 +492,6 @@ Una API con países y su información.
 
 ---------------------------
 
-### Puntos claves
-
-- No confíe en un código de prueba que no vio fallar.
-
-- Comprender las pruebas de software es la clave: nos sirve  para tener las bases y poder transicionar a la automatización.
-
-- La automatización no es más que documentar pruebas escritas manualmente y diseñarlas de manera que el código sea legible, comprensible y reutilizable.
-
-- Asegúrese de que su código de prueba realmente esté probando algo.
-
-- 200~OK no siempre está bien.
-
-- Guarda evidencia de tus pruebas. Independientemente si fallan o no, es importante poder demostrar que cuando probaste el software obtuviste cierto resultado.
 <a name="Herramientas"></a>
 # Herramientas - Tools ![Herramientas](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/herramientas.png "Herramientas")
 
