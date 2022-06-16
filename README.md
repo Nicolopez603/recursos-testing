@@ -247,21 +247,17 @@ ESP & ENG | ![es] | ![en]
 
 
 <a name="Talks-Webinars"></a>
-# Talks, Webinars ![Webinar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/webinars.png "Webinar")
+# Talks & Webinars ![Webinar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/webinars.png "Webinar")
 
-#### ESP
-
-- [Test Talks](https://vimeo.com/showcase/5479902 "Test Talks")
-
-- [Mendoza Testing Day ](https://www.youtube.com/channel/UCBoEIY6cBx3g4uCvJchoDYA/videos "Mendoza Testing Day ")
-
-- [Testing CR](https://www.youtube.com/channel/UC6STAETOFgTtd3i4FRbYsHw/videos "Testing CR")
-
-- [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")
-
-#### ENG
-
-- [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU "Open Lecture by James Bach on Software Testing")
+| Nombre                                                                                                                                                                      | Idioma  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Test Talks](https://vimeo.com/showcase/5479902 "Test Talks")                                                                                                             | ![es] |
+| [Mendoza Testing Day ](https://www.youtube.com/channel/UCBoEIY6cBx3g4uCvJchoDYA/videos "Mendoza Testing Day ")                                                            | ![es] |
+| [Testing CR](https://www.youtube.com/channel/UC6STAETOFgTtd3i4FRbYsHw/videos "Testing CR")                                                                                | ![es] |
+| [QA-ctions](https://www.youtube.com/channel/UC5NOWNyEu-OczYrGWQ0i8nw/videos "QA-ctions")                                                                                  | ![es] |
+| [Open Lecture by James Bach on Software Testing](https://www.youtube.com/watch?v=ILkT\_HV9DVU "Open Lecture by James Bach on Software Testing")                           | ![en] |
+| [Let's test with James Bach: Episode 7 - Slack Notifications](https://www.youtube.com/watch?v=87Wle\_VLyJ8 "Let's test with James Bach: Episode 7 - Slack Notifications") | ![en] |
+| [Introduction to Rapid Software Testing Course - James Bach](https://www.youtube.com/watch?v=xaqagFHNF3A "Introduction to Rapid Software Testing Course")                 | ![en] |
 
 <a name="Paginas-para-practicar"></a>
 # Material para practicar -  Material to practice ![paginas-practicar](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/paginas-practicar.png "paginas-practicar")
