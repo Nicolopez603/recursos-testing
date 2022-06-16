@@ -516,39 +516,42 @@ Una API con países y su información.
 <a name="Cursos-Gratuitos"></a>
 # Cursos &  Tutoriales Gratuitos - Free courses and tutorials ![Curso-Icon](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/curso-gratuito.png "Curso-Icon")
 
-#### ESP
 
-Manual | Automation |
-------------- | ------------- |
-[Curso: API al Grano](https://www.youtube.com/watch?v=OFnXHvK2A0I&list=PLLYWsphuMYKvII5bbgZKbSHLQzg2_MrK0 "Curso: API al Grano")  | [Curso: Automatizando API con Python](https://www.youtube.com/watch?v=6r2M1FEMauw&list=PLjM3-neCG6qzdWgTNCszZTBwVG7Ob75S- "Curso: Automatizando API con Python")
-[Curso: Documentacion en Testing](https://www.youtube.com/watch?v=laawNIdX9js&list=PLWkxwEHYPPt0SNGj4h-FCMm5VZYCYhPT9 "- Curso: Documentacion en Testing") |  [Tutorial: Appium + WebDriverIO](https://www.youtube.com/watch?v=rWada6_2p6U "Tutorial: Appium + WebDriverIO")
-[Curso: SQL](https://www.youtube.com/playlist?list=PLD7eg3qMJCTGGAeI8uleZW0S1dIPpf83O "Curso de SQL") |  [Curso: Cypress](https://www.youtube.com/watch?v=drzcQ3Tt1hU&list=PLjM3-neCG6qxbI9lGKq2i0Co4kkAPWI0a "Curso: Cypress")
-[Curso: Basico de T-SQL](https://www.youtube.com/playlist?list=PLvvCS7ui1Q64ZMPk27cK9IMwjtGlGxUuS "Curso Basico de T-SQL") | [Tutorial: Cypress: Web Testing desde 0](https://www.youtube.com/watch?v=IPn4Qo9GokE&t=3329s "Cypress: Web Testing desde 0")
-[Curso: Jira](https://www.youtube.com/watch?v=qu5A7KUuuMA&list=PLLYWsphuMYKsE9rW_NDwmEoEYnfi99LdO "Curso: Jira") | [Tutorial: Github  Actions: Desde 0](https://www.youtube.com/watch?v=cVfx7GWC-yk "Github  Actions: Desde 0")
-[Curso: Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp "Curso: Jira") |  [Curso: JMeter desde 0](https://www.youtube.com/watch?v=E2zwM8s7thY&list=PLWkxwEHYPPt2pHcsxG7MSmgt5Z5NlBq39 "Curso: Jmeter desde 0")
-[Curso: Testing Manual](https://www.youtube.com/watch?v=9zXC5fz3QtA&list=PLqjBJxfhRo93lBtxw4wiGN5HTNNstdNfT "Curso de Testing Manual")  |[Tutorial: Postman + Newman](https://www.youtube.com/watch?v=G3Y9LVbS8rY "Postman + Newman")
-[ISTQB - Foundation Level](https://www.youtube.com/playlist?list=PL2TAY4y5YTPX7Vi8UuOMCOLe0b47T4qHe "ISTQB - Foundation level") | [Tutorial: RestAssured: API Test](https://www.youtube.com/watch?v=gNTOF4Th7X0 "Tutorial: RestAssured: API Test")
-[-] |  [Curso: Selenium Con Python](https://www.youtube.com/watch?v=g0hiM8ZVPMg&list=PLjM3-neCG6qx4RFeq2X-TpWS_tJTk1qZP "Curso de Selenium Con Python")
-[-] |  [Curso: Selenium con Java](https://www.youtube.com/watch?v=sZJdlrV2sds&list=PLjM3-neCG6qwYzuAGvZrRnhJ2tt-4WiG4 "Curso: Selenium con Java")
-[-] | [Curso: Selenium con Java](https://www.youtube.com/watch?v=a3rWDWKOAeM&list=PLFtvtw0C6QkOJllm_tx03rLZFNlO0juth "Curso: Selenium con Java")
-[-] | [Curso: TestNG](https://www.youtube.com/watch?v=ziBk-qh6VjU&list=PLjM3-neCG6qzUz5uX8c_L0AodhJdTn3Tp "Curso: TestNG")
-[-] | [Curso: UnitTest](https://www.youtube.com/watch?v=1UtkZHHOBWo&list=PLjM3-neCG6qzC-1vbOoEHMGT3kkhrnfCt "Curso: UnitTest")
+
+| Manual                                                                                                                                                       | Idioma  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Curso: API al Grano](https://www.youtube.com/watch?v=OFnXHvK2A0I&list=PLLYWsphuMYKvII5bbgZKbSHLQzg2\_MrK0 "Curso: API al Grano")                          | ![es] |
+| [Curso: Documentacion en Testing](https://www.youtube.com/watch?v=laawNIdX9js&list=PLWkxwEHYPPt0SNGj4h-FCMm5VZYCYhPT9 "- Curso: Documentacion en Testing") | ![es] |
+| [Curso: SQL](https://www.youtube.com/playlist?list=PLD7eg3qMJCTGGAeI8uleZW0S1dIPpf83O "Curso de SQL")                                                      | ![es] |
+| [Curso: Basico de T-SQL](https://www.youtube.com/playlist?list=PLvvCS7ui1Q64ZMPk27cK9IMwjtGlGxUuS "Curso Basico de T-SQL")                                 | ![es] |
+| [Curso: Jira](https://www.youtube.com/watch?v=qu5A7KUuuMA&list=PLLYWsphuMYKsE9rW\_NDwmEoEYnfi99LdO "Curso: Jira")                                          | ![es] |
+| [Curso: Jira para Testers](https://www.youtube.com/watch?v=LeRxpTy-eNU&list=PLqjBJxfhRo93j22-HMybkUriF86hPhyQp "Curso: Jira")                              | ![es] |
+| [Curso: Testing Manual](https://www.youtube.com/watch?v=9zXC5fz3QtA&list=PLqjBJxfhRo93lBtxw4wiGN5HTNNstdNfT "Curso de Testing Manual")                     | ![es] |
+| [ISTQB - Foundation Level](https://www.youtube.com/playlist?list=PL2TAY4y5YTPX7Vi8UuOMCOLe0b47T4qHe "ISTQB - Foundation level")                            | ![es] |
 
 
 
-
-
-#### ENG
-
-Manual | Automation
-------------- | ----------
-[-] | [Course Cypress](https://www.youtube.com/watch?v=uIX8nHBfo-o&list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb "Course Cypress:")
-[-] | [Course: Docker](https://www.youtube.com/watch?v=5I6AKxrCHBI&list=PLYDwWPRvXB8-XKYMt3BDOjyGgdwOwIubc "Course: Docker")
-[-] | [Course: Jenkins](https://www.youtube.com/watch?v=3Ax9bcj3OrM&list=PLYDwWPRvXB89p_NxZJSjsldRR0vUdv3-g "Course: Jenkins")
-[-] | [Course: Postman](https://www.youtube.com/watch?v=imwPHA7bXDM&list=PLYDwWPRvXB8-3QhgZvW1xOE-T-I2W7iDx "Course: Postman")
-[-] | [Course: TestCafe](https://www.youtube.com/watch?v=wbJZd9CuVM4&list=PLYDwWPRvXB8_TDgPmQyMNjN6gaI8yS7KQ "Course: TestCafe")
-[-] | [Multiple-Courses: TAU](https://testautomationu.applitools.com/ "Multiple-Courses: TAU")
-[-] | [Multiple-Courses: AutomationStepByStep](https://automationstepbystep.com/ "Multiple-Courses: AutomationStepByStep")
+| Automation                                                                                                                                                         | Idioma  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Curso: Automatizando API con Python](https://www.youtube.com/watch?v=6r2M1FEMauw&list=PLjM3-neCG6qzdWgTNCszZTBwVG7Ob75S- "Curso: Automatizando API con Python") | ![es] |
+|  [Tutorial: Appium + WebDriverIO](https://www.youtube.com/watch?v=rWada6\_2p6U "Tutorial: Appium + WebDriverIO")                                                 | ![es] |
+| [Curso: Cypress](https://www.youtube.com/watch?v=drzcQ3Tt1hU&list=PLjM3-neCG6qxbI9lGKq2i0Co4kkAPWI0a "Curso: Cypress")                                           | ![es] |
+| [Tutorial: Cypress: Web Testing desde 0](https://www.youtube.com/watch?v=IPn4Qo9GokE&t=3329s "Cypress: Web Testing desde 0")                                     | ![es] |
+| [Tutorial: Github  Actions: Desde 0](https://www.youtube.com/watch?v=cVfx7GWC-yk "Github  Actions: Desde 0")                                                    | ![es] |
+| [Curso: JMeter desde 0](https://www.youtube.com/watch?v=E2zwM8s7thY&list=PLWkxwEHYPPt2pHcsxG7MSmgt5Z5NlBq39 "Curso: Jmeter desde 0")                             | ![es] |
+| [Tutorial: Postman + Newman](https://www.youtube.com/watch?v=G3Y9LVbS8rY "Postman + Newman")                                                                    | ![es] |
+| [Tutorial: RestAssured: API Test](https://www.youtube.com/watch?v=gNTOF4Th7X0 "Tutorial: RestAssured: API Test")                                                 | ![es] |
+| [Curso: Selenium Con Python](https://www.youtube.com/watch?v=g0hiM8ZVPMg&list=PLjM3-neCG6qx4RFeq2X-TpWS\_tJTk1qZP "Curso de Selenium Con Python")                | ![es] |
+| [Curso: Selenium con Java](https://www.youtube.com/watch?v=sZJdlrV2sds&list=PLjM3-neCG6qwYzuAGvZrRnhJ2tt-4WiG4 "Curso: Selenium con Java")                       | ![es] |
+| [Curso: TestNG](https://www.youtube.com/watch?v=ziBk-qh6VjU&list=PLjM3-neCG6qzUz5uX8c\_L0AodhJdTn3Tp "Curso: TestNG")                                            | ![es] |
+| [Curso: UnitTest](https://www.youtube.com/watch?v=1UtkZHHOBWo&list=PLjM3-neCG6qzC-1vbOoEHMGT3kkhrnfCt "Curso: UnitTest")                                         | ![es] |
+| [Course Cypress](https://www.youtube.com/watch?v=uIX8nHBfo-o&list=PLYDwWPRvXB8-8LG2hZv25HO6C3w\_vezZb "Course Cypress:")                                         | ![en] |
+| [Course: Docker](https://www.youtube.com/watch?v=5I6AKxrCHBI&list=PLYDwWPRvXB8-XKYMt3BDOjyGgdwOwIubc "Course: Docker")                                           | ![en] |
+| [Course: Jenkins](https://www.youtube.com/watch?v=3Ax9bcj3OrM&list=PLYDwWPRvXB89p\_NxZJSjsldRR0vUdv3-g "Course: Jenkins")                                        | ![en] |
+| [Course: Postman](https://www.youtube.com/watch?v=imwPHA7bXDM&list=PLYDwWPRvXB8-3QhgZvW1xOE-T-I2W7iDx "Course: Postman")                                         | ![en] |
+| [Course: TestCafe](https://www.youtube.com/watch?v=wbJZd9CuVM4&list=PLYDwWPRvXB8\_TDgPmQyMNjN6gaI8yS7KQ "Course: TestCafe")                                      | ![en] |
+| [Multiple-Courses: TAU](https://testautomationu.applitools.com/ "Multiple-Courses: TAU")                                                                         | ![en] |
+| [Multiple-Courses: AutomationStepByStep](https://automationstepbystep.com/ "Multiple-Courses: AutomationStepByStep")                                             | ![en] |
 
 
 
