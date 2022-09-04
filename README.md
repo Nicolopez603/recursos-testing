@@ -96,7 +96,7 @@ ESP & ENG | ![es] | ![en]
 | QA Minds           |                                                        | [![youtube]](https://www.youtube.com/c/QAMINDS/videos)                         |                                                                     | [![linkedin]](https://www.linkedin.com/company/qamindslab/)          | ![es] |
 | ArgenTesting       |                                                        | [![youtube]](https://www.youtube.com/c/Argentesting/videos)                    |                                                                     | [![linkedin]](https://www.linkedin.com/company/argentesting/)        | ![es] |
 | TestingUY          | [![twitter]](https://twitter.com/testingUY)        | [![youtube]](https://www.youtube.com/c/TestingUy/videos)                       |                                                                     | [![linkedin]](https://www.linkedin.com/company/testinguy/)           | ![es] |
-
+| Guillermo Marchebout | [![twitter]](https://twitter.com/marchebout90) | [![youtube]](https://www.youtube.com/channel/UCxeIAbR_YnUqB09qcApkofg) | | | ![es] |
 
 <a name="Paginas-Blog-Informativos"></a>
 # Paginas & Blogs - Websites and blogs ![Blogs](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/blog.png "Blogs")
