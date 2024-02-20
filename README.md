@@ -459,8 +459,6 @@ Una API con países y su información.
 
 #### `Introducción`
 
-#### `Plan de Prueba`
-
 #### `Roadmap`
 
 
@@ -473,21 +471,9 @@ Una API con países y su información.
 - A continuación, puede encontrar el camino para la curva de aprendizaje de pruebas de software y control de calidad que podría necesitar para comenzar el viaje.
 
 
-### Plan de Prueba
-
-- Uno de los documentos más importantes que debe generar el equipo de control de calidad es el plan de prueba, ya que el equipo actuará a ciegas sin él; no conocer los criterios, el punto de partida o incluso cuándo realizar diferentes tipos de pruebas puede poner en riesgo toda la entrega y causar una mala entrega de código
-
-- Las secciones y el contenido del plan de prueba pueden variar según el proyecto y la naturaleza de la entrega, por lo tanto, el PDF del plan de prueba adjunto se considera genérico que sirve para todos los propósitos de entrega de pruebas de software.
-
-- El PDF adjunto se puede encontrar aquí [ test_plan_sample.pdf](https://github.com/fityanos/awesome-quality-assurance-roadmap/blob/master/Test_Plan_Sample.pdf " test_plan_sample.pdf") for downloading.
-
-
 ### Roadmap
 
-![QA Engineer Road Map](https://camo.githubusercontent.com/effe849f04d06ebe638665981252a21d0edd2d0dd532130f3dac1598e87f191b/68747470733a2f2f692e696d6775722e636f6d2f634d39634d38542e706e67 "QA Engineer Road Map")
-
-
-![QA Engineer Road Map 2022](https://camo.githubusercontent.com/38dfd499f2713b4629cfe7e9eb17ceecb79dd693c91c7d61091643322602de23/68747470733a2f2f692e696d6775722e636f6d2f6d656f64414b702e706e67)
+![QA Engineer Road Map 2022](https://i.imgur.com/DAJ0hsw.png)
 
 ---------------------------
 
