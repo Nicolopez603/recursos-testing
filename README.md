@@ -436,6 +436,9 @@ Cree su propia API personalizada de corta duración.
 - [randomuser.me](https://randomuser.me/ "randomuser.me")
 API que genera datos de usuario aleatorios.
 
+- [DataMockSeed](https://datamockseed.firstflip.es?utm_source=recursos-testing "DataMockSeed")
+Generador gratuito de datos de prueba ficticios (DNI/NIE/CIF, IBAN, tarjetas, teléfonos) con dígitos de control válidos y semillas reproducibles. Incluye API REST sin registro.
+
 - [Pokemon API](https://pokeapi.co/ "Pokemon API")
 Restful API útil para explorar o agregar comprobaciones automáticas.
 
